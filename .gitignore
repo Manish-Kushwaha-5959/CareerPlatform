@@ -37,7 +37,11 @@ Backend/venv/
 
 # Environment variables files
 .env
+<<<<<<< HEAD
 */.env
+=======
+*.env
+>>>>>>> 07b57de5e6a694d16d3b104e8c441745d34988c2
 
 # Python build cache
 **/__pycache__/

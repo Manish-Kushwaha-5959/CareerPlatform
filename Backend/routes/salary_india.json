@@ -1,0 +1,557 @@
+{
+  "Software Developer": {
+    "range_in_inr_per_annum": "3,00,000 - 12,00,000"
+  },
+  "Data Analyst": {
+    "range_in_inr_per_annum": "4,00,000 - 12,00,000"
+  },
+  "Data Scientist": {
+    "range_in_inr_per_annum": "6,00,000 - 25,00,000"
+  },
+  "Machine Learning Engineer": {
+    "range_in_inr_per_annum": "8,00,000 - 30,00,000"
+  },
+  "AI Researcher": {
+    "range_in_inr_per_annum": "2,00,000 - 10,00,000"
+  },
+  "Product Manager": {
+    "range_in_inr_per_annum": "2,00,000 - 10,00,000"
+  },
+  "UX/UI Designer": {
+    "range_in_inr_per_annum": "2,00,000 - 10,00,000"
+  },
+  "Graphic Designer": {
+    "range_in_inr_per_annum": "2,00,000 - 10,00,000"
+  },
+  "Web Developer": {
+    "range_in_inr_per_annum": "2,00,000 - 10,00,000"
+  },
+  "Mobile App Developer": {
+    "range_in_inr_per_annum": "2,00,000 - 10,00,000"
+  },
+  "DevOps Engineer": {
+    "range_in_inr_per_annum": "2,00,000 - 10,00,000"
+  },
+  "IT Systems Administrator": {
+    "range_in_inr_per_annum": "2,00,000 - 10,00,000"
+  },
+  "Cybersecurity Analyst": {
+    "range_in_inr_per_annum": "2,00,000 - 10,00,000"
+  },
+  "Network Engineer": {
+    "range_in_inr_per_annum": "2,00,000 - 10,00,000"
+  },
+  "Database Administrator": {
+    "range_in_inr_per_annum": "2,00,000 - 10,00,000"
+  },
+  "Mechanical Engineer": {
+    "range_in_inr_per_annum": "2,00,000 - 10,00,000"
+  },
+  "Electrical Engineer": {
+    "range_in_inr_per_annum": "2,00,000 - 10,00,000"
+  },
+  "Civil Engineer": {
+    "range_in_inr_per_annum": "2,00,000 - 10,00,000"
+  },
+  "Chemical Engineer": {
+    "range_in_inr_per_annum": "2,00,000 - 10,00,000"
+  },
+  "Environmental Engineer": {
+    "range_in_inr_per_annum": "2,00,000 - 10,00,000"
+  },
+  "Robotics Engineer": {
+    "range_in_inr_per_annum": "2,00,000 - 10,00,000"
+  },
+  "Automobile Engineer": {
+    "range_in_inr_per_annum": "2,00,000 - 10,00,000"
+  },
+  "Aerospace Engineer": {
+    "range_in_inr_per_annum": "2,00,000 - 10,00,000"
+  },
+  "Biomedical Engineer": {
+    "range_in_inr_per_annum": "2,00,000 - 10,00,000"
+  },
+  "Industrial Engineer": {
+    "range_in_inr_per_annum": "2,00,000 - 10,00,000"
+  },
+  "Chartered Accountant": {
+    "range_in_inr_per_annum": "2,00,000 - 10,00,000"
+  },
+  "Financial Analyst": {
+    "range_in_inr_per_annum": "2,00,000 - 10,00,000"
+  },
+  "Investment Banker": {
+    "range_in_inr_per_annum": "2,00,000 - 10,00,000"
+  },
+  "Banker": {
+    "range_in_inr_per_annum": "2,00,000 - 10,00,000"
+  },
+  "Insurance Underwriter": {
+    "range_in_inr_per_annum": "2,00,000 - 10,00,000"
+  },
+  "Tax Consultant": {
+    "range_in_inr_per_annum": "2,00,000 - 10,00,000"
+  },
+  "Auditor": {
+    "range_in_inr_per_annum": "2,00,000 - 10,00,000"
+  },
+  "Business Analyst": {
+    "range_in_inr_per_annum": "2,00,000 - 10,00,000"
+  },
+  "Management Consultant": {
+    "range_in_inr_per_annum": "2,00,000 - 10,00,000"
+  },
+  "Operations Manager": {
+    "range_in_inr_per_annum": "2,00,000 - 10,00,000"
+  },
+  "Marketing Manager": {
+    "range_in_inr_per_annum": "2,00,000 - 10,00,000"
+  },
+  "Digital Marketer": {
+    "range_in_inr_per_annum": "2,00,000 - 10,00,000"
+  },
+  "Content Strategist": {
+    "range_in_inr_per_annum": "2,00,000 - 10,00,000"
+  },
+  "SEO Specialist": {
+    "range_in_inr_per_annum": "2,00,000 - 10,00,000"
+  },
+  "Social Media Manager": {
+    "range_in_inr_per_annum": "2,00,000 - 10,00,000"
+  },
+  "Sales Executive": {
+    "range_in_inr_per_annum": "2,00,000 - 10,00,000"
+  },
+  "Business Development Manager": {
+    "range_in_inr_per_annum": "2,00,000 - 10,00,000"
+  },
+  "Customer Success Manager": {
+    "range_in_inr_per_annum": "2,00,000 - 10,00,000"
+  },
+  "Retail Manager": {
+    "range_in_inr_per_annum": "2,00,000 - 10,00,000"
+  },
+  "E-commerce Manager": {
+    "range_in_inr_per_annum": "2,00,000 - 10,00,000"
+  },
+  "Teacher / Lecturer": {
+    "range_in_inr_per_annum": "2,00,000 - 10,00,000"
+  },
+  "Professor": {
+    "range_in_inr_per_annum": "2,00,000 - 10,00,000"
+  },
+  "Academic Researcher": {
+    "range_in_inr_per_annum": "2,00,000 - 10,00,000"
+  },
+  "Educational Counselor": {
+    "range_in_inr_per_annum": "2,00,000 - 10,00,000"
+  },
+  "School Administrator": {
+    "range_in_inr_per_annum": "2,00,000 - 10,00,000"
+  },
+  "Nurse": {
+    "range_in_inr_per_annum": "2,00,000 - 10,00,000"
+  },
+  "Physician (Doctor)": {
+    "range_in_inr_per_annum": "2,00,000 - 10,00,000"
+  },
+  "Surgeon": {
+    "range_in_inr_per_annum": "2,00,000 - 10,00,000"
+  },
+  "Pharmacist": {
+    "range_in_inr_per_annum": "2,00,000 - 10,00,000"
+  },
+  "Physiotherapist": {
+    "range_in_inr_per_annum": "2,00,000 - 10,00,000"
+  },
+  "Dentist": {
+    "range_in_inr_per_annum": "2,00,000 - 10,00,000"
+  },
+  "Veterinarian": {
+    "range_in_inr_per_annum": "2,00,000 - 10,00,000"
+  },
+  "Clinical Psychologist": {
+    "range_in_inr_per_annum": "2,00,000 - 10,00,000"
+  },
+  "Counselor": {
+    "range_in_inr_per_annum": "2,00,000 - 10,00,000"
+  },
+  "Social Worker": {
+    "range_in_inr_per_annum": "2,00,000 - 10,00,000"
+  },
+  "Lawyer": {
+    "range_in_inr_per_annum": "2,00,000 - 10,00,000"
+  },
+  "Legal Advisor": {
+    "range_in_inr_per_annum": "2,00,000 - 10,00,000"
+  },
+  "Paralegal": {
+    "range_in_inr_per_annum": "2,00,000 - 10,00,000"
+  },
+  "Judge": {
+    "range_in_inr_per_annum": "2,00,000 - 10,00,000"
+  },
+  "Compliance Officer": {
+    "range_in_inr_per_annum": "2,00,000 - 10,00,000"
+  },
+  "Human Resources Manager": {
+    "range_in_inr_per_annum": "2,00,000 - 10,00,000"
+  },
+  "Recruiter": {
+    "range_in_inr_per_annum": "2,00,000 - 10,00,000"
+  },
+  "Training & Development Specialist": {
+    "range_in_inr_per_annum": "2,00,000 - 10,00,000"
+  },
+  "Organizational Psychologist": {
+    "range_in_inr_per_annum": "2,00,000 - 10,00,000"
+  },
+  "HRBP": {
+    "range_in_inr_per_annum": "2,00,000 - 10,00,000"
+  },
+  "Journalist": {
+    "range_in_inr_per_annum": "2,00,000 - 10,00,000"
+  },
+  "Editor": {
+    "range_in_inr_per_annum": "2,00,000 - 10,00,000"
+  },
+  "Content Writer": {
+    "range_in_inr_per_annum": "2,00,000 - 10,00,000"
+  },
+  "Copywriter": {
+    "range_in_inr_per_annum": "2,00,000 - 10,00,000"
+  },
+  "Translator": {
+    "range_in_inr_per_annum": "2,00,000 - 10,00,000"
+  },
+  "Photographer": {
+    "range_in_inr_per_annum": "2,00,000 - 10,00,000"
+  },
+  "Filmmaker": {
+    "range_in_inr_per_annum": "2,00,000 - 10,00,000"
+  },
+  "Video Editor": {
+    "range_in_inr_per_annum": "2,00,000 - 10,00,000"
+  },
+  "Animator": {
+    "range_in_inr_per_annum": "2,00,000 - 10,00,000"
+  },
+  "Sound Engineer": {
+    "range_in_inr_per_annum": "2,00,000 - 10,00,000"
+  },
+  "Event Manager": {
+    "range_in_inr_per_annum": "2,00,000 - 10,00,000"
+  },
+  "Hotel Manager": {
+    "range_in_inr_per_annum": "2,00,000 - 10,00,000"
+  },
+  "Travel Manager": {
+    "range_in_inr_per_annum": "2,00,000 - 10,00,000"
+  },
+  "Hospitality Executive": {
+    "range_in_inr_per_annum": "2,00,000 - 10,00,000"
+  },
+  "Chef": {
+    "range_in_inr_per_annum": "2,00,000 - 10,00,000"
+  },
+  "Fashion Designer": {
+    "range_in_inr_per_annum": "2,00,000 - 10,00,000"
+  },
+  "Textile Designer": {
+    "range_in_inr_per_annum": "2,00,000 - 10,00,000"
+  },
+  "Tailor / Garment Technologist": {
+    "range_in_inr_per_annum": "2,00,000 - 10,00,000"
+  },
+  "Jewelry Designer": {
+    "range_in_inr_per_annum": "2,00,000 - 10,00,000"
+  },
+  "Accessory Designer": {
+    "range_in_inr_per_annum": "2,00,000 - 10,00,000"
+  },
+  "Interior Designer": {
+    "range_in_inr_per_annum": "2,00,000 - 10,00,000"
+  },
+  "Landscape Architect": {
+    "range_in_inr_per_annum": "2,00,000 - 10,00,000"
+  },
+  "Architect": {
+    "range_in_inr_per_annum": "2,00,000 - 10,00,000"
+  },
+  "Urban Planner": {
+    "range_in_inr_per_annum": "2,00,000 - 10,00,000"
+  },
+  "Surveyor": {
+    "range_in_inr_per_annum": "2,00,000 - 10,00,000"
+  },
+  "Agriculture Farmer / Entrepreneur": {
+    "range_in_inr_per_annum": "1,00,000 - 6,00,000"
+  },
+  "Horticulture Specialist": {
+    "range_in_inr_per_annum": "2,00,000 - 10,00,000"
+  },
+  "Agricultural Scientist": {
+    "range_in_inr_per_annum": "2,00,000 - 10,00,000"
+  },
+  "Food Technologist": {
+    "range_in_inr_per_annum": "2,00,000 - 10,00,000"
+  },
+  "Soil Scientist": {
+    "range_in_inr_per_annum": "2,00,000 - 10,00,000"
+  },
+  "Forestry Officer": {
+    "range_in_inr_per_annum": "2,00,000 - 10,00,000"
+  },
+  "Fisheries Manager": {
+    "range_in_inr_per_annum": "2,00,000 - 10,00,000"
+  },
+  "Marine Biologist": {
+    "range_in_inr_per_annum": "2,00,000 - 10,00,000"
+  },
+  "Environmental Scientist": {
+    "range_in_inr_per_annum": "2,00,000 - 10,00,000"
+  },
+  "Wildlife Biologist": {
+    "range_in_inr_per_annum": "2,00,000 - 10,00,000"
+  },
+  "Philanthropy Manager": {
+    "range_in_inr_per_annum": "2,00,000 - 10,00,000"
+  },
+  "NGO Program Manager": {
+    "range_in_inr_per_annum": "2,00,000 - 10,00,000"
+  },
+  "Community Development Officer": {
+    "range_in_inr_per_annum": "2,00,000 - 10,00,000"
+  },
+  "Public Relations Specialist": {
+    "range_in_inr_per_annum": "2,00,000 - 10,00,000"
+  },
+  "CSR Manager": {
+    "range_in_inr_per_annum": "2,00,000 - 10,00,000"
+  },
+  "Public Policy Analyst": {
+    "range_in_inr_per_annum": "2,00,000 - 10,00,000"
+  },
+  "Civil Services Aspirant": {
+    "range_in_inr_per_annum": "2,00,000 - 10,00,000"
+  },
+  "Municipal Officer": {
+    "range_in_inr_per_annum": "2,00,000 - 10,00,000"
+  },
+  "Diplomat": {
+    "range_in_inr_per_annum": "2,00,000 - 10,00,000"
+  },
+  "Foreign Service Officer": {
+    "range_in_inr_per_annum": "2,00,000 - 10,00,000"
+  },
+  "Entrepreneur / Startup Founder": {
+    "range_in_inr_per_annum": "2,00,000 - 10,00,000"
+  },
+  "Small Business Owner": {
+    "range_in_inr_per_annum": "2,00,000 - 10,00,000"
+  },
+  "Franchise Owner": {
+    "range_in_inr_per_annum": "2,00,000 - 10,00,000"
+  },
+  "Family Business (Personal)": {
+    "range_in_inr_per_annum": "Varies widely; depends on scale"
+  },
+  "Business Coach": {
+    "range_in_inr_per_annum": "2,00,000 - 10,00,000"
+  },
+  "Supply Chain Manager": {
+    "range_in_inr_per_annum": "2,00,000 - 10,00,000"
+  },
+  "Logistics Coordinator": {
+    "range_in_inr_per_annum": "2,00,000 - 10,00,000"
+  },
+  "Procurement Manager": {
+    "range_in_inr_per_annum": "2,00,000 - 10,00,000"
+  },
+  "Warehouse Manager": {
+    "range_in_inr_per_annum": "2,00,000 - 10,00,000"
+  },
+  "Operations Research Analyst": {
+    "range_in_inr_per_annum": "2,00,000 - 10,00,000"
+  },
+  "Quality Assurance Engineer": {
+    "range_in_inr_per_annum": "2,00,000 - 10,00,000"
+  },
+  "Test Engineer": {
+    "range_in_inr_per_annum": "2,00,000 - 10,00,000"
+  },
+  "Lab Technician": {
+    "range_in_inr_per_annum": "2,00,000 - 10,00,000"
+  },
+  "Research Assistant": {
+    "range_in_inr_per_annum": "2,00,000 - 10,00,000"
+  },
+  "Biotechnologist": {
+    "range_in_inr_per_annum": "2,00,000 - 10,00,000"
+  },
+  "Clinical Research Coordinator": {
+    "range_in_inr_per_annum": "2,00,000 - 10,00,000"
+  },
+  "Pharmaceutical Sales": {
+    "range_in_inr_per_annum": "2,00,000 - 10,00,000"
+  },
+  "Medical Laboratory Scientist": {
+    "range_in_inr_per_annum": "2,00,000 - 10,00,000"
+  },
+  "Radiologist Technician": {
+    "range_in_inr_per_annum": "2,00,000 - 10,00,000"
+  },
+  "Occupational Therapist": {
+    "range_in_inr_per_annum": "2,00,000 - 10,00,000"
+  },
+  "Sound Technician": {
+    "range_in_inr_per_annum": "2,00,000 - 10,00,000"
+  },
+  "Stage Manager": {
+    "range_in_inr_per_annum": "2,00,000 - 10,00,000"
+  },
+  "Theatre Director": {
+    "range_in_inr_per_annum": "2,00,000 - 10,00,000"
+  },
+  "Art Therapist": {
+    "range_in_inr_per_annum": "2,00,000 - 10,00,000"
+  },
+  "Museum Curator": {
+    "range_in_inr_per_annum": "2,00,000 - 10,00,000"
+  },
+  "Real Estate Agent": {
+    "range_in_inr_per_annum": "2,00,000 - 10,00,000"
+  },
+  "Property Manager": {
+    "range_in_inr_per_annum": "2,00,000 - 10,00,000"
+  },
+  "Construction Supervisor": {
+    "range_in_inr_per_annum": "2,00,000 - 10,00,000"
+  },
+  "Quantity Surveyor": {
+    "range_in_inr_per_annum": "2,00,000 - 10,00,000"
+  },
+  "Site Engineer": {
+    "range_in_inr_per_annum": "2,00,000 - 10,00,000"
+  },
+  "Electrician / Technician": {
+    "range_in_inr_per_annum": "2,00,000 - 10,00,000"
+  },
+  "Plumber / Technician": {
+    "range_in_inr_per_annum": "2,00,000 - 10,00,000"
+  },
+  "Carpenter / Artisan": {
+    "range_in_inr_per_annum": "2,00,000 - 10,00,000"
+  },
+  "Mechanic / Technician": {
+    "range_in_inr_per_annum": "2,00,000 - 10,00,000"
+  },
+  "Welding Specialist": {
+    "range_in_inr_per_annum": "2,00,000 - 10,00,000"
+  },
+  "Beautician / Cosmetologist": {
+    "range_in_inr_per_annum": "2,00,000 - 10,00,000"
+  },
+  "Fitness Trainer": {
+    "range_in_inr_per_annum": "2,00,000 - 10,00,000"
+  },
+  "Sports Coach": {
+    "range_in_inr_per_annum": "2,00,000 - 10,00,000"
+  },
+  "Athletic Trainer": {
+    "range_in_inr_per_annum": "2,00,000 - 10,00,000"
+  },
+  "Yoga Instructor": {
+    "range_in_inr_per_annum": "2,00,000 - 10,00,000"
+  },
+  "Landscape Gardener": {
+    "range_in_inr_per_annum": "2,00,000 - 10,00,000"
+  },
+  "Florist": {
+    "range_in_inr_per_annum": "2,00,000 - 10,00,000"
+  },
+  "Event Florist": {
+    "range_in_inr_per_annum": "2,00,000 - 10,00,000"
+  },
+  "Nursery Manager": {
+    "range_in_inr_per_annum": "2,00,000 - 10,00,000"
+  },
+  "Aquaculture Technician": {
+    "range_in_inr_per_annum": "2,00,000 - 10,00,000"
+  },
+  "Data Engineer": {
+    "range_in_inr_per_annum": "2,00,000 - 10,00,000"
+  },
+  "BI Developer": {
+    "range_in_inr_per_annum": "2,00,000 - 10,00,000"
+  },
+  "Cloud Solutions Architect": {
+    "range_in_inr_per_annum": "2,00,000 - 10,00,000"
+  },
+  "Blockchain Developer": {
+    "range_in_inr_per_annum": "2,00,000 - 10,00,000"
+  },
+  "DevRel Engineer": {
+    "range_in_inr_per_annum": "2,00,000 - 10,00,000"
+  },
+  "CRM Specialist": {
+    "range_in_inr_per_annum": "2,00,000 - 10,00,000"
+  },
+  "Email Marketing Specialist": {
+    "range_in_inr_per_annum": "2,00,000 - 10,00,000"
+  },
+  "Paid Ads Specialist": {
+    "range_in_inr_per_annum": "2,00,000 - 10,00,000"
+  },
+  "Retail Buyer": {
+    "range_in_inr_per_annum": "2,00,000 - 10,00,000"
+  },
+  "Merchandising Manager": {
+    "range_in_inr_per_annum": "2,00,000 - 10,00,000"
+  },
+  "Clinical Data Manager": {
+    "range_in_inr_per_annum": "2,00,000 - 10,00,000"
+  },
+  "Health Informatics Specialist": {
+    "range_in_inr_per_annum": "2,00,000 - 10,00,000"
+  },
+  "Telemedicine Coordinator": {
+    "range_in_inr_per_annum": "2,00,000 - 10,00,000"
+  },
+  "Healthcare Administrator": {
+    "range_in_inr_per_annum": "2,00,000 - 10,00,000"
+  },
+  "Medical Coder": {
+    "range_in_inr_per_annum": "2,00,000 - 10,00,000"
+  },
+  "Optometrist": {
+    "range_in_inr_per_annum": "2,00,000 - 10,00,000"
+  },
+  "Audiologist": {
+    "range_in_inr_per_annum": "2,00,000 - 10,00,000"
+  },
+  "Speech Therapist": {
+    "range_in_inr_per_annum": "2,00,000 - 10,00,000"
+  },
+  "Occupational Health Specialist": {
+    "range_in_inr_per_annum": "2,00,000 - 10,00,000"
+  },
+  "Safety Officer": {
+    "range_in_inr_per_annum": "2,00,000 - 10,00,000"
+  },
+  "Research Analyst": {
+    "range_in_inr_per_annum": "2,00,000 - 10,00,000"
+  },
+  "Statistician": {
+    "range_in_inr_per_annum": "2,00,000 - 10,00,000"
+  },
+  "Actuary": {
+    "range_in_inr_per_annum": "2,00,000 - 10,00,000"
+  },
+  "Economist": {
+    "range_in_inr_per_annum": "2,00,000 - 10,00,000"
+  },
+  "Market Research Analyst": {
+    "range_in_inr_per_annum": "2,00,000 - 10,00,000"
+  }
+}

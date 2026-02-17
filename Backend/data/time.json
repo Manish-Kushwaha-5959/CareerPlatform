@@ -1,0 +1,497 @@
+{
+  "upcoming_entrance_exams_2026": [
+    {
+      "exam": "JEE Main 2026",
+      "short_name": ["BTECH", "ENGINEERING", "BE", "BARCH", "PLANNING"],
+      "conducting_body": "National Testing Agency (NTA)",
+      "target_careers": [
+        "Engineering (B.E/B.Tech)",
+        "B.Arch",
+        "B.Planning",
+        "Computer Science",
+        "Mechanical",
+        "Civil",
+        "Electrical",
+        "Electronics",
+        "Aerospace",
+        "AI & Machine Learning",
+        "Data Science",
+        "Software Developer",
+        "Cybersecurity Analyst"
+      ],
+      "events": [
+        {
+          "event": "Session 1 Registration",
+          "date": "December 2025 - January 2026",
+          "status": "Expected",
+          "sources": [
+            "https://jeemain.nta.nic.in",
+            "https://careerpoint.ac.in/blog/nta-jee-main-2026-exam-dates-out-check-schedule-here/"
+          ]
+        },
+        {
+          "event": "Session 1 Exam",
+          "date": "January 21-30, 2026",
+          "status": "Tentative",
+          "sources": [
+            "https://jeemain.nta.nic.in",
+            "https://careerpoint.ac.in/blog/nta-jee-main-2026-exam-dates-out-check-schedule-here/",
+            "https://www.vedantu.com/jee-main/about-jee-main-2026"
+          ]
+        },
+        {
+          "event": "Session 2 Registration",
+          "date": "February 2026",
+          "status": "Expected",
+          "sources": [
+            "https://careerpoint.ac.in/blog/nta-jee-main-2026-exam-dates-out-check-schedule-here/"
+          ]
+        },
+        {
+          "event": "Session 2 Exam",
+          "date": "April 2-10, 2026",
+          "status": "Tentative",
+          "sources": [
+            "https://jeemain.nta.nic.in",
+            "https://careerpoint.ac.in/blog/nta-jee-main-2026-exam-dates-out-check-schedule-here/"
+          ]
+        }
+      ],
+      "official_website": "https://jeemain.nta.nic.in",
+      "verification_method": "Check 'Examination Schedule for JEE (Main)' PDF on official NTA JEE Main portal"
+    },
+
+    {
+      "exam": "MHT CET 2026 (PCM)",
+      "short_name": ["BTECH", "ENGINEERING", "PCM", "BE"],
+      "conducting_body": "State Common Entrance Test Cell, Maharashtra",
+      "target_careers": [
+        "Engineering",
+        "Pharmacy",
+        "Agriculture",
+        "Architecture",
+        "Computer Science"
+      ],
+      "events": [
+        {
+          "event": "PCM Exam",
+          "date": "April 11-19, 2026",
+          "status": "Tentative",
+          "sources": ["https://cetcell.mahacet.org"]
+        }
+      ],
+      "official_website": "https://cetcell.mahacet.org",
+      "verification_method": "Check CET Cell official notifications"
+    },
+
+    {
+      "exam": "MHT CET 2026 (PCB)",
+      "short_name": ["PCB", "BIOLOGY", "PHARMA", "BSC"],
+      "conducting_body": "State Common Entrance Test Cell, Maharashtra",
+      "events": [
+        {
+          "event": "PCB Exam",
+          "date": "April 21-26, 2026",
+          "status": "Tentative",
+          "sources": ["https://cetcell.mahacet.org"]
+        }
+      ],
+      "official_website": "https://cetcell.mahacet.org"
+    },
+
+    {
+      "exam": "NEET UG 2026",
+      "short_name": ["MBBS", "MEDICAL", "BDS", "NURSING", "BAMS", "BVSC"],
+      "conducting_body": "National Testing Agency (NTA)",
+      "events": [
+        {
+          "event": "Exam Date",
+          "date": "May 3, 2026",
+          "status": "Tentative",
+          "sources": ["https://neet.nta.nic.in"]
+        }
+      ],
+      "official_website": "https://neet.nta.nic.in"
+    },
+
+    {
+      "exam": "JEE Advanced 2026",
+      "short_name": ["BTECH", "ENGINEERING", "IIT"],
+      "conducting_body": "IIT Roorkee (Expected)",
+      "events": [
+        {
+          "event": "Exam Date",
+          "date": "May 24, 2026",
+          "status": "Tentative",
+          "sources": ["https://jeeadv.ac.in"]
+        }
+      ],
+      "official_website": "https://jeeadv.ac.in"
+    },
+
+    {
+      "exam": "BITSAT 2026",
+      "short_name": ["BTECH", "ENGINEERING", "BITS", "BE"],
+      "conducting_body": "BITS Pilani",
+      "events": [
+        {
+          "event": "Session 1",
+          "date": "May 26-30, 2026",
+          "status": "Tentative",
+          "sources": ["https://bits-pilani.ac.in"]
+        },
+        {
+          "event": "Session 2",
+          "date": "June 22-26, 2026",
+          "status": "Tentative"
+        }
+      ]
+    },
+
+    {
+      "exam": "VITEEE 2026",
+      "short_name": ["BTECH", "ENGINEERING", "VIT"],
+      "conducting_body": "VIT University",
+      "events": [
+        {
+          "event": "Exam Window",
+          "date": "April 28 - May 3, 2026",
+          "status": "Tentative"
+        }
+      ]
+    },
+
+    {
+      "exam": "CUET UG 2026",
+      "short_name": ["BSC", "BA", "BCOM", "BTECH"],
+      "conducting_body": "NTA",
+      "events": [
+        {
+          "event": "Exam Window",
+          "date": "May - June 2026",
+          "status": "Expected"
+        }
+      ]
+    },
+
+    {
+      "exam": "CA Foundation 2026",
+      "short_name": ["CA", "CHARTERED_ACCOUNTANT"],
+      "conducting_body": "ICAI",
+      "events": [
+        {
+          "event": "May Session",
+          "date": "May 2026",
+          "status": "Tentative"
+        },
+        {
+          "event": "November Session",
+          "date": "November 2026",
+          "status": "Tentative"
+        }
+      ]
+    },
+
+    {
+      "exam": "CSEET 2026",
+      "short_name": ["CS", "COMPANY_SECRETARY"],
+      "conducting_body": "ICSI",
+      "events": [
+        {
+          "event": "January Exam",
+          "date": "January 10, 2026",
+          "status": "Tentative"
+        }
+      ]
+    },
+
+    {
+      "exam": "CMA Foundation 2026",
+      "short_name": ["CMA", "COST_ACCOUNTING"],
+      "conducting_body": "ICMAI",
+      "events": [
+        {
+          "event": "June Exam",
+          "date": "June 2026",
+          "status": "Tentative"
+        },
+        {
+          "event": "December Exam",
+          "date": "December 2026",
+          "status": "Tentative"
+        }
+      ]
+    },
+
+    {
+      "exam": "CLAT 2026",
+      "short_name": ["LAW", "LLB", "NLLU", "BA_LLB"],
+      "conducting_body": "NLU Consortium",
+      "events": [
+        {
+          "event": "Exam Date",
+          "date": "December 7, 2025",
+          "status": "Tentative"
+        }
+      ]
+    },
+
+    {
+      "exam": "NATA 2026",
+      "short_name": ["BARCH", "ARCHITECTURE"],
+      "conducting_body": "Council of Architecture",
+      "events": [
+        {
+          "event": "Exam Window",
+          "date": "March - June 2026",
+          "status": "Tentative"
+        }
+      ]
+    },
+
+    {
+      "exam": "NIFT Entrance 2026",
+      "short_name": ["DESIGN", "FASHION"],
+      "conducting_body": "NIFT",
+      "events": [
+        {
+          "event": "Written Exam",
+          "date": "February 2026",
+          "status": "Tentative"
+        }
+      ]
+    },
+
+    {
+      "exam": "NID DAT 2026",
+      "short_name": ["DESIGN", "UIUX", "ANIMATION"],
+      "conducting_body": "NID",
+      "events": [
+        {
+          "event": "DAT Prelims",
+          "date": "January 2026",
+          "status": "Tentative"
+        }
+      ]
+    },
+
+    {
+      "exam": "UPSC CSE 2026",
+      "short_name": ["IAS", "IPS", "IFS", "CIVIL_SERVICES"],
+      "conducting_body": "UPSC",
+      "events": [
+        {
+          "event": "Prelims",
+          "date": "May 31, 2026",
+          "status": "Tentative"
+        }
+      ]
+    },
+
+    {
+      "exam": "NDA 1 2026",
+      "short_name": ["NDA", "DEFENCE", "ARMY", "NAVY", "AIRFORCE"],
+      "conducting_body": "UPSC",
+      "events": [
+        {
+          "event": "Exam Date",
+          "date": "April 2026",
+          "status": "Tentative"
+        }
+      ]
+    },
+
+    {
+      "exam": "MAH-M.P.Ed CET-2026",
+      "short_name": ["MPED", "SPORTS"],
+      "conducting_body": "State CET Cell",
+      "events": [
+        {
+          "event": "Exam Date",
+          "date": "2026-03-24",
+          "status": "upcoming"
+        }
+      ]
+    },
+
+    {
+      "exam": "MAH-M.Ed CET-2026",
+      "short_name": ["MED", "EDUCATION", "TEACHING"],
+      "events": [
+        {
+          "event": "Exam Date",
+          "date": "2026-03-25",
+          "status": "upcoming"
+        }
+      ]
+    },
+
+    {
+      "exam": "MAH-M.HMCT CET-2026",
+      "short_name": ["MHMCT", "HOTEL_MANAGEMENT"],
+      "events": [
+        {
+          "event": "Exam Date",
+          "date": "2026-03-25",
+          "status": "upcoming"
+        }
+      ]
+    },
+
+    {
+      "exam": "MAH-B.Ed CET-2026",
+      "short_name": ["BED", "EDUCATION", "TEACHING"],
+      "events": [
+        {
+          "event": "Exam Date",
+          "date": "2026-03-27 to 2026-03-29",
+          "status": "upcoming"
+        }
+      ]
+    },
+
+    {
+      "exam": "MAH-MCA CET-2026",
+      "short_name": ["MCA", "COMPUTER", "IT"],
+      "events": [
+        {
+          "event": "Exam Date",
+          "date": "2026-03-30",
+          "status": "upcoming"
+        }
+      ]
+    },
+
+    {
+      "exam": "MAH-LLB 3 Year CET-2026",
+      "short_name": ["LLB", "LAW", "LLB_3YR"],
+      "events": [
+        {
+          "event": "Exam Date",
+          "date": "2026-04-01 to 2026-04-02",
+          "status": "upcoming"
+        }
+      ]
+    },
+
+    {
+      "exam": "MAH-B.P.Ed CET-2026",
+      "short_name": ["BPED", "SPORTS"],
+      "events": [
+        {
+          "event": "Exam Date",
+          "date": "2026-04-04",
+          "status": "upcoming"
+        }
+      ]
+    },
+
+    {
+      "exam": "MAH-B.Design CET-2026",
+      "short_name": ["B.DESIGN", "DESIGN"],
+      "events": [
+        {
+          "event": "Exam Date",
+          "date": "2026-04-05",
+          "status": "upcoming"
+        }
+      ]
+    },
+
+    {
+      "exam": "MAH-MBA/MMS CET-2026",
+      "short_name": ["MBA", "MMS", "MANAGEMENT"],
+      "events": [
+        {
+          "event": "Exam Date",
+          "date": "2026-04-06 to 2026-04-08",
+          "status": "upcoming"
+        }
+      ]
+    },
+
+    {
+      "exam": "MAH-BHMCT/BCA/BBA/BMS CET-2026",
+      "short_name": ["BHMCT", "BCA", "BBA", "BMS", "BBM", "IT", "MANAGEMENT"],
+      "events": [
+        {
+          "event": "Exam Date",
+          "date": "2026-04-28 to 2026-04-30",
+          "status": "upcoming"
+        }
+      ]
+    },
+
+    {
+      "exam": "MH-DPN/PHN CET 2026",
+      "short_name": ["DPN", "PHN", "NURSING"],
+      "events": [
+        {
+          "event": "Exam Date",
+          "date": "2026-05-05",
+          "status": "upcoming"
+        }
+      ]
+    },
+
+    {
+      "exam": "MH Nursing CET 2026",
+      "short_name": ["NURSING", "BSC_NURSING"],
+      "events": [
+        {
+          "event": "Exam Date",
+          "date": "2026-05-06 to 2026-05-07",
+          "status": "upcoming"
+        }
+      ]
+    },
+
+    {
+      "exam": "MAH-LLB 5 Years CET-2026",
+      "short_name": ["LLB", "LAW", "LLB_5YR"],
+      "events": [
+        {
+          "event": "Exam Date",
+          "date": "2026-05-08",
+          "status": "upcoming"
+        }
+      ]
+    },
+
+    {
+      "exam": "MAH-MBA/MMS CET-2026 (Round 2)",
+      "short_name": ["MBA", "MMS", "MANAGEMENT"],
+      "events": [
+        {
+          "event": "Exam Date",
+          "date": "2026-05-09",
+          "status": "upcoming"
+        }
+      ]
+    },
+
+    {
+      "exam": "MAH-MHT CET (PCB) Round 2",
+      "short_name": ["PCB", "BIOLOGY", "PHARMA"],
+      "events": [
+        {
+          "event": "Exam Date",
+          "date": "2026-05-10 to 2026-05-11",
+          "status": "upcoming"
+        }
+      ]
+    },
+
+    {
+      "exam": "MAH-MHT CET (PCM) Round 2",
+      "short_name": ["BTECH", "ENGINEERING", "PCM"],
+      "events": [
+        {
+          "event": "Exam Date",
+          "date": "2026-05-14 to 2026-05-17",
+          "status": "upcoming"
+        }
+      ]
+    }
+  ]
+}

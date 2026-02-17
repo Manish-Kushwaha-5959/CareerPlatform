@@ -1,0 +1,7313 @@
+[
+  {
+    "career": "Software Developer",
+    "riasec": {
+      "R": 0.7,
+      "I": 0.6,
+      "A": 0.2,
+      "S": 0.3,
+      "E": 0.3,
+      "C": 0.6
+    },
+    "job_family": "Tech",
+    "ncs_code": "",
+    "salary_range_in_inr_per_annum": "3,00,000 - 12,00,000",
+    "degrees": [
+      {
+        "degree": "B.Tech/B.E.",
+        "specializations": [
+          "Computer Science",
+          "Information Technology",
+          "Electronics"
+        ]
+      },
+      {
+        "degree": "M.Tech/M.S.",
+        "specializations": [
+          "Computer Science",
+          "AI & ML",
+          "Robotics"
+        ]
+      }
+    ],
+    "skills_roadmap": [
+      "Skill 1",
+      "Skill 2",
+      "Skill 3"
+    ],
+    "work_context": "Typical tasks and context for the role (brief)."
+  },
+  {
+    "career": "Data Analyst",
+    "riasec": {
+      "R": 0.2,
+      "I": 0.9,
+      "A": 0.2,
+      "S": 0.3,
+      "E": 0.2,
+      "C": 0.6
+    },
+    "job_family": "Data",
+    "ncs_code": "",
+    "salary_range_in_inr_per_annum": "4,00,000 - 12,00,000",
+    "degrees": [
+      {
+        "degree": "B.Sc",
+        "specializations": [
+          "Statistics",
+          "Mathematics",
+          "Computer Science"
+        ]
+      },
+      {
+        "degree": "M.Sc / M.Tech",
+        "specializations": [
+          "Data Science",
+          "Statistics",
+          "Machine Learning"
+        ]
+      }
+    ],
+    "skills_roadmap": [
+      "Skill 1",
+      "Skill 2",
+      "Skill 3"
+    ],
+    "work_context": "Typical tasks and context for the role (brief)."
+  },
+  {
+    "career": "Data Scientist",
+    "riasec": {
+      "R": 0.2,
+      "I": 0.9,
+      "A": 0.2,
+      "S": 0.3,
+      "E": 0.2,
+      "C": 0.6
+    },
+    "job_family": "Data",
+    "ncs_code": "",
+    "salary_range_in_inr_per_annum": "6,00,000 - 25,00,000",
+    "degrees": [
+      {
+        "degree": "B.Sc",
+        "specializations": [
+          "Statistics",
+          "Mathematics",
+          "Computer Science"
+        ]
+      },
+      {
+        "degree": "M.Sc / M.Tech",
+        "specializations": [
+          "Data Science",
+          "Statistics",
+          "Machine Learning"
+        ]
+      }
+    ],
+    "skills_roadmap": [
+      "Skill 1",
+      "Skill 2",
+      "Skill 3"
+    ],
+    "work_context": "Typical tasks and context for the role (brief)."
+  },
+  {
+    "career": "Machine Learning Engineer",
+    "riasec": {
+      "R": 0.7,
+      "I": 0.6,
+      "A": 0.2,
+      "S": 0.3,
+      "E": 0.3,
+      "C": 0.6
+    },
+    "job_family": "Tech",
+    "ncs_code": "",
+    "salary_range_in_inr_per_annum": "8,00,000 - 30,00,000",
+    "degrees": [
+      {
+        "degree": "B.Tech/B.E.",
+        "specializations": [
+          "Computer Science",
+          "Information Technology",
+          "Electronics"
+        ]
+      },
+      {
+        "degree": "M.Tech/M.S.",
+        "specializations": [
+          "Computer Science",
+          "AI & ML",
+          "Robotics"
+        ]
+      }
+    ],
+    "skills_roadmap": [
+      "Skill 1",
+      "Skill 2",
+      "Skill 3"
+    ],
+    "work_context": "Typical tasks and context for the role (brief)."
+  },
+  {
+    "career": "AI Researcher",
+    "riasec": {
+      "R": 0.2,
+      "I": 0.9,
+      "A": 0.2,
+      "S": 0.3,
+      "E": 0.2,
+      "C": 0.6
+    },
+    "job_family": "Tech",
+    "ncs_code": "",
+    "salary_range_in_inr_per_annum": "2,00,000 - 10,00,000",
+    "degrees": [
+      {
+        "degree": "B.Tech/B.E.",
+        "specializations": [
+          "Computer Science",
+          "Information Technology",
+          "Electronics"
+        ]
+      },
+      {
+        "degree": "M.Tech/M.S.",
+        "specializations": [
+          "Computer Science",
+          "AI & ML",
+          "Robotics"
+        ]
+      }
+    ],
+    "skills_roadmap": [
+      "Skill 1",
+      "Skill 2",
+      "Skill 3"
+    ],
+    "work_context": "Typical tasks and context for the role (brief)."
+  },
+  {
+    "career": "Product Manager",
+    "riasec": {
+      "R": 0.2,
+      "I": 0.5,
+      "A": 0.4,
+      "S": 0.4,
+      "E": 0.9,
+      "C": 0.5
+    },
+    "job_family": "Management",
+    "ncs_code": "",
+    "salary_range_in_inr_per_annum": "2,00,000 - 10,00,000",
+    "degrees": [
+      {
+        "degree": "BBA",
+        "specializations": [
+          "Business Administration"
+        ]
+      },
+      {
+        "degree": "MBA",
+        "specializations": [
+          "Marketing",
+          "Finance",
+          "Operations"
+        ]
+      }
+    ],
+    "skills_roadmap": [
+      "Skill 1",
+      "Skill 2",
+      "Skill 3"
+    ],
+    "work_context": "Typical tasks and context for the role (brief)."
+  },
+  {
+    "career": "UX/UI Designer",
+    "riasec": {
+      "R": 0.1,
+      "I": 0.4,
+      "A": 0.9,
+      "S": 0.3,
+      "E": 0.4,
+      "C": 0.3
+    },
+    "job_family": "Arts",
+    "ncs_code": "",
+    "salary_range_in_inr_per_annum": "2,00,000 - 10,00,000",
+    "degrees": [
+      {
+        "degree": "B.Des / BA",
+        "specializations": [
+          "Graphic Design",
+          "Fine Arts"
+        ]
+      }
+    ],
+    "skills_roadmap": [
+      "Skill 1",
+      "Skill 2",
+      "Skill 3"
+    ],
+    "work_context": "Typical tasks and context for the role (brief)."
+  },
+  {
+    "career": "Graphic Designer",
+    "riasec": {
+      "R": 0.1,
+      "I": 0.4,
+      "A": 0.9,
+      "S": 0.3,
+      "E": 0.4,
+      "C": 0.3
+    },
+    "job_family": "Arts",
+    "ncs_code": "",
+    "salary_range_in_inr_per_annum": "2,00,000 - 10,00,000",
+    "degrees": [
+      {
+        "degree": "B.Des / BA",
+        "specializations": [
+          "Graphic Design",
+          "Fine Arts"
+        ]
+      }
+    ],
+    "skills_roadmap": [
+      "Skill 1",
+      "Skill 2",
+      "Skill 3"
+    ],
+    "work_context": "Typical tasks and context for the role (brief)."
+  },
+  {
+    "career": "Web Developer",
+    "riasec": {
+      "R": 0.7,
+      "I": 0.6,
+      "A": 0.2,
+      "S": 0.3,
+      "E": 0.3,
+      "C": 0.6
+    },
+    "job_family": "Tech",
+    "ncs_code": "",
+    "salary_range_in_inr_per_annum": "2,00,000 - 10,00,000",
+    "degrees": [
+      {
+        "degree": "B.Tech/B.E.",
+        "specializations": [
+          "Computer Science",
+          "Information Technology",
+          "Electronics"
+        ]
+      },
+      {
+        "degree": "M.Tech/M.S.",
+        "specializations": [
+          "Computer Science",
+          "AI & ML",
+          "Robotics"
+        ]
+      }
+    ],
+    "skills_roadmap": [
+      "Skill 1",
+      "Skill 2",
+      "Skill 3"
+    ],
+    "work_context": "Typical tasks and context for the role (brief)."
+  },
+  {
+    "career": "Mobile App Developer",
+    "riasec": {
+      "R": 0.7,
+      "I": 0.6,
+      "A": 0.2,
+      "S": 0.3,
+      "E": 0.3,
+      "C": 0.6
+    },
+    "job_family": "Tech",
+    "ncs_code": "",
+    "salary_range_in_inr_per_annum": "2,00,000 - 10,00,000",
+    "degrees": [
+      {
+        "degree": "B.Tech/B.E.",
+        "specializations": [
+          "Computer Science",
+          "Information Technology",
+          "Electronics"
+        ]
+      },
+      {
+        "degree": "M.Tech/M.S.",
+        "specializations": [
+          "Computer Science",
+          "AI & ML",
+          "Robotics"
+        ]
+      }
+    ],
+    "skills_roadmap": [
+      "Skill 1",
+      "Skill 2",
+      "Skill 3"
+    ],
+    "work_context": "Typical tasks and context for the role (brief)."
+  },
+  {
+    "career": "DevOps Engineer",
+    "riasec": {
+      "R": 0.7,
+      "I": 0.6,
+      "A": 0.2,
+      "S": 0.3,
+      "E": 0.3,
+      "C": 0.6
+    },
+    "job_family": "Tech",
+    "ncs_code": "",
+    "salary_range_in_inr_per_annum": "2,00,000 - 10,00,000",
+    "degrees": [
+      {
+        "degree": "B.Tech/B.E.",
+        "specializations": [
+          "Computer Science",
+          "Information Technology",
+          "Electronics"
+        ]
+      },
+      {
+        "degree": "M.Tech/M.S.",
+        "specializations": [
+          "Computer Science",
+          "AI & ML",
+          "Robotics"
+        ]
+      }
+    ],
+    "skills_roadmap": [
+      "Skill 1",
+      "Skill 2",
+      "Skill 3"
+    ],
+    "work_context": "Typical tasks and context for the role (brief)."
+  },
+  {
+    "career": "IT Systems Administrator",
+    "riasec": {
+      "R": 0.5,
+      "I": 0.5,
+      "A": 0.5,
+      "S": 0.5,
+      "E": 0.5,
+      "C": 0.5
+    },
+    "job_family": "Tech",
+    "ncs_code": "",
+    "salary_range_in_inr_per_annum": "2,00,000 - 10,00,000",
+    "degrees": [
+      {
+        "degree": "B.Tech/B.E.",
+        "specializations": [
+          "Computer Science",
+          "Information Technology",
+          "Electronics"
+        ]
+      },
+      {
+        "degree": "M.Tech/M.S.",
+        "specializations": [
+          "Computer Science",
+          "AI & ML",
+          "Robotics"
+        ]
+      }
+    ],
+    "skills_roadmap": [
+      "Skill 1",
+      "Skill 2",
+      "Skill 3"
+    ],
+    "work_context": "Typical tasks and context for the role (brief)."
+  },
+  {
+    "career": "Cybersecurity Analyst",
+    "riasec": {
+      "R": 0.2,
+      "I": 0.9,
+      "A": 0.2,
+      "S": 0.3,
+      "E": 0.2,
+      "C": 0.6
+    },
+    "job_family": "Data",
+    "ncs_code": "",
+    "salary_range_in_inr_per_annum": "2,00,000 - 10,00,000",
+    "degrees": [
+      {
+        "degree": "B.Sc",
+        "specializations": [
+          "Statistics",
+          "Mathematics",
+          "Computer Science"
+        ]
+      },
+      {
+        "degree": "M.Sc / M.Tech",
+        "specializations": [
+          "Data Science",
+          "Statistics",
+          "Machine Learning"
+        ]
+      }
+    ],
+    "skills_roadmap": [
+      "Skill 1",
+      "Skill 2",
+      "Skill 3"
+    ],
+    "work_context": "Typical tasks and context for the role (brief)."
+  },
+  {
+    "career": "Network Engineer",
+    "riasec": {
+      "R": 0.7,
+      "I": 0.6,
+      "A": 0.2,
+      "S": 0.3,
+      "E": 0.3,
+      "C": 0.6
+    },
+    "job_family": "Tech",
+    "ncs_code": "",
+    "salary_range_in_inr_per_annum": "2,00,000 - 10,00,000",
+    "degrees": [
+      {
+        "degree": "B.Tech/B.E.",
+        "specializations": [
+          "Computer Science",
+          "Information Technology",
+          "Electronics"
+        ]
+      },
+      {
+        "degree": "M.Tech/M.S.",
+        "specializations": [
+          "Computer Science",
+          "AI & ML",
+          "Robotics"
+        ]
+      }
+    ],
+    "skills_roadmap": [
+      "Skill 1",
+      "Skill 2",
+      "Skill 3"
+    ],
+    "work_context": "Typical tasks and context for the role (brief)."
+  },
+  {
+    "career": "Database Administrator",
+    "riasec": {
+      "R": 0.2,
+      "I": 0.9,
+      "A": 0.2,
+      "S": 0.3,
+      "E": 0.2,
+      "C": 0.6
+    },
+    "job_family": "Data",
+    "ncs_code": "",
+    "salary_range_in_inr_per_annum": "2,00,000 - 10,00,000",
+    "degrees": [
+      {
+        "degree": "B.Sc",
+        "specializations": [
+          "Statistics",
+          "Mathematics",
+          "Computer Science"
+        ]
+      },
+      {
+        "degree": "M.Sc / M.Tech",
+        "specializations": [
+          "Data Science",
+          "Statistics",
+          "Machine Learning"
+        ]
+      }
+    ],
+    "skills_roadmap": [
+      "Skill 1",
+      "Skill 2",
+      "Skill 3"
+    ],
+    "work_context": "Typical tasks and context for the role (brief)."
+  },
+  {
+    "career": "Mechanical Engineer",
+    "riasec": {
+      "R": 0.7,
+      "I": 0.6,
+      "A": 0.2,
+      "S": 0.3,
+      "E": 0.3,
+      "C": 0.6
+    },
+    "job_family": "Tech",
+    "ncs_code": "",
+    "salary_range_in_inr_per_annum": "2,00,000 - 10,00,000",
+    "degrees": [
+      {
+        "degree": "B.Tech/B.E.",
+        "specializations": [
+          "Computer Science",
+          "Information Technology",
+          "Electronics"
+        ]
+      },
+      {
+        "degree": "M.Tech/M.S.",
+        "specializations": [
+          "Computer Science",
+          "AI & ML",
+          "Robotics"
+        ]
+      }
+    ],
+    "skills_roadmap": [
+      "Skill 1",
+      "Skill 2",
+      "Skill 3"
+    ],
+    "work_context": "Typical tasks and context for the role (brief)."
+  },
+  {
+    "career": "Electrical Engineer",
+    "riasec": {
+      "R": 0.7,
+      "I": 0.6,
+      "A": 0.2,
+      "S": 0.3,
+      "E": 0.3,
+      "C": 0.6
+    },
+    "job_family": "Tech",
+    "ncs_code": "",
+    "salary_range_in_inr_per_annum": "2,00,000 - 10,00,000",
+    "degrees": [
+      {
+        "degree": "B.Tech/B.E.",
+        "specializations": [
+          "Computer Science",
+          "Information Technology",
+          "Electronics"
+        ]
+      },
+      {
+        "degree": "M.Tech/M.S.",
+        "specializations": [
+          "Computer Science",
+          "AI & ML",
+          "Robotics"
+        ]
+      }
+    ],
+    "skills_roadmap": [
+      "Skill 1",
+      "Skill 2",
+      "Skill 3"
+    ],
+    "work_context": "Typical tasks and context for the role (brief)."
+  },
+  {
+    "career": "Civil Engineer",
+    "riasec": {
+      "R": 0.7,
+      "I": 0.6,
+      "A": 0.2,
+      "S": 0.3,
+      "E": 0.3,
+      "C": 0.6
+    },
+    "job_family": "Tech",
+    "ncs_code": "",
+    "salary_range_in_inr_per_annum": "2,00,000 - 10,00,000",
+    "degrees": [
+      {
+        "degree": "B.Tech/B.E.",
+        "specializations": [
+          "Computer Science",
+          "Information Technology",
+          "Electronics"
+        ]
+      },
+      {
+        "degree": "M.Tech/M.S.",
+        "specializations": [
+          "Computer Science",
+          "AI & ML",
+          "Robotics"
+        ]
+      }
+    ],
+    "skills_roadmap": [
+      "Skill 1",
+      "Skill 2",
+      "Skill 3"
+    ],
+    "work_context": "Typical tasks and context for the role (brief)."
+  },
+  {
+    "career": "Chemical Engineer",
+    "riasec": {
+      "R": 0.7,
+      "I": 0.6,
+      "A": 0.2,
+      "S": 0.3,
+      "E": 0.3,
+      "C": 0.6
+    },
+    "job_family": "Tech",
+    "ncs_code": "",
+    "salary_range_in_inr_per_annum": "2,00,000 - 10,00,000",
+    "degrees": [
+      {
+        "degree": "B.Tech/B.E.",
+        "specializations": [
+          "Computer Science",
+          "Information Technology",
+          "Electronics"
+        ]
+      },
+      {
+        "degree": "M.Tech/M.S.",
+        "specializations": [
+          "Computer Science",
+          "AI & ML",
+          "Robotics"
+        ]
+      }
+    ],
+    "skills_roadmap": [
+      "Skill 1",
+      "Skill 2",
+      "Skill 3"
+    ],
+    "work_context": "Typical tasks and context for the role (brief)."
+  },
+  {
+    "career": "Environmental Engineer",
+    "riasec": {
+      "R": 0.7,
+      "I": 0.6,
+      "A": 0.2,
+      "S": 0.3,
+      "E": 0.3,
+      "C": 0.6
+    },
+    "job_family": "Tech",
+    "ncs_code": "",
+    "salary_range_in_inr_per_annum": "2,00,000 - 10,00,000",
+    "degrees": [
+      {
+        "degree": "B.Tech/B.E.",
+        "specializations": [
+          "Computer Science",
+          "Information Technology",
+          "Electronics"
+        ]
+      },
+      {
+        "degree": "M.Tech/M.S.",
+        "specializations": [
+          "Computer Science",
+          "AI & ML",
+          "Robotics"
+        ]
+      }
+    ],
+    "skills_roadmap": [
+      "Skill 1",
+      "Skill 2",
+      "Skill 3"
+    ],
+    "work_context": "Typical tasks and context for the role (brief)."
+  },
+  {
+    "career": "Robotics Engineer",
+    "riasec": {
+      "R": 0.7,
+      "I": 0.6,
+      "A": 0.2,
+      "S": 0.3,
+      "E": 0.3,
+      "C": 0.6
+    },
+    "job_family": "Tech",
+    "ncs_code": "",
+    "salary_range_in_inr_per_annum": "2,00,000 - 10,00,000",
+    "degrees": [
+      {
+        "degree": "B.Tech/B.E.",
+        "specializations": [
+          "Computer Science",
+          "Information Technology",
+          "Electronics"
+        ]
+      },
+      {
+        "degree": "M.Tech/M.S.",
+        "specializations": [
+          "Computer Science",
+          "AI & ML",
+          "Robotics"
+        ]
+      }
+    ],
+    "skills_roadmap": [
+      "Skill 1",
+      "Skill 2",
+      "Skill 3"
+    ],
+    "work_context": "Typical tasks and context for the role (brief)."
+  },
+  {
+    "career": "Automobile Engineer",
+    "riasec": {
+      "R": 0.7,
+      "I": 0.6,
+      "A": 0.2,
+      "S": 0.3,
+      "E": 0.3,
+      "C": 0.6
+    },
+    "job_family": "Tech",
+    "ncs_code": "",
+    "salary_range_in_inr_per_annum": "2,00,000 - 10,00,000",
+    "degrees": [
+      {
+        "degree": "B.Tech/B.E.",
+        "specializations": [
+          "Computer Science",
+          "Information Technology",
+          "Electronics"
+        ]
+      },
+      {
+        "degree": "M.Tech/M.S.",
+        "specializations": [
+          "Computer Science",
+          "AI & ML",
+          "Robotics"
+        ]
+      }
+    ],
+    "skills_roadmap": [
+      "Skill 1",
+      "Skill 2",
+      "Skill 3"
+    ],
+    "work_context": "Typical tasks and context for the role (brief)."
+  },
+  {
+    "career": "Aerospace Engineer",
+    "riasec": {
+      "R": 0.7,
+      "I": 0.6,
+      "A": 0.2,
+      "S": 0.3,
+      "E": 0.3,
+      "C": 0.6
+    },
+    "job_family": "Tech",
+    "ncs_code": "",
+    "salary_range_in_inr_per_annum": "2,00,000 - 10,00,000",
+    "degrees": [
+      {
+        "degree": "B.Tech/B.E.",
+        "specializations": [
+          "Computer Science",
+          "Information Technology",
+          "Electronics"
+        ]
+      },
+      {
+        "degree": "M.Tech/M.S.",
+        "specializations": [
+          "Computer Science",
+          "AI & ML",
+          "Robotics"
+        ]
+      }
+    ],
+    "skills_roadmap": [
+      "Skill 1",
+      "Skill 2",
+      "Skill 3"
+    ],
+    "work_context": "Typical tasks and context for the role (brief)."
+  },
+  {
+    "career": "Biomedical Engineer",
+    "riasec": {
+      "R": 0.7,
+      "I": 0.6,
+      "A": 0.2,
+      "S": 0.3,
+      "E": 0.3,
+      "C": 0.6
+    },
+    "job_family": "Tech",
+    "ncs_code": "",
+    "salary_range_in_inr_per_annum": "2,00,000 - 10,00,000",
+    "degrees": [
+      {
+        "degree": "B.Tech/B.E.",
+        "specializations": [
+          "Computer Science",
+          "Information Technology",
+          "Electronics"
+        ]
+      },
+      {
+        "degree": "M.Tech/M.S.",
+        "specializations": [
+          "Computer Science",
+          "AI & ML",
+          "Robotics"
+        ]
+      }
+    ],
+    "skills_roadmap": [
+      "Skill 1",
+      "Skill 2",
+      "Skill 3"
+    ],
+    "work_context": "Typical tasks and context for the role (brief)."
+  },
+  {
+    "career": "Industrial Engineer",
+    "riasec": {
+      "R": 0.7,
+      "I": 0.6,
+      "A": 0.2,
+      "S": 0.3,
+      "E": 0.3,
+      "C": 0.6
+    },
+    "job_family": "Tech",
+    "ncs_code": "",
+    "salary_range_in_inr_per_annum": "2,00,000 - 10,00,000",
+    "degrees": [
+      {
+        "degree": "B.Tech/B.E.",
+        "specializations": [
+          "Computer Science",
+          "Information Technology",
+          "Electronics"
+        ]
+      },
+      {
+        "degree": "M.Tech/M.S.",
+        "specializations": [
+          "Computer Science",
+          "AI & ML",
+          "Robotics"
+        ]
+      }
+    ],
+    "skills_roadmap": [
+      "Skill 1",
+      "Skill 2",
+      "Skill 3"
+    ],
+    "work_context": "Typical tasks and context for the role (brief)."
+  },
+  {
+    "career": "Chartered Accountant",
+    "riasec": {
+      "R": 0.1,
+      "I": 0.5,
+      "A": 0.1,
+      "S": 0.3,
+      "E": 0.5,
+      "C": 0.9
+    },
+    "job_family": "Commerce",
+    "ncs_code": "",
+    "salary_range_in_inr_per_annum": "2,00,000 - 10,00,000",
+    "degrees": [
+      {
+        "degree": "B.Com",
+        "specializations": [
+          "Accounting",
+          "Finance"
+        ]
+      },
+      {
+        "degree": "CA",
+        "specializations": [
+          "Chartered Accountancy"
+        ]
+      }
+    ],
+    "skills_roadmap": [
+      "Skill 1",
+      "Skill 2",
+      "Skill 3"
+    ],
+    "work_context": "Typical tasks and context for the role (brief)."
+  },
+  {
+    "career": "Financial Analyst",
+    "riasec": {
+      "R": 0.2,
+      "I": 0.9,
+      "A": 0.2,
+      "S": 0.3,
+      "E": 0.2,
+      "C": 0.6
+    },
+    "job_family": "Data",
+    "ncs_code": "",
+    "salary_range_in_inr_per_annum": "2,00,000 - 10,00,000",
+    "degrees": [
+      {
+        "degree": "B.Sc",
+        "specializations": [
+          "Statistics",
+          "Mathematics",
+          "Computer Science"
+        ]
+      },
+      {
+        "degree": "M.Sc / M.Tech",
+        "specializations": [
+          "Data Science",
+          "Statistics",
+          "Machine Learning"
+        ]
+      }
+    ],
+    "skills_roadmap": [
+      "Skill 1",
+      "Skill 2",
+      "Skill 3"
+    ],
+    "work_context": "Typical tasks and context for the role (brief)."
+  },
+  {
+    "career": "Investment Banker",
+    "riasec": {
+      "R": 0.1,
+      "I": 0.5,
+      "A": 0.1,
+      "S": 0.3,
+      "E": 0.5,
+      "C": 0.9
+    },
+    "job_family": "Commerce",
+    "ncs_code": "",
+    "salary_range_in_inr_per_annum": "2,00,000 - 10,00,000",
+    "degrees": [
+      {
+        "degree": "B.Com",
+        "specializations": [
+          "Accounting",
+          "Finance"
+        ]
+      },
+      {
+        "degree": "CA",
+        "specializations": [
+          "Chartered Accountancy"
+        ]
+      }
+    ],
+    "skills_roadmap": [
+      "Skill 1",
+      "Skill 2",
+      "Skill 3"
+    ],
+    "work_context": "Typical tasks and context for the role (brief)."
+  },
+  {
+    "career": "Banker",
+    "riasec": {
+      "R": 0.1,
+      "I": 0.5,
+      "A": 0.1,
+      "S": 0.3,
+      "E": 0.5,
+      "C": 0.9
+    },
+    "job_family": "Commerce",
+    "ncs_code": "",
+    "salary_range_in_inr_per_annum": "2,00,000 - 10,00,000",
+    "degrees": [
+      {
+        "degree": "B.Com",
+        "specializations": [
+          "Accounting",
+          "Finance"
+        ]
+      },
+      {
+        "degree": "CA",
+        "specializations": [
+          "Chartered Accountancy"
+        ]
+      }
+    ],
+    "skills_roadmap": [
+      "Skill 1",
+      "Skill 2",
+      "Skill 3"
+    ],
+    "work_context": "Typical tasks and context for the role (brief)."
+  },
+  {
+    "career": "Insurance Underwriter",
+    "riasec": {
+      "R": 0.5,
+      "I": 0.5,
+      "A": 0.5,
+      "S": 0.5,
+      "E": 0.5,
+      "C": 0.5
+    },
+    "job_family": "Tech",
+    "ncs_code": "",
+    "salary_range_in_inr_per_annum": "2,00,000 - 10,00,000",
+    "degrees": [
+      {
+        "degree": "B.Tech/B.E.",
+        "specializations": [
+          "Computer Science",
+          "Information Technology",
+          "Electronics"
+        ]
+      },
+      {
+        "degree": "M.Tech/M.S.",
+        "specializations": [
+          "Computer Science",
+          "AI & ML",
+          "Robotics"
+        ]
+      }
+    ],
+    "skills_roadmap": [
+      "Skill 1",
+      "Skill 2",
+      "Skill 3"
+    ],
+    "work_context": "Typical tasks and context for the role (brief)."
+  },
+  {
+    "career": "Tax Consultant",
+    "riasec": {
+      "R": 0.1,
+      "I": 0.5,
+      "A": 0.1,
+      "S": 0.3,
+      "E": 0.5,
+      "C": 0.9
+    },
+    "job_family": "Commerce",
+    "ncs_code": "",
+    "salary_range_in_inr_per_annum": "2,00,000 - 10,00,000",
+    "degrees": [
+      {
+        "degree": "B.Com",
+        "specializations": [
+          "Accounting",
+          "Finance"
+        ]
+      },
+      {
+        "degree": "CA",
+        "specializations": [
+          "Chartered Accountancy"
+        ]
+      }
+    ],
+    "skills_roadmap": [
+      "Skill 1",
+      "Skill 2",
+      "Skill 3"
+    ],
+    "work_context": "Typical tasks and context for the role (brief)."
+  },
+  {
+    "career": "Auditor",
+    "riasec": {
+      "R": 0.1,
+      "I": 0.5,
+      "A": 0.1,
+      "S": 0.3,
+      "E": 0.5,
+      "C": 0.9
+    },
+    "job_family": "Commerce",
+    "ncs_code": "",
+    "salary_range_in_inr_per_annum": "2,00,000 - 10,00,000",
+    "degrees": [
+      {
+        "degree": "B.Com",
+        "specializations": [
+          "Accounting",
+          "Finance"
+        ]
+      },
+      {
+        "degree": "CA",
+        "specializations": [
+          "Chartered Accountancy"
+        ]
+      }
+    ],
+    "skills_roadmap": [
+      "Skill 1",
+      "Skill 2",
+      "Skill 3"
+    ],
+    "work_context": "Typical tasks and context for the role (brief)."
+  },
+  {
+    "career": "Business Analyst",
+    "riasec": {
+      "R": 0.2,
+      "I": 0.5,
+      "A": 0.4,
+      "S": 0.4,
+      "E": 0.9,
+      "C": 0.5
+    },
+    "job_family": "Data",
+    "ncs_code": "",
+    "salary_range_in_inr_per_annum": "2,00,000 - 10,00,000",
+    "degrees": [
+      {
+        "degree": "B.Sc",
+        "specializations": [
+          "Statistics",
+          "Mathematics",
+          "Computer Science"
+        ]
+      },
+      {
+        "degree": "M.Sc / M.Tech",
+        "specializations": [
+          "Data Science",
+          "Statistics",
+          "Machine Learning"
+        ]
+      }
+    ],
+    "skills_roadmap": [
+      "Skill 1",
+      "Skill 2",
+      "Skill 3"
+    ],
+    "work_context": "Typical tasks and context for the role (brief)."
+  },
+  {
+    "career": "Management Consultant",
+    "riasec": {
+      "R": 0.5,
+      "I": 0.5,
+      "A": 0.5,
+      "S": 0.5,
+      "E": 0.5,
+      "C": 0.5
+    },
+    "job_family": "Tech",
+    "ncs_code": "",
+    "salary_range_in_inr_per_annum": "2,00,000 - 10,00,000",
+    "degrees": [
+      {
+        "degree": "B.Tech/B.E.",
+        "specializations": [
+          "Computer Science",
+          "Information Technology",
+          "Electronics"
+        ]
+      },
+      {
+        "degree": "M.Tech/M.S.",
+        "specializations": [
+          "Computer Science",
+          "AI & ML",
+          "Robotics"
+        ]
+      }
+    ],
+    "skills_roadmap": [
+      "Skill 1",
+      "Skill 2",
+      "Skill 3"
+    ],
+    "work_context": "Typical tasks and context for the role (brief)."
+  },
+  {
+    "career": "Operations Manager",
+    "riasec": {
+      "R": 0.2,
+      "I": 0.5,
+      "A": 0.4,
+      "S": 0.4,
+      "E": 0.9,
+      "C": 0.5
+    },
+    "job_family": "Management",
+    "ncs_code": "",
+    "salary_range_in_inr_per_annum": "2,00,000 - 10,00,000",
+    "degrees": [
+      {
+        "degree": "BBA",
+        "specializations": [
+          "Business Administration"
+        ]
+      },
+      {
+        "degree": "MBA",
+        "specializations": [
+          "Marketing",
+          "Finance",
+          "Operations"
+        ]
+      }
+    ],
+    "skills_roadmap": [
+      "Skill 1",
+      "Skill 2",
+      "Skill 3"
+    ],
+    "work_context": "Typical tasks and context for the role (brief)."
+  },
+  {
+    "career": "Marketing Manager",
+    "riasec": {
+      "R": 0.2,
+      "I": 0.5,
+      "A": 0.4,
+      "S": 0.4,
+      "E": 0.9,
+      "C": 0.5
+    },
+    "job_family": "Management",
+    "ncs_code": "",
+    "salary_range_in_inr_per_annum": "2,00,000 - 10,00,000",
+    "degrees": [
+      {
+        "degree": "BBA",
+        "specializations": [
+          "Business Administration"
+        ]
+      },
+      {
+        "degree": "MBA",
+        "specializations": [
+          "Marketing",
+          "Finance",
+          "Operations"
+        ]
+      }
+    ],
+    "skills_roadmap": [
+      "Skill 1",
+      "Skill 2",
+      "Skill 3"
+    ],
+    "work_context": "Typical tasks and context for the role (brief)."
+  },
+  {
+    "career": "Digital Marketer",
+    "riasec": {
+      "R": 0.5,
+      "I": 0.5,
+      "A": 0.5,
+      "S": 0.5,
+      "E": 0.5,
+      "C": 0.5
+    },
+    "job_family": "Tech",
+    "ncs_code": "",
+    "salary_range_in_inr_per_annum": "2,00,000 - 10,00,000",
+    "degrees": [
+      {
+        "degree": "B.Tech/B.E.",
+        "specializations": [
+          "Computer Science",
+          "Information Technology",
+          "Electronics"
+        ]
+      },
+      {
+        "degree": "M.Tech/M.S.",
+        "specializations": [
+          "Computer Science",
+          "AI & ML",
+          "Robotics"
+        ]
+      }
+    ],
+    "skills_roadmap": [
+      "Skill 1",
+      "Skill 2",
+      "Skill 3"
+    ],
+    "work_context": "Typical tasks and context for the role (brief)."
+  },
+  {
+    "career": "Content Strategist",
+    "riasec": {
+      "R": 0.5,
+      "I": 0.5,
+      "A": 0.5,
+      "S": 0.5,
+      "E": 0.5,
+      "C": 0.5
+    },
+    "job_family": "Tech",
+    "ncs_code": "",
+    "salary_range_in_inr_per_annum": "2,00,000 - 10,00,000",
+    "degrees": [
+      {
+        "degree": "B.Tech/B.E.",
+        "specializations": [
+          "Computer Science",
+          "Information Technology",
+          "Electronics"
+        ]
+      },
+      {
+        "degree": "M.Tech/M.S.",
+        "specializations": [
+          "Computer Science",
+          "AI & ML",
+          "Robotics"
+        ]
+      }
+    ],
+    "skills_roadmap": [
+      "Skill 1",
+      "Skill 2",
+      "Skill 3"
+    ],
+    "work_context": "Typical tasks and context for the role (brief)."
+  },
+  {
+    "career": "SEO Specialist",
+    "riasec": {
+      "R": 0.5,
+      "I": 0.5,
+      "A": 0.5,
+      "S": 0.5,
+      "E": 0.5,
+      "C": 0.5
+    },
+    "job_family": "Tech",
+    "ncs_code": "",
+    "salary_range_in_inr_per_annum": "2,00,000 - 10,00,000",
+    "degrees": [
+      {
+        "degree": "B.Tech/B.E.",
+        "specializations": [
+          "Computer Science",
+          "Information Technology",
+          "Electronics"
+        ]
+      },
+      {
+        "degree": "M.Tech/M.S.",
+        "specializations": [
+          "Computer Science",
+          "AI & ML",
+          "Robotics"
+        ]
+      }
+    ],
+    "skills_roadmap": [
+      "Skill 1",
+      "Skill 2",
+      "Skill 3"
+    ],
+    "work_context": "Typical tasks and context for the role (brief)."
+  },
+  {
+    "career": "Social Media Manager",
+    "riasec": {
+      "R": 0.2,
+      "I": 0.5,
+      "A": 0.4,
+      "S": 0.4,
+      "E": 0.9,
+      "C": 0.5
+    },
+    "job_family": "Management",
+    "ncs_code": "",
+    "salary_range_in_inr_per_annum": "2,00,000 - 10,00,000",
+    "degrees": [
+      {
+        "degree": "BBA",
+        "specializations": [
+          "Business Administration"
+        ]
+      },
+      {
+        "degree": "MBA",
+        "specializations": [
+          "Marketing",
+          "Finance",
+          "Operations"
+        ]
+      }
+    ],
+    "skills_roadmap": [
+      "Skill 1",
+      "Skill 2",
+      "Skill 3"
+    ],
+    "work_context": "Typical tasks and context for the role (brief)."
+  },
+  {
+    "career": "Sales Executive",
+    "riasec": {
+      "R": 0.2,
+      "I": 0.5,
+      "A": 0.4,
+      "S": 0.4,
+      "E": 0.9,
+      "C": 0.5
+    },
+    "job_family": "Management",
+    "ncs_code": "",
+    "salary_range_in_inr_per_annum": "2,00,000 - 10,00,000",
+    "degrees": [
+      {
+        "degree": "BBA",
+        "specializations": [
+          "Business Administration"
+        ]
+      },
+      {
+        "degree": "MBA",
+        "specializations": [
+          "Marketing",
+          "Finance",
+          "Operations"
+        ]
+      }
+    ],
+    "skills_roadmap": [
+      "Skill 1",
+      "Skill 2",
+      "Skill 3"
+    ],
+    "work_context": "Typical tasks and context for the role (brief)."
+  },
+  {
+    "career": "Business Development Manager",
+    "riasec": {
+      "R": 0.2,
+      "I": 0.5,
+      "A": 0.4,
+      "S": 0.4,
+      "E": 0.9,
+      "C": 0.5
+    },
+    "job_family": "Management",
+    "ncs_code": "",
+    "salary_range_in_inr_per_annum": "2,00,000 - 10,00,000",
+    "degrees": [
+      {
+        "degree": "BBA",
+        "specializations": [
+          "Business Administration"
+        ]
+      },
+      {
+        "degree": "MBA",
+        "specializations": [
+          "Marketing",
+          "Finance",
+          "Operations"
+        ]
+      }
+    ],
+    "skills_roadmap": [
+      "Skill 1",
+      "Skill 2",
+      "Skill 3"
+    ],
+    "work_context": "Typical tasks and context for the role (brief)."
+  },
+  {
+    "career": "Customer Success Manager",
+    "riasec": {
+      "R": 0.2,
+      "I": 0.5,
+      "A": 0.4,
+      "S": 0.4,
+      "E": 0.9,
+      "C": 0.5
+    },
+    "job_family": "Management",
+    "ncs_code": "",
+    "salary_range_in_inr_per_annum": "2,00,000 - 10,00,000",
+    "degrees": [
+      {
+        "degree": "BBA",
+        "specializations": [
+          "Business Administration"
+        ]
+      },
+      {
+        "degree": "MBA",
+        "specializations": [
+          "Marketing",
+          "Finance",
+          "Operations"
+        ]
+      }
+    ],
+    "skills_roadmap": [
+      "Skill 1",
+      "Skill 2",
+      "Skill 3"
+    ],
+    "work_context": "Typical tasks and context for the role (brief)."
+  },
+  {
+    "career": "Retail Manager",
+    "riasec": {
+      "R": 0.2,
+      "I": 0.5,
+      "A": 0.4,
+      "S": 0.4,
+      "E": 0.9,
+      "C": 0.5
+    },
+    "job_family": "Management",
+    "ncs_code": "",
+    "salary_range_in_inr_per_annum": "2,00,000 - 10,00,000",
+    "degrees": [
+      {
+        "degree": "BBA",
+        "specializations": [
+          "Business Administration"
+        ]
+      },
+      {
+        "degree": "MBA",
+        "specializations": [
+          "Marketing",
+          "Finance",
+          "Operations"
+        ]
+      }
+    ],
+    "skills_roadmap": [
+      "Skill 1",
+      "Skill 2",
+      "Skill 3"
+    ],
+    "work_context": "Typical tasks and context for the role (brief)."
+  },
+  {
+    "career": "E-commerce Manager",
+    "riasec": {
+      "R": 0.2,
+      "I": 0.5,
+      "A": 0.4,
+      "S": 0.4,
+      "E": 0.9,
+      "C": 0.5
+    },
+    "job_family": "Management",
+    "ncs_code": "",
+    "salary_range_in_inr_per_annum": "2,00,000 - 10,00,000",
+    "degrees": [
+      {
+        "degree": "BBA",
+        "specializations": [
+          "Business Administration"
+        ]
+      },
+      {
+        "degree": "MBA",
+        "specializations": [
+          "Marketing",
+          "Finance",
+          "Operations"
+        ]
+      }
+    ],
+    "skills_roadmap": [
+      "Skill 1",
+      "Skill 2",
+      "Skill 3"
+    ],
+    "work_context": "Typical tasks and context for the role (brief)."
+  },
+  {
+    "career": "Teacher / Lecturer",
+    "riasec": {
+      "R": 0.1,
+      "I": 0.5,
+      "A": 0.3,
+      "S": 0.8,
+      "E": 0.5,
+      "C": 0.4
+    },
+    "job_family": "Tech",
+    "ncs_code": "",
+    "salary_range_in_inr_per_annum": "2,00,000 - 10,00,000",
+    "degrees": [
+      {
+        "degree": "B.Tech/B.E.",
+        "specializations": [
+          "Computer Science",
+          "Information Technology",
+          "Electronics"
+        ]
+      },
+      {
+        "degree": "M.Tech/M.S.",
+        "specializations": [
+          "Computer Science",
+          "AI & ML",
+          "Robotics"
+        ]
+      }
+    ],
+    "skills_roadmap": [
+      "Skill 1",
+      "Skill 2",
+      "Skill 3"
+    ],
+    "work_context": "Typical tasks and context for the role (brief)."
+  },
+  {
+    "career": "Professor",
+    "riasec": {
+      "R": 0.5,
+      "I": 0.5,
+      "A": 0.5,
+      "S": 0.5,
+      "E": 0.5,
+      "C": 0.5
+    },
+    "job_family": "Tech",
+    "ncs_code": "",
+    "salary_range_in_inr_per_annum": "2,00,000 - 10,00,000",
+    "degrees": [
+      {
+        "degree": "B.Tech/B.E.",
+        "specializations": [
+          "Computer Science",
+          "Information Technology",
+          "Electronics"
+        ]
+      },
+      {
+        "degree": "M.Tech/M.S.",
+        "specializations": [
+          "Computer Science",
+          "AI & ML",
+          "Robotics"
+        ]
+      }
+    ],
+    "skills_roadmap": [
+      "Skill 1",
+      "Skill 2",
+      "Skill 3"
+    ],
+    "work_context": "Typical tasks and context for the role (brief)."
+  },
+  {
+    "career": "Academic Researcher",
+    "riasec": {
+      "R": 0.2,
+      "I": 0.9,
+      "A": 0.2,
+      "S": 0.3,
+      "E": 0.2,
+      "C": 0.6
+    },
+    "job_family": "Tech",
+    "ncs_code": "",
+    "salary_range_in_inr_per_annum": "2,00,000 - 10,00,000",
+    "degrees": [
+      {
+        "degree": "B.Tech/B.E.",
+        "specializations": [
+          "Computer Science",
+          "Information Technology",
+          "Electronics"
+        ]
+      },
+      {
+        "degree": "M.Tech/M.S.",
+        "specializations": [
+          "Computer Science",
+          "AI & ML",
+          "Robotics"
+        ]
+      }
+    ],
+    "skills_roadmap": [
+      "Skill 1",
+      "Skill 2",
+      "Skill 3"
+    ],
+    "work_context": "Typical tasks and context for the role (brief)."
+  },
+  {
+    "career": "Educational Counselor",
+    "riasec": {
+      "R": 0.1,
+      "I": 0.5,
+      "A": 0.3,
+      "S": 0.8,
+      "E": 0.5,
+      "C": 0.4
+    },
+    "job_family": "Tech",
+    "ncs_code": "",
+    "salary_range_in_inr_per_annum": "2,00,000 - 10,00,000",
+    "degrees": [
+      {
+        "degree": "B.Tech/B.E.",
+        "specializations": [
+          "Computer Science",
+          "Information Technology",
+          "Electronics"
+        ]
+      },
+      {
+        "degree": "M.Tech/M.S.",
+        "specializations": [
+          "Computer Science",
+          "AI & ML",
+          "Robotics"
+        ]
+      }
+    ],
+    "skills_roadmap": [
+      "Skill 1",
+      "Skill 2",
+      "Skill 3"
+    ],
+    "work_context": "Typical tasks and context for the role (brief)."
+  },
+  {
+    "career": "School Administrator",
+    "riasec": {
+      "R": 0.5,
+      "I": 0.5,
+      "A": 0.5,
+      "S": 0.5,
+      "E": 0.5,
+      "C": 0.5
+    },
+    "job_family": "Tech",
+    "ncs_code": "",
+    "salary_range_in_inr_per_annum": "2,00,000 - 10,00,000",
+    "degrees": [
+      {
+        "degree": "B.Tech/B.E.",
+        "specializations": [
+          "Computer Science",
+          "Information Technology",
+          "Electronics"
+        ]
+      },
+      {
+        "degree": "M.Tech/M.S.",
+        "specializations": [
+          "Computer Science",
+          "AI & ML",
+          "Robotics"
+        ]
+      }
+    ],
+    "skills_roadmap": [
+      "Skill 1",
+      "Skill 2",
+      "Skill 3"
+    ],
+    "work_context": "Typical tasks and context for the role (brief)."
+  },
+  {
+    "career": "Nurse",
+    "riasec": {
+      "R": 0.1,
+      "I": 0.5,
+      "A": 0.3,
+      "S": 0.8,
+      "E": 0.5,
+      "C": 0.4
+    },
+    "job_family": "Health",
+    "ncs_code": "",
+    "salary_range_in_inr_per_annum": "2,00,000 - 10,00,000",
+    "degrees": [
+      {
+        "degree": "B.Sc Nursing",
+        "specializations": [
+          "Nursing"
+        ]
+      },
+      {
+        "degree": "MBBS",
+        "specializations": [
+          "General Medicine"
+        ]
+      }
+    ],
+    "skills_roadmap": [
+      "Skill 1",
+      "Skill 2",
+      "Skill 3"
+    ],
+    "work_context": "Typical tasks and context for the role (brief)."
+  },
+  {
+    "career": "Physician (Doctor)",
+    "riasec": {
+      "R": 0.5,
+      "I": 0.5,
+      "A": 0.5,
+      "S": 0.5,
+      "E": 0.5,
+      "C": 0.5
+    },
+    "job_family": "Health",
+    "ncs_code": "",
+    "salary_range_in_inr_per_annum": "2,00,000 - 10,00,000",
+    "degrees": [
+      {
+        "degree": "B.Sc Nursing",
+        "specializations": [
+          "Nursing"
+        ]
+      },
+      {
+        "degree": "MBBS",
+        "specializations": [
+          "General Medicine"
+        ]
+      }
+    ],
+    "skills_roadmap": [
+      "Skill 1",
+      "Skill 2",
+      "Skill 3"
+    ],
+    "work_context": "Typical tasks and context for the role (brief)."
+  },
+  {
+    "career": "Surgeon",
+    "riasec": {
+      "R": 0.5,
+      "I": 0.5,
+      "A": 0.5,
+      "S": 0.5,
+      "E": 0.5,
+      "C": 0.5
+    },
+    "job_family": "Health",
+    "ncs_code": "",
+    "salary_range_in_inr_per_annum": "2,00,000 - 10,00,000",
+    "degrees": [
+      {
+        "degree": "B.Sc Nursing",
+        "specializations": [
+          "Nursing"
+        ]
+      },
+      {
+        "degree": "MBBS",
+        "specializations": [
+          "General Medicine"
+        ]
+      }
+    ],
+    "skills_roadmap": [
+      "Skill 1",
+      "Skill 2",
+      "Skill 3"
+    ],
+    "work_context": "Typical tasks and context for the role (brief)."
+  },
+  {
+    "career": "Pharmacist",
+    "riasec": {
+      "R": 0.5,
+      "I": 0.5,
+      "A": 0.5,
+      "S": 0.5,
+      "E": 0.5,
+      "C": 0.5
+    },
+    "job_family": "Health",
+    "ncs_code": "",
+    "salary_range_in_inr_per_annum": "2,00,000 - 10,00,000",
+    "degrees": [
+      {
+        "degree": "B.Sc Nursing",
+        "specializations": [
+          "Nursing"
+        ]
+      },
+      {
+        "degree": "MBBS",
+        "specializations": [
+          "General Medicine"
+        ]
+      }
+    ],
+    "skills_roadmap": [
+      "Skill 1",
+      "Skill 2",
+      "Skill 3"
+    ],
+    "work_context": "Typical tasks and context for the role (brief)."
+  },
+  {
+    "career": "Physiotherapist",
+    "riasec": {
+      "R": 0.1,
+      "I": 0.5,
+      "A": 0.3,
+      "S": 0.8,
+      "E": 0.5,
+      "C": 0.4
+    },
+    "job_family": "Health",
+    "ncs_code": "",
+    "salary_range_in_inr_per_annum": "2,00,000 - 10,00,000",
+    "degrees": [
+      {
+        "degree": "B.Sc Nursing",
+        "specializations": [
+          "Nursing"
+        ]
+      },
+      {
+        "degree": "MBBS",
+        "specializations": [
+          "General Medicine"
+        ]
+      }
+    ],
+    "skills_roadmap": [
+      "Skill 1",
+      "Skill 2",
+      "Skill 3"
+    ],
+    "work_context": "Typical tasks and context for the role (brief)."
+  },
+  {
+    "career": "Dentist",
+    "riasec": {
+      "R": 0.5,
+      "I": 0.5,
+      "A": 0.5,
+      "S": 0.5,
+      "E": 0.5,
+      "C": 0.5
+    },
+    "job_family": "Tech",
+    "ncs_code": "",
+    "salary_range_in_inr_per_annum": "2,00,000 - 10,00,000",
+    "degrees": [
+      {
+        "degree": "B.Tech/B.E.",
+        "specializations": [
+          "Computer Science",
+          "Information Technology",
+          "Electronics"
+        ]
+      },
+      {
+        "degree": "M.Tech/M.S.",
+        "specializations": [
+          "Computer Science",
+          "AI & ML",
+          "Robotics"
+        ]
+      }
+    ],
+    "skills_roadmap": [
+      "Skill 1",
+      "Skill 2",
+      "Skill 3"
+    ],
+    "work_context": "Typical tasks and context for the role (brief)."
+  },
+  {
+    "career": "Veterinarian",
+    "riasec": {
+      "R": 0.5,
+      "I": 0.5,
+      "A": 0.5,
+      "S": 0.5,
+      "E": 0.5,
+      "C": 0.5
+    },
+    "job_family": "Health",
+    "ncs_code": "",
+    "salary_range_in_inr_per_annum": "2,00,000 - 10,00,000",
+    "degrees": [
+      {
+        "degree": "B.Sc Nursing",
+        "specializations": [
+          "Nursing"
+        ]
+      },
+      {
+        "degree": "MBBS",
+        "specializations": [
+          "General Medicine"
+        ]
+      }
+    ],
+    "skills_roadmap": [
+      "Skill 1",
+      "Skill 2",
+      "Skill 3"
+    ],
+    "work_context": "Typical tasks and context for the role (brief)."
+  },
+  {
+    "career": "Clinical Psychologist",
+    "riasec": {
+      "R": 0.1,
+      "I": 0.5,
+      "A": 0.3,
+      "S": 0.8,
+      "E": 0.5,
+      "C": 0.4
+    },
+    "job_family": "Tech",
+    "ncs_code": "",
+    "salary_range_in_inr_per_annum": "2,00,000 - 10,00,000",
+    "degrees": [
+      {
+        "degree": "B.Tech/B.E.",
+        "specializations": [
+          "Computer Science",
+          "Information Technology",
+          "Electronics"
+        ]
+      },
+      {
+        "degree": "M.Tech/M.S.",
+        "specializations": [
+          "Computer Science",
+          "AI & ML",
+          "Robotics"
+        ]
+      }
+    ],
+    "skills_roadmap": [
+      "Skill 1",
+      "Skill 2",
+      "Skill 3"
+    ],
+    "work_context": "Typical tasks and context for the role (brief)."
+  },
+  {
+    "career": "Counselor",
+    "riasec": {
+      "R": 0.1,
+      "I": 0.5,
+      "A": 0.3,
+      "S": 0.8,
+      "E": 0.5,
+      "C": 0.4
+    },
+    "job_family": "Tech",
+    "ncs_code": "",
+    "salary_range_in_inr_per_annum": "2,00,000 - 10,00,000",
+    "degrees": [
+      {
+        "degree": "B.Tech/B.E.",
+        "specializations": [
+          "Computer Science",
+          "Information Technology",
+          "Electronics"
+        ]
+      },
+      {
+        "degree": "M.Tech/M.S.",
+        "specializations": [
+          "Computer Science",
+          "AI & ML",
+          "Robotics"
+        ]
+      }
+    ],
+    "skills_roadmap": [
+      "Skill 1",
+      "Skill 2",
+      "Skill 3"
+    ],
+    "work_context": "Typical tasks and context for the role (brief)."
+  },
+  {
+    "career": "Social Worker",
+    "riasec": {
+      "R": 0.1,
+      "I": 0.5,
+      "A": 0.3,
+      "S": 0.8,
+      "E": 0.5,
+      "C": 0.4
+    },
+    "job_family": "Tech",
+    "ncs_code": "",
+    "salary_range_in_inr_per_annum": "2,00,000 - 10,00,000",
+    "degrees": [
+      {
+        "degree": "B.Tech/B.E.",
+        "specializations": [
+          "Computer Science",
+          "Information Technology",
+          "Electronics"
+        ]
+      },
+      {
+        "degree": "M.Tech/M.S.",
+        "specializations": [
+          "Computer Science",
+          "AI & ML",
+          "Robotics"
+        ]
+      }
+    ],
+    "skills_roadmap": [
+      "Skill 1",
+      "Skill 2",
+      "Skill 3"
+    ],
+    "work_context": "Typical tasks and context for the role (brief)."
+  },
+  {
+    "career": "Lawyer",
+    "riasec": {
+      "R": 0.5,
+      "I": 0.5,
+      "A": 0.5,
+      "S": 0.5,
+      "E": 0.5,
+      "C": 0.5
+    },
+    "job_family": "Law",
+    "ncs_code": "",
+    "salary_range_in_inr_per_annum": "2,00,000 - 10,00,000",
+    "degrees": [
+      {
+        "degree": "LLB",
+        "specializations": [
+          "Corporate Law",
+          "Criminal Law"
+        ]
+      }
+    ],
+    "skills_roadmap": [
+      "Skill 1",
+      "Skill 2",
+      "Skill 3"
+    ],
+    "work_context": "Typical tasks and context for the role (brief)."
+  },
+  {
+    "career": "Legal Advisor",
+    "riasec": {
+      "R": 0.5,
+      "I": 0.5,
+      "A": 0.5,
+      "S": 0.5,
+      "E": 0.5,
+      "C": 0.5
+    },
+    "job_family": "Law",
+    "ncs_code": "",
+    "salary_range_in_inr_per_annum": "2,00,000 - 10,00,000",
+    "degrees": [
+      {
+        "degree": "LLB",
+        "specializations": [
+          "Corporate Law",
+          "Criminal Law"
+        ]
+      }
+    ],
+    "skills_roadmap": [
+      "Skill 1",
+      "Skill 2",
+      "Skill 3"
+    ],
+    "work_context": "Typical tasks and context for the role (brief)."
+  },
+  {
+    "career": "Paralegal",
+    "riasec": {
+      "R": 0.5,
+      "I": 0.5,
+      "A": 0.5,
+      "S": 0.5,
+      "E": 0.5,
+      "C": 0.5
+    },
+    "job_family": "Law",
+    "ncs_code": "",
+    "salary_range_in_inr_per_annum": "2,00,000 - 10,00,000",
+    "degrees": [
+      {
+        "degree": "LLB",
+        "specializations": [
+          "Corporate Law",
+          "Criminal Law"
+        ]
+      }
+    ],
+    "skills_roadmap": [
+      "Skill 1",
+      "Skill 2",
+      "Skill 3"
+    ],
+    "work_context": "Typical tasks and context for the role (brief)."
+  },
+  {
+    "career": "Judge",
+    "riasec": {
+      "R": 0.5,
+      "I": 0.5,
+      "A": 0.5,
+      "S": 0.5,
+      "E": 0.5,
+      "C": 0.5
+    },
+    "job_family": "Law",
+    "ncs_code": "",
+    "salary_range_in_inr_per_annum": "2,00,000 - 10,00,000",
+    "degrees": [
+      {
+        "degree": "LLB",
+        "specializations": [
+          "Corporate Law",
+          "Criminal Law"
+        ]
+      }
+    ],
+    "skills_roadmap": [
+      "Skill 1",
+      "Skill 2",
+      "Skill 3"
+    ],
+    "work_context": "Typical tasks and context for the role (brief)."
+  },
+  {
+    "career": "Compliance Officer",
+    "riasec": {
+      "R": 0.5,
+      "I": 0.5,
+      "A": 0.5,
+      "S": 0.5,
+      "E": 0.5,
+      "C": 0.5
+    },
+    "job_family": "Tech",
+    "ncs_code": "",
+    "salary_range_in_inr_per_annum": "2,00,000 - 10,00,000",
+    "degrees": [
+      {
+        "degree": "B.Tech/B.E.",
+        "specializations": [
+          "Computer Science",
+          "Information Technology",
+          "Electronics"
+        ]
+      },
+      {
+        "degree": "M.Tech/M.S.",
+        "specializations": [
+          "Computer Science",
+          "AI & ML",
+          "Robotics"
+        ]
+      }
+    ],
+    "skills_roadmap": [
+      "Skill 1",
+      "Skill 2",
+      "Skill 3"
+    ],
+    "work_context": "Typical tasks and context for the role (brief)."
+  },
+  {
+    "career": "Human Resources Manager",
+    "riasec": {
+      "R": 0.2,
+      "I": 0.5,
+      "A": 0.4,
+      "S": 0.4,
+      "E": 0.9,
+      "C": 0.5
+    },
+    "job_family": "Management",
+    "ncs_code": "",
+    "salary_range_in_inr_per_annum": "2,00,000 - 10,00,000",
+    "degrees": [
+      {
+        "degree": "BBA",
+        "specializations": [
+          "Business Administration"
+        ]
+      },
+      {
+        "degree": "MBA",
+        "specializations": [
+          "Marketing",
+          "Finance",
+          "Operations"
+        ]
+      }
+    ],
+    "skills_roadmap": [
+      "Skill 1",
+      "Skill 2",
+      "Skill 3"
+    ],
+    "work_context": "Typical tasks and context for the role (brief)."
+  },
+  {
+    "career": "Recruiter",
+    "riasec": {
+      "R": 0.5,
+      "I": 0.5,
+      "A": 0.5,
+      "S": 0.5,
+      "E": 0.5,
+      "C": 0.5
+    },
+    "job_family": "Tech",
+    "ncs_code": "",
+    "salary_range_in_inr_per_annum": "2,00,000 - 10,00,000",
+    "degrees": [
+      {
+        "degree": "B.Tech/B.E.",
+        "specializations": [
+          "Computer Science",
+          "Information Technology",
+          "Electronics"
+        ]
+      },
+      {
+        "degree": "M.Tech/M.S.",
+        "specializations": [
+          "Computer Science",
+          "AI & ML",
+          "Robotics"
+        ]
+      }
+    ],
+    "skills_roadmap": [
+      "Skill 1",
+      "Skill 2",
+      "Skill 3"
+    ],
+    "work_context": "Typical tasks and context for the role (brief)."
+  },
+  {
+    "career": "Training & Development Specialist",
+    "riasec": {
+      "R": 0.5,
+      "I": 0.5,
+      "A": 0.5,
+      "S": 0.5,
+      "E": 0.5,
+      "C": 0.5
+    },
+    "job_family": "Tech",
+    "ncs_code": "",
+    "salary_range_in_inr_per_annum": "2,00,000 - 10,00,000",
+    "degrees": [
+      {
+        "degree": "B.Tech/B.E.",
+        "specializations": [
+          "Computer Science",
+          "Information Technology",
+          "Electronics"
+        ]
+      },
+      {
+        "degree": "M.Tech/M.S.",
+        "specializations": [
+          "Computer Science",
+          "AI & ML",
+          "Robotics"
+        ]
+      }
+    ],
+    "skills_roadmap": [
+      "Skill 1",
+      "Skill 2",
+      "Skill 3"
+    ],
+    "work_context": "Typical tasks and context for the role (brief)."
+  },
+  {
+    "career": "Organizational Psychologist",
+    "riasec": {
+      "R": 0.1,
+      "I": 0.5,
+      "A": 0.3,
+      "S": 0.8,
+      "E": 0.5,
+      "C": 0.4
+    },
+    "job_family": "Tech",
+    "ncs_code": "",
+    "salary_range_in_inr_per_annum": "2,00,000 - 10,00,000",
+    "degrees": [
+      {
+        "degree": "B.Tech/B.E.",
+        "specializations": [
+          "Computer Science",
+          "Information Technology",
+          "Electronics"
+        ]
+      },
+      {
+        "degree": "M.Tech/M.S.",
+        "specializations": [
+          "Computer Science",
+          "AI & ML",
+          "Robotics"
+        ]
+      }
+    ],
+    "skills_roadmap": [
+      "Skill 1",
+      "Skill 2",
+      "Skill 3"
+    ],
+    "work_context": "Typical tasks and context for the role (brief)."
+  },
+  {
+    "career": "HRBP",
+    "riasec": {
+      "R": 0.5,
+      "I": 0.5,
+      "A": 0.5,
+      "S": 0.5,
+      "E": 0.5,
+      "C": 0.5
+    },
+    "job_family": "Tech",
+    "ncs_code": "",
+    "salary_range_in_inr_per_annum": "2,00,000 - 10,00,000",
+    "degrees": [
+      {
+        "degree": "B.Tech/B.E.",
+        "specializations": [
+          "Computer Science",
+          "Information Technology",
+          "Electronics"
+        ]
+      },
+      {
+        "degree": "M.Tech/M.S.",
+        "specializations": [
+          "Computer Science",
+          "AI & ML",
+          "Robotics"
+        ]
+      }
+    ],
+    "skills_roadmap": [
+      "Skill 1",
+      "Skill 2",
+      "Skill 3"
+    ],
+    "work_context": "Typical tasks and context for the role (brief)."
+  },
+  {
+    "career": "Journalist",
+    "riasec": {
+      "R": 0.5,
+      "I": 0.5,
+      "A": 0.5,
+      "S": 0.5,
+      "E": 0.5,
+      "C": 0.5
+    },
+    "job_family": "Tech",
+    "ncs_code": "",
+    "salary_range_in_inr_per_annum": "2,00,000 - 10,00,000",
+    "degrees": [
+      {
+        "degree": "B.Tech/B.E.",
+        "specializations": [
+          "Computer Science",
+          "Information Technology",
+          "Electronics"
+        ]
+      },
+      {
+        "degree": "M.Tech/M.S.",
+        "specializations": [
+          "Computer Science",
+          "AI & ML",
+          "Robotics"
+        ]
+      }
+    ],
+    "skills_roadmap": [
+      "Skill 1",
+      "Skill 2",
+      "Skill 3"
+    ],
+    "work_context": "Typical tasks and context for the role (brief)."
+  },
+  {
+    "career": "Editor",
+    "riasec": {
+      "R": 0.5,
+      "I": 0.5,
+      "A": 0.5,
+      "S": 0.5,
+      "E": 0.5,
+      "C": 0.5
+    },
+    "job_family": "Tech",
+    "ncs_code": "",
+    "salary_range_in_inr_per_annum": "2,00,000 - 10,00,000",
+    "degrees": [
+      {
+        "degree": "B.Tech/B.E.",
+        "specializations": [
+          "Computer Science",
+          "Information Technology",
+          "Electronics"
+        ]
+      },
+      {
+        "degree": "M.Tech/M.S.",
+        "specializations": [
+          "Computer Science",
+          "AI & ML",
+          "Robotics"
+        ]
+      }
+    ],
+    "skills_roadmap": [
+      "Skill 1",
+      "Skill 2",
+      "Skill 3"
+    ],
+    "work_context": "Typical tasks and context for the role (brief)."
+  },
+  {
+    "career": "Content Writer",
+    "riasec": {
+      "R": 0.5,
+      "I": 0.5,
+      "A": 0.5,
+      "S": 0.5,
+      "E": 0.5,
+      "C": 0.5
+    },
+    "job_family": "Tech",
+    "ncs_code": "",
+    "salary_range_in_inr_per_annum": "2,00,000 - 10,00,000",
+    "degrees": [
+      {
+        "degree": "B.Tech/B.E.",
+        "specializations": [
+          "Computer Science",
+          "Information Technology",
+          "Electronics"
+        ]
+      },
+      {
+        "degree": "M.Tech/M.S.",
+        "specializations": [
+          "Computer Science",
+          "AI & ML",
+          "Robotics"
+        ]
+      }
+    ],
+    "skills_roadmap": [
+      "Skill 1",
+      "Skill 2",
+      "Skill 3"
+    ],
+    "work_context": "Typical tasks and context for the role (brief)."
+  },
+  {
+    "career": "Copywriter",
+    "riasec": {
+      "R": 0.5,
+      "I": 0.5,
+      "A": 0.5,
+      "S": 0.5,
+      "E": 0.5,
+      "C": 0.5
+    },
+    "job_family": "Tech",
+    "ncs_code": "",
+    "salary_range_in_inr_per_annum": "2,00,000 - 10,00,000",
+    "degrees": [
+      {
+        "degree": "B.Tech/B.E.",
+        "specializations": [
+          "Computer Science",
+          "Information Technology",
+          "Electronics"
+        ]
+      },
+      {
+        "degree": "M.Tech/M.S.",
+        "specializations": [
+          "Computer Science",
+          "AI & ML",
+          "Robotics"
+        ]
+      }
+    ],
+    "skills_roadmap": [
+      "Skill 1",
+      "Skill 2",
+      "Skill 3"
+    ],
+    "work_context": "Typical tasks and context for the role (brief)."
+  },
+  {
+    "career": "Translator",
+    "riasec": {
+      "R": 0.5,
+      "I": 0.5,
+      "A": 0.5,
+      "S": 0.5,
+      "E": 0.5,
+      "C": 0.5
+    },
+    "job_family": "Tech",
+    "ncs_code": "",
+    "salary_range_in_inr_per_annum": "2,00,000 - 10,00,000",
+    "degrees": [
+      {
+        "degree": "B.Tech/B.E.",
+        "specializations": [
+          "Computer Science",
+          "Information Technology",
+          "Electronics"
+        ]
+      },
+      {
+        "degree": "M.Tech/M.S.",
+        "specializations": [
+          "Computer Science",
+          "AI & ML",
+          "Robotics"
+        ]
+      }
+    ],
+    "skills_roadmap": [
+      "Skill 1",
+      "Skill 2",
+      "Skill 3"
+    ],
+    "work_context": "Typical tasks and context for the role (brief)."
+  },
+  {
+    "career": "Photographer",
+    "riasec": {
+      "R": 0.1,
+      "I": 0.4,
+      "A": 0.9,
+      "S": 0.3,
+      "E": 0.4,
+      "C": 0.3
+    },
+    "job_family": "Arts",
+    "ncs_code": "",
+    "salary_range_in_inr_per_annum": "2,00,000 - 10,00,000",
+    "degrees": [
+      {
+        "degree": "B.Des / BA",
+        "specializations": [
+          "Graphic Design",
+          "Fine Arts"
+        ]
+      }
+    ],
+    "skills_roadmap": [
+      "Skill 1",
+      "Skill 2",
+      "Skill 3"
+    ],
+    "work_context": "Typical tasks and context for the role (brief)."
+  },
+  {
+    "career": "Filmmaker",
+    "riasec": {
+      "R": 0.1,
+      "I": 0.4,
+      "A": 0.9,
+      "S": 0.3,
+      "E": 0.4,
+      "C": 0.3
+    },
+    "job_family": "Arts",
+    "ncs_code": "",
+    "salary_range_in_inr_per_annum": "2,00,000 - 10,00,000",
+    "degrees": [
+      {
+        "degree": "B.Des / BA",
+        "specializations": [
+          "Graphic Design",
+          "Fine Arts"
+        ]
+      }
+    ],
+    "skills_roadmap": [
+      "Skill 1",
+      "Skill 2",
+      "Skill 3"
+    ],
+    "work_context": "Typical tasks and context for the role (brief)."
+  },
+  {
+    "career": "Video Editor",
+    "riasec": {
+      "R": 0.5,
+      "I": 0.5,
+      "A": 0.5,
+      "S": 0.5,
+      "E": 0.5,
+      "C": 0.5
+    },
+    "job_family": "Tech",
+    "ncs_code": "",
+    "salary_range_in_inr_per_annum": "2,00,000 - 10,00,000",
+    "degrees": [
+      {
+        "degree": "B.Tech/B.E.",
+        "specializations": [
+          "Computer Science",
+          "Information Technology",
+          "Electronics"
+        ]
+      },
+      {
+        "degree": "M.Tech/M.S.",
+        "specializations": [
+          "Computer Science",
+          "AI & ML",
+          "Robotics"
+        ]
+      }
+    ],
+    "skills_roadmap": [
+      "Skill 1",
+      "Skill 2",
+      "Skill 3"
+    ],
+    "work_context": "Typical tasks and context for the role (brief)."
+  },
+  {
+    "career": "Animator",
+    "riasec": {
+      "R": 0.1,
+      "I": 0.4,
+      "A": 0.9,
+      "S": 0.3,
+      "E": 0.4,
+      "C": 0.3
+    },
+    "job_family": "Arts",
+    "ncs_code": "",
+    "salary_range_in_inr_per_annum": "2,00,000 - 10,00,000",
+    "degrees": [
+      {
+        "degree": "B.Des / BA",
+        "specializations": [
+          "Graphic Design",
+          "Fine Arts"
+        ]
+      }
+    ],
+    "skills_roadmap": [
+      "Skill 1",
+      "Skill 2",
+      "Skill 3"
+    ],
+    "work_context": "Typical tasks and context for the role (brief)."
+  },
+  {
+    "career": "Sound Engineer",
+    "riasec": {
+      "R": 0.7,
+      "I": 0.6,
+      "A": 0.2,
+      "S": 0.3,
+      "E": 0.3,
+      "C": 0.6
+    },
+    "job_family": "Tech",
+    "ncs_code": "",
+    "salary_range_in_inr_per_annum": "2,00,000 - 10,00,000",
+    "degrees": [
+      {
+        "degree": "B.Tech/B.E.",
+        "specializations": [
+          "Computer Science",
+          "Information Technology",
+          "Electronics"
+        ]
+      },
+      {
+        "degree": "M.Tech/M.S.",
+        "specializations": [
+          "Computer Science",
+          "AI & ML",
+          "Robotics"
+        ]
+      }
+    ],
+    "skills_roadmap": [
+      "Skill 1",
+      "Skill 2",
+      "Skill 3"
+    ],
+    "work_context": "Typical tasks and context for the role (brief)."
+  },
+  {
+    "career": "Event Manager",
+    "riasec": {
+      "R": 0.2,
+      "I": 0.5,
+      "A": 0.4,
+      "S": 0.4,
+      "E": 0.9,
+      "C": 0.5
+    },
+    "job_family": "Management",
+    "ncs_code": "",
+    "salary_range_in_inr_per_annum": "2,00,000 - 10,00,000",
+    "degrees": [
+      {
+        "degree": "BBA",
+        "specializations": [
+          "Business Administration"
+        ]
+      },
+      {
+        "degree": "MBA",
+        "specializations": [
+          "Marketing",
+          "Finance",
+          "Operations"
+        ]
+      }
+    ],
+    "skills_roadmap": [
+      "Skill 1",
+      "Skill 2",
+      "Skill 3"
+    ],
+    "work_context": "Typical tasks and context for the role (brief)."
+  },
+  {
+    "career": "Hotel Manager",
+    "riasec": {
+      "R": 0.2,
+      "I": 0.5,
+      "A": 0.4,
+      "S": 0.4,
+      "E": 0.9,
+      "C": 0.5
+    },
+    "job_family": "Management",
+    "ncs_code": "",
+    "salary_range_in_inr_per_annum": "2,00,000 - 10,00,000",
+    "degrees": [
+      {
+        "degree": "BBA",
+        "specializations": [
+          "Business Administration"
+        ]
+      },
+      {
+        "degree": "MBA",
+        "specializations": [
+          "Marketing",
+          "Finance",
+          "Operations"
+        ]
+      }
+    ],
+    "skills_roadmap": [
+      "Skill 1",
+      "Skill 2",
+      "Skill 3"
+    ],
+    "work_context": "Typical tasks and context for the role (brief)."
+  },
+  {
+    "career": "Travel Manager",
+    "riasec": {
+      "R": 0.2,
+      "I": 0.5,
+      "A": 0.4,
+      "S": 0.4,
+      "E": 0.9,
+      "C": 0.5
+    },
+    "job_family": "Management",
+    "ncs_code": "",
+    "salary_range_in_inr_per_annum": "2,00,000 - 10,00,000",
+    "degrees": [
+      {
+        "degree": "BBA",
+        "specializations": [
+          "Business Administration"
+        ]
+      },
+      {
+        "degree": "MBA",
+        "specializations": [
+          "Marketing",
+          "Finance",
+          "Operations"
+        ]
+      }
+    ],
+    "skills_roadmap": [
+      "Skill 1",
+      "Skill 2",
+      "Skill 3"
+    ],
+    "work_context": "Typical tasks and context for the role (brief)."
+  },
+  {
+    "career": "Hospitality Executive",
+    "riasec": {
+      "R": 0.5,
+      "I": 0.5,
+      "A": 0.5,
+      "S": 0.5,
+      "E": 0.5,
+      "C": 0.5
+    },
+    "job_family": "Tech",
+    "ncs_code": "",
+    "salary_range_in_inr_per_annum": "2,00,000 - 10,00,000",
+    "degrees": [
+      {
+        "degree": "B.Tech/B.E.",
+        "specializations": [
+          "Computer Science",
+          "Information Technology",
+          "Electronics"
+        ]
+      },
+      {
+        "degree": "M.Tech/M.S.",
+        "specializations": [
+          "Computer Science",
+          "AI & ML",
+          "Robotics"
+        ]
+      }
+    ],
+    "skills_roadmap": [
+      "Skill 1",
+      "Skill 2",
+      "Skill 3"
+    ],
+    "work_context": "Typical tasks and context for the role (brief)."
+  },
+  {
+    "career": "Chef",
+    "riasec": {
+      "R": 0.5,
+      "I": 0.5,
+      "A": 0.5,
+      "S": 0.5,
+      "E": 0.5,
+      "C": 0.5
+    },
+    "job_family": "Tech",
+    "ncs_code": "",
+    "salary_range_in_inr_per_annum": "2,00,000 - 10,00,000",
+    "degrees": [
+      {
+        "degree": "B.Tech/B.E.",
+        "specializations": [
+          "Computer Science",
+          "Information Technology",
+          "Electronics"
+        ]
+      },
+      {
+        "degree": "M.Tech/M.S.",
+        "specializations": [
+          "Computer Science",
+          "AI & ML",
+          "Robotics"
+        ]
+      }
+    ],
+    "skills_roadmap": [
+      "Skill 1",
+      "Skill 2",
+      "Skill 3"
+    ],
+    "work_context": "Typical tasks and context for the role (brief)."
+  },
+  {
+    "career": "Fashion Designer",
+    "riasec": {
+      "R": 0.1,
+      "I": 0.4,
+      "A": 0.9,
+      "S": 0.3,
+      "E": 0.4,
+      "C": 0.3
+    },
+    "job_family": "Arts",
+    "ncs_code": "",
+    "salary_range_in_inr_per_annum": "2,00,000 - 10,00,000",
+    "degrees": [
+      {
+        "degree": "B.Des / BA",
+        "specializations": [
+          "Graphic Design",
+          "Fine Arts"
+        ]
+      }
+    ],
+    "skills_roadmap": [
+      "Skill 1",
+      "Skill 2",
+      "Skill 3"
+    ],
+    "work_context": "Typical tasks and context for the role (brief)."
+  },
+  {
+    "career": "Textile Designer",
+    "riasec": {
+      "R": 0.1,
+      "I": 0.4,
+      "A": 0.9,
+      "S": 0.3,
+      "E": 0.4,
+      "C": 0.3
+    },
+    "job_family": "Arts",
+    "ncs_code": "",
+    "salary_range_in_inr_per_annum": "2,00,000 - 10,00,000",
+    "degrees": [
+      {
+        "degree": "B.Des / BA",
+        "specializations": [
+          "Graphic Design",
+          "Fine Arts"
+        ]
+      }
+    ],
+    "skills_roadmap": [
+      "Skill 1",
+      "Skill 2",
+      "Skill 3"
+    ],
+    "work_context": "Typical tasks and context for the role (brief)."
+  },
+  {
+    "career": "Tailor / Garment Technologist",
+    "riasec": {
+      "R": 0.5,
+      "I": 0.5,
+      "A": 0.5,
+      "S": 0.5,
+      "E": 0.5,
+      "C": 0.5
+    },
+    "job_family": "Tech",
+    "ncs_code": "",
+    "salary_range_in_inr_per_annum": "2,00,000 - 10,00,000",
+    "degrees": [
+      {
+        "degree": "B.Tech/B.E.",
+        "specializations": [
+          "Computer Science",
+          "Information Technology",
+          "Electronics"
+        ]
+      },
+      {
+        "degree": "M.Tech/M.S.",
+        "specializations": [
+          "Computer Science",
+          "AI & ML",
+          "Robotics"
+        ]
+      }
+    ],
+    "skills_roadmap": [
+      "Skill 1",
+      "Skill 2",
+      "Skill 3"
+    ],
+    "work_context": "Typical tasks and context for the role (brief)."
+  },
+  {
+    "career": "Jewelry Designer",
+    "riasec": {
+      "R": 0.1,
+      "I": 0.4,
+      "A": 0.9,
+      "S": 0.3,
+      "E": 0.4,
+      "C": 0.3
+    },
+    "job_family": "Arts",
+    "ncs_code": "",
+    "salary_range_in_inr_per_annum": "2,00,000 - 10,00,000",
+    "degrees": [
+      {
+        "degree": "B.Des / BA",
+        "specializations": [
+          "Graphic Design",
+          "Fine Arts"
+        ]
+      }
+    ],
+    "skills_roadmap": [
+      "Skill 1",
+      "Skill 2",
+      "Skill 3"
+    ],
+    "work_context": "Typical tasks and context for the role (brief)."
+  },
+  {
+    "career": "Accessory Designer",
+    "riasec": {
+      "R": 0.1,
+      "I": 0.4,
+      "A": 0.9,
+      "S": 0.3,
+      "E": 0.4,
+      "C": 0.3
+    },
+    "job_family": "Arts",
+    "ncs_code": "",
+    "salary_range_in_inr_per_annum": "2,00,000 - 10,00,000",
+    "degrees": [
+      {
+        "degree": "B.Des / BA",
+        "specializations": [
+          "Graphic Design",
+          "Fine Arts"
+        ]
+      }
+    ],
+    "skills_roadmap": [
+      "Skill 1",
+      "Skill 2",
+      "Skill 3"
+    ],
+    "work_context": "Typical tasks and context for the role (brief)."
+  },
+  {
+    "career": "Interior Designer",
+    "riasec": {
+      "R": 0.1,
+      "I": 0.4,
+      "A": 0.9,
+      "S": 0.3,
+      "E": 0.4,
+      "C": 0.3
+    },
+    "job_family": "Arts",
+    "ncs_code": "",
+    "salary_range_in_inr_per_annum": "2,00,000 - 10,00,000",
+    "degrees": [
+      {
+        "degree": "B.Des / BA",
+        "specializations": [
+          "Graphic Design",
+          "Fine Arts"
+        ]
+      }
+    ],
+    "skills_roadmap": [
+      "Skill 1",
+      "Skill 2",
+      "Skill 3"
+    ],
+    "work_context": "Typical tasks and context for the role (brief)."
+  },
+  {
+    "career": "Landscape Architect",
+    "riasec": {
+      "R": 0.1,
+      "I": 0.4,
+      "A": 0.9,
+      "S": 0.3,
+      "E": 0.4,
+      "C": 0.3
+    },
+    "job_family": "Tech",
+    "ncs_code": "",
+    "salary_range_in_inr_per_annum": "2,00,000 - 10,00,000",
+    "degrees": [
+      {
+        "degree": "B.Tech/B.E.",
+        "specializations": [
+          "Computer Science",
+          "Information Technology",
+          "Electronics"
+        ]
+      },
+      {
+        "degree": "M.Tech/M.S.",
+        "specializations": [
+          "Computer Science",
+          "AI & ML",
+          "Robotics"
+        ]
+      }
+    ],
+    "skills_roadmap": [
+      "Skill 1",
+      "Skill 2",
+      "Skill 3"
+    ],
+    "work_context": "Typical tasks and context for the role (brief)."
+  },
+  {
+    "career": "Architect",
+    "riasec": {
+      "R": 0.5,
+      "I": 0.5,
+      "A": 0.5,
+      "S": 0.5,
+      "E": 0.5,
+      "C": 0.5
+    },
+    "job_family": "Tech",
+    "ncs_code": "",
+    "salary_range_in_inr_per_annum": "2,00,000 - 10,00,000",
+    "degrees": [
+      {
+        "degree": "B.Tech/B.E.",
+        "specializations": [
+          "Computer Science",
+          "Information Technology",
+          "Electronics"
+        ]
+      },
+      {
+        "degree": "M.Tech/M.S.",
+        "specializations": [
+          "Computer Science",
+          "AI & ML",
+          "Robotics"
+        ]
+      }
+    ],
+    "skills_roadmap": [
+      "Skill 1",
+      "Skill 2",
+      "Skill 3"
+    ],
+    "work_context": "Typical tasks and context for the role (brief)."
+  },
+  {
+    "career": "Urban Planner",
+    "riasec": {
+      "R": 0.5,
+      "I": 0.5,
+      "A": 0.5,
+      "S": 0.5,
+      "E": 0.5,
+      "C": 0.5
+    },
+    "job_family": "Tech",
+    "ncs_code": "",
+    "salary_range_in_inr_per_annum": "2,00,000 - 10,00,000",
+    "degrees": [
+      {
+        "degree": "B.Tech/B.E.",
+        "specializations": [
+          "Computer Science",
+          "Information Technology",
+          "Electronics"
+        ]
+      },
+      {
+        "degree": "M.Tech/M.S.",
+        "specializations": [
+          "Computer Science",
+          "AI & ML",
+          "Robotics"
+        ]
+      }
+    ],
+    "skills_roadmap": [
+      "Skill 1",
+      "Skill 2",
+      "Skill 3"
+    ],
+    "work_context": "Typical tasks and context for the role (brief)."
+  },
+  {
+    "career": "Surveyor",
+    "riasec": {
+      "R": 0.5,
+      "I": 0.5,
+      "A": 0.5,
+      "S": 0.5,
+      "E": 0.5,
+      "C": 0.5
+    },
+    "job_family": "Tech",
+    "ncs_code": "",
+    "salary_range_in_inr_per_annum": "2,00,000 - 10,00,000",
+    "degrees": [
+      {
+        "degree": "B.Tech/B.E.",
+        "specializations": [
+          "Computer Science",
+          "Information Technology",
+          "Electronics"
+        ]
+      },
+      {
+        "degree": "M.Tech/M.S.",
+        "specializations": [
+          "Computer Science",
+          "AI & ML",
+          "Robotics"
+        ]
+      }
+    ],
+    "skills_roadmap": [
+      "Skill 1",
+      "Skill 2",
+      "Skill 3"
+    ],
+    "work_context": "Typical tasks and context for the role (brief)."
+  },
+  {
+    "career": "Agriculture Farmer / Entrepreneur",
+    "riasec": {
+      "R": 0.9,
+      "I": 0.3,
+      "A": 0.3,
+      "S": 0.7,
+      "E": 0.4,
+      "C": 0.3
+    },
+    "job_family": "Agri",
+    "ncs_code": "",
+    "salary_range_in_inr_per_annum": "1,00,000 - 6,00,000",
+    "degrees": [
+      {
+        "degree": "B.Sc Agriculture",
+        "specializations": [
+          "Agronomy",
+          "Horticulture"
+        ]
+      },
+      {
+        "degree": "Diploma",
+        "specializations": [
+          "Farm Management"
+        ]
+      }
+    ],
+    "skills_roadmap": [
+      "Skill 1",
+      "Skill 2",
+      "Skill 3"
+    ],
+    "work_context": "Typical tasks and context for the role (brief)."
+  },
+  {
+    "career": "Horticulture Specialist",
+    "riasec": {
+      "R": 0.9,
+      "I": 0.3,
+      "A": 0.3,
+      "S": 0.7,
+      "E": 0.4,
+      "C": 0.3
+    },
+    "job_family": "Agri",
+    "ncs_code": "",
+    "salary_range_in_inr_per_annum": "2,00,000 - 10,00,000",
+    "degrees": [
+      {
+        "degree": "B.Sc Agriculture",
+        "specializations": [
+          "Agronomy",
+          "Horticulture"
+        ]
+      },
+      {
+        "degree": "Diploma",
+        "specializations": [
+          "Farm Management"
+        ]
+      }
+    ],
+    "skills_roadmap": [
+      "Skill 1",
+      "Skill 2",
+      "Skill 3"
+    ],
+    "work_context": "Typical tasks and context for the role (brief)."
+  },
+  {
+    "career": "Agricultural Scientist",
+    "riasec": {
+      "R": 0.2,
+      "I": 0.9,
+      "A": 0.2,
+      "S": 0.3,
+      "E": 0.2,
+      "C": 0.6
+    },
+    "job_family": "Data",
+    "ncs_code": "",
+    "salary_range_in_inr_per_annum": "2,00,000 - 10,00,000",
+    "degrees": [
+      {
+        "degree": "B.Sc",
+        "specializations": [
+          "Statistics",
+          "Mathematics",
+          "Computer Science"
+        ]
+      },
+      {
+        "degree": "M.Sc / M.Tech",
+        "specializations": [
+          "Data Science",
+          "Statistics",
+          "Machine Learning"
+        ]
+      }
+    ],
+    "skills_roadmap": [
+      "Skill 1",
+      "Skill 2",
+      "Skill 3"
+    ],
+    "work_context": "Typical tasks and context for the role (brief)."
+  },
+  {
+    "career": "Food Technologist",
+    "riasec": {
+      "R": 0.5,
+      "I": 0.5,
+      "A": 0.5,
+      "S": 0.5,
+      "E": 0.5,
+      "C": 0.5
+    },
+    "job_family": "Tech",
+    "ncs_code": "",
+    "salary_range_in_inr_per_annum": "2,00,000 - 10,00,000",
+    "degrees": [
+      {
+        "degree": "B.Tech/B.E.",
+        "specializations": [
+          "Computer Science",
+          "Information Technology",
+          "Electronics"
+        ]
+      },
+      {
+        "degree": "M.Tech/M.S.",
+        "specializations": [
+          "Computer Science",
+          "AI & ML",
+          "Robotics"
+        ]
+      }
+    ],
+    "skills_roadmap": [
+      "Skill 1",
+      "Skill 2",
+      "Skill 3"
+    ],
+    "work_context": "Typical tasks and context for the role (brief)."
+  },
+  {
+    "career": "Soil Scientist",
+    "riasec": {
+      "R": 0.9,
+      "I": 0.3,
+      "A": 0.3,
+      "S": 0.7,
+      "E": 0.4,
+      "C": 0.3
+    },
+    "job_family": "Data",
+    "ncs_code": "",
+    "salary_range_in_inr_per_annum": "2,00,000 - 10,00,000",
+    "degrees": [
+      {
+        "degree": "B.Sc",
+        "specializations": [
+          "Statistics",
+          "Mathematics",
+          "Computer Science"
+        ]
+      },
+      {
+        "degree": "M.Sc / M.Tech",
+        "specializations": [
+          "Data Science",
+          "Statistics",
+          "Machine Learning"
+        ]
+      }
+    ],
+    "skills_roadmap": [
+      "Skill 1",
+      "Skill 2",
+      "Skill 3"
+    ],
+    "work_context": "Typical tasks and context for the role (brief)."
+  },
+  {
+    "career": "Forestry Officer",
+    "riasec": {
+      "R": 0.9,
+      "I": 0.3,
+      "A": 0.3,
+      "S": 0.7,
+      "E": 0.4,
+      "C": 0.3
+    },
+    "job_family": "Agri",
+    "ncs_code": "",
+    "salary_range_in_inr_per_annum": "2,00,000 - 10,00,000",
+    "degrees": [
+      {
+        "degree": "B.Sc Agriculture",
+        "specializations": [
+          "Agronomy",
+          "Horticulture"
+        ]
+      },
+      {
+        "degree": "Diploma",
+        "specializations": [
+          "Farm Management"
+        ]
+      }
+    ],
+    "skills_roadmap": [
+      "Skill 1",
+      "Skill 2",
+      "Skill 3"
+    ],
+    "work_context": "Typical tasks and context for the role (brief)."
+  },
+  {
+    "career": "Fisheries Manager",
+    "riasec": {
+      "R": 0.9,
+      "I": 0.3,
+      "A": 0.3,
+      "S": 0.7,
+      "E": 0.4,
+      "C": 0.3
+    },
+    "job_family": "Agri",
+    "ncs_code": "",
+    "salary_range_in_inr_per_annum": "2,00,000 - 10,00,000",
+    "degrees": [
+      {
+        "degree": "B.Sc Agriculture",
+        "specializations": [
+          "Agronomy",
+          "Horticulture"
+        ]
+      },
+      {
+        "degree": "Diploma",
+        "specializations": [
+          "Farm Management"
+        ]
+      }
+    ],
+    "skills_roadmap": [
+      "Skill 1",
+      "Skill 2",
+      "Skill 3"
+    ],
+    "work_context": "Typical tasks and context for the role (brief)."
+  },
+  {
+    "career": "Marine Biologist",
+    "riasec": {
+      "R": 0.5,
+      "I": 0.5,
+      "A": 0.5,
+      "S": 0.5,
+      "E": 0.5,
+      "C": 0.5
+    },
+    "job_family": "Tech",
+    "ncs_code": "",
+    "salary_range_in_inr_per_annum": "2,00,000 - 10,00,000",
+    "degrees": [
+      {
+        "degree": "B.Tech/B.E.",
+        "specializations": [
+          "Computer Science",
+          "Information Technology",
+          "Electronics"
+        ]
+      },
+      {
+        "degree": "M.Tech/M.S.",
+        "specializations": [
+          "Computer Science",
+          "AI & ML",
+          "Robotics"
+        ]
+      }
+    ],
+    "skills_roadmap": [
+      "Skill 1",
+      "Skill 2",
+      "Skill 3"
+    ],
+    "work_context": "Typical tasks and context for the role (brief)."
+  },
+  {
+    "career": "Environmental Scientist",
+    "riasec": {
+      "R": 0.2,
+      "I": 0.9,
+      "A": 0.2,
+      "S": 0.3,
+      "E": 0.2,
+      "C": 0.6
+    },
+    "job_family": "Data",
+    "ncs_code": "",
+    "salary_range_in_inr_per_annum": "2,00,000 - 10,00,000",
+    "degrees": [
+      {
+        "degree": "B.Sc",
+        "specializations": [
+          "Statistics",
+          "Mathematics",
+          "Computer Science"
+        ]
+      },
+      {
+        "degree": "M.Sc / M.Tech",
+        "specializations": [
+          "Data Science",
+          "Statistics",
+          "Machine Learning"
+        ]
+      }
+    ],
+    "skills_roadmap": [
+      "Skill 1",
+      "Skill 2",
+      "Skill 3"
+    ],
+    "work_context": "Typical tasks and context for the role (brief)."
+  },
+  {
+    "career": "Wildlife Biologist",
+    "riasec": {
+      "R": 0.5,
+      "I": 0.5,
+      "A": 0.5,
+      "S": 0.5,
+      "E": 0.5,
+      "C": 0.5
+    },
+    "job_family": "Tech",
+    "ncs_code": "",
+    "salary_range_in_inr_per_annum": "2,00,000 - 10,00,000",
+    "degrees": [
+      {
+        "degree": "B.Tech/B.E.",
+        "specializations": [
+          "Computer Science",
+          "Information Technology",
+          "Electronics"
+        ]
+      },
+      {
+        "degree": "M.Tech/M.S.",
+        "specializations": [
+          "Computer Science",
+          "AI & ML",
+          "Robotics"
+        ]
+      }
+    ],
+    "skills_roadmap": [
+      "Skill 1",
+      "Skill 2",
+      "Skill 3"
+    ],
+    "work_context": "Typical tasks and context for the role (brief)."
+  },
+  {
+    "career": "Philanthropy Manager",
+    "riasec": {
+      "R": 0.2,
+      "I": 0.5,
+      "A": 0.4,
+      "S": 0.4,
+      "E": 0.9,
+      "C": 0.5
+    },
+    "job_family": "Management",
+    "ncs_code": "",
+    "salary_range_in_inr_per_annum": "2,00,000 - 10,00,000",
+    "degrees": [
+      {
+        "degree": "BBA",
+        "specializations": [
+          "Business Administration"
+        ]
+      },
+      {
+        "degree": "MBA",
+        "specializations": [
+          "Marketing",
+          "Finance",
+          "Operations"
+        ]
+      }
+    ],
+    "skills_roadmap": [
+      "Skill 1",
+      "Skill 2",
+      "Skill 3"
+    ],
+    "work_context": "Typical tasks and context for the role (brief)."
+  },
+  {
+    "career": "NGO Program Manager",
+    "riasec": {
+      "R": 0.2,
+      "I": 0.5,
+      "A": 0.4,
+      "S": 0.4,
+      "E": 0.9,
+      "C": 0.5
+    },
+    "job_family": "Management",
+    "ncs_code": "",
+    "salary_range_in_inr_per_annum": "2,00,000 - 10,00,000",
+    "degrees": [
+      {
+        "degree": "BBA",
+        "specializations": [
+          "Business Administration"
+        ]
+      },
+      {
+        "degree": "MBA",
+        "specializations": [
+          "Marketing",
+          "Finance",
+          "Operations"
+        ]
+      }
+    ],
+    "skills_roadmap": [
+      "Skill 1",
+      "Skill 2",
+      "Skill 3"
+    ],
+    "work_context": "Typical tasks and context for the role (brief)."
+  },
+  {
+    "career": "Community Development Officer",
+    "riasec": {
+      "R": 0.5,
+      "I": 0.5,
+      "A": 0.5,
+      "S": 0.5,
+      "E": 0.5,
+      "C": 0.5
+    },
+    "job_family": "Tech",
+    "ncs_code": "",
+    "salary_range_in_inr_per_annum": "2,00,000 - 10,00,000",
+    "degrees": [
+      {
+        "degree": "B.Tech/B.E.",
+        "specializations": [
+          "Computer Science",
+          "Information Technology",
+          "Electronics"
+        ]
+      },
+      {
+        "degree": "M.Tech/M.S.",
+        "specializations": [
+          "Computer Science",
+          "AI & ML",
+          "Robotics"
+        ]
+      }
+    ],
+    "skills_roadmap": [
+      "Skill 1",
+      "Skill 2",
+      "Skill 3"
+    ],
+    "work_context": "Typical tasks and context for the role (brief)."
+  },
+  {
+    "career": "Public Relations Specialist",
+    "riasec": {
+      "R": 0.5,
+      "I": 0.5,
+      "A": 0.5,
+      "S": 0.5,
+      "E": 0.5,
+      "C": 0.5
+    },
+    "job_family": "Tech",
+    "ncs_code": "",
+    "salary_range_in_inr_per_annum": "2,00,000 - 10,00,000",
+    "degrees": [
+      {
+        "degree": "B.Tech/B.E.",
+        "specializations": [
+          "Computer Science",
+          "Information Technology",
+          "Electronics"
+        ]
+      },
+      {
+        "degree": "M.Tech/M.S.",
+        "specializations": [
+          "Computer Science",
+          "AI & ML",
+          "Robotics"
+        ]
+      }
+    ],
+    "skills_roadmap": [
+      "Skill 1",
+      "Skill 2",
+      "Skill 3"
+    ],
+    "work_context": "Typical tasks and context for the role (brief)."
+  },
+  {
+    "career": "CSR Manager",
+    "riasec": {
+      "R": 0.2,
+      "I": 0.5,
+      "A": 0.4,
+      "S": 0.4,
+      "E": 0.9,
+      "C": 0.5
+    },
+    "job_family": "Management",
+    "ncs_code": "",
+    "salary_range_in_inr_per_annum": "2,00,000 - 10,00,000",
+    "degrees": [
+      {
+        "degree": "BBA",
+        "specializations": [
+          "Business Administration"
+        ]
+      },
+      {
+        "degree": "MBA",
+        "specializations": [
+          "Marketing",
+          "Finance",
+          "Operations"
+        ]
+      }
+    ],
+    "skills_roadmap": [
+      "Skill 1",
+      "Skill 2",
+      "Skill 3"
+    ],
+    "work_context": "Typical tasks and context for the role (brief)."
+  },
+  {
+    "career": "Public Policy Analyst",
+    "riasec": {
+      "R": 0.2,
+      "I": 0.9,
+      "A": 0.2,
+      "S": 0.3,
+      "E": 0.2,
+      "C": 0.6
+    },
+    "job_family": "Data",
+    "ncs_code": "",
+    "salary_range_in_inr_per_annum": "2,00,000 - 10,00,000",
+    "degrees": [
+      {
+        "degree": "B.Sc",
+        "specializations": [
+          "Statistics",
+          "Mathematics",
+          "Computer Science"
+        ]
+      },
+      {
+        "degree": "M.Sc / M.Tech",
+        "specializations": [
+          "Data Science",
+          "Statistics",
+          "Machine Learning"
+        ]
+      }
+    ],
+    "skills_roadmap": [
+      "Skill 1",
+      "Skill 2",
+      "Skill 3"
+    ],
+    "work_context": "Typical tasks and context for the role (brief)."
+  },
+  {
+    "career": "Civil Services Aspirant",
+    "riasec": {
+      "R": 0.7,
+      "I": 0.6,
+      "A": 0.2,
+      "S": 0.3,
+      "E": 0.3,
+      "C": 0.6
+    },
+    "job_family": "Tech",
+    "ncs_code": "",
+    "salary_range_in_inr_per_annum": "2,00,000 - 10,00,000",
+    "degrees": [
+      {
+        "degree": "B.Tech/B.E.",
+        "specializations": [
+          "Computer Science",
+          "Information Technology",
+          "Electronics"
+        ]
+      },
+      {
+        "degree": "M.Tech/M.S.",
+        "specializations": [
+          "Computer Science",
+          "AI & ML",
+          "Robotics"
+        ]
+      }
+    ],
+    "skills_roadmap": [
+      "Skill 1",
+      "Skill 2",
+      "Skill 3"
+    ],
+    "work_context": "Typical tasks and context for the role (brief)."
+  },
+  {
+    "career": "Municipal Officer",
+    "riasec": {
+      "R": 0.5,
+      "I": 0.5,
+      "A": 0.5,
+      "S": 0.5,
+      "E": 0.5,
+      "C": 0.5
+    },
+    "job_family": "Tech",
+    "ncs_code": "",
+    "salary_range_in_inr_per_annum": "2,00,000 - 10,00,000",
+    "degrees": [
+      {
+        "degree": "B.Tech/B.E.",
+        "specializations": [
+          "Computer Science",
+          "Information Technology",
+          "Electronics"
+        ]
+      },
+      {
+        "degree": "M.Tech/M.S.",
+        "specializations": [
+          "Computer Science",
+          "AI & ML",
+          "Robotics"
+        ]
+      }
+    ],
+    "skills_roadmap": [
+      "Skill 1",
+      "Skill 2",
+      "Skill 3"
+    ],
+    "work_context": "Typical tasks and context for the role (brief)."
+  },
+  {
+    "career": "Diplomat",
+    "riasec": {
+      "R": 0.5,
+      "I": 0.5,
+      "A": 0.5,
+      "S": 0.5,
+      "E": 0.5,
+      "C": 0.5
+    },
+    "job_family": "Tech",
+    "ncs_code": "",
+    "salary_range_in_inr_per_annum": "2,00,000 - 10,00,000",
+    "degrees": [
+      {
+        "degree": "B.Tech/B.E.",
+        "specializations": [
+          "Computer Science",
+          "Information Technology",
+          "Electronics"
+        ]
+      },
+      {
+        "degree": "M.Tech/M.S.",
+        "specializations": [
+          "Computer Science",
+          "AI & ML",
+          "Robotics"
+        ]
+      }
+    ],
+    "skills_roadmap": [
+      "Skill 1",
+      "Skill 2",
+      "Skill 3"
+    ],
+    "work_context": "Typical tasks and context for the role (brief)."
+  },
+  {
+    "career": "Foreign Service Officer",
+    "riasec": {
+      "R": 0.5,
+      "I": 0.5,
+      "A": 0.5,
+      "S": 0.5,
+      "E": 0.5,
+      "C": 0.5
+    },
+    "job_family": "Tech",
+    "ncs_code": "",
+    "salary_range_in_inr_per_annum": "2,00,000 - 10,00,000",
+    "degrees": [
+      {
+        "degree": "B.Tech/B.E.",
+        "specializations": [
+          "Computer Science",
+          "Information Technology",
+          "Electronics"
+        ]
+      },
+      {
+        "degree": "M.Tech/M.S.",
+        "specializations": [
+          "Computer Science",
+          "AI & ML",
+          "Robotics"
+        ]
+      }
+    ],
+    "skills_roadmap": [
+      "Skill 1",
+      "Skill 2",
+      "Skill 3"
+    ],
+    "work_context": "Typical tasks and context for the role (brief)."
+  },
+  {
+    "career": "Entrepreneur / Startup Founder",
+    "riasec": {
+      "R": 0.2,
+      "I": 0.5,
+      "A": 0.4,
+      "S": 0.4,
+      "E": 0.9,
+      "C": 0.5
+    },
+    "job_family": "Management",
+    "ncs_code": "",
+    "salary_range_in_inr_per_annum": "2,00,000 - 10,00,000",
+    "degrees": [
+      {
+        "degree": "BBA",
+        "specializations": [
+          "Business Administration"
+        ]
+      },
+      {
+        "degree": "MBA",
+        "specializations": [
+          "Marketing",
+          "Finance",
+          "Operations"
+        ]
+      }
+    ],
+    "skills_roadmap": [
+      "Skill 1",
+      "Skill 2",
+      "Skill 3"
+    ],
+    "work_context": "Typical tasks and context for the role (brief)."
+  },
+  {
+    "career": "Small Business Owner",
+    "riasec": {
+      "R": 0.2,
+      "I": 0.5,
+      "A": 0.4,
+      "S": 0.4,
+      "E": 0.9,
+      "C": 0.5
+    },
+    "job_family": "Management",
+    "ncs_code": "",
+    "salary_range_in_inr_per_annum": "2,00,000 - 10,00,000",
+    "degrees": [
+      {
+        "degree": "BBA",
+        "specializations": [
+          "Business Administration"
+        ]
+      },
+      {
+        "degree": "MBA",
+        "specializations": [
+          "Marketing",
+          "Finance",
+          "Operations"
+        ]
+      }
+    ],
+    "skills_roadmap": [
+      "Skill 1",
+      "Skill 2",
+      "Skill 3"
+    ],
+    "work_context": "Typical tasks and context for the role (brief)."
+  },
+  {
+    "career": "Franchise Owner",
+    "riasec": {
+      "R": 0.2,
+      "I": 0.5,
+      "A": 0.4,
+      "S": 0.4,
+      "E": 0.9,
+      "C": 0.5
+    },
+    "job_family": "Tech",
+    "ncs_code": "",
+    "salary_range_in_inr_per_annum": "2,00,000 - 10,00,000",
+    "degrees": [
+      {
+        "degree": "B.Tech/B.E.",
+        "specializations": [
+          "Computer Science",
+          "Information Technology",
+          "Electronics"
+        ]
+      },
+      {
+        "degree": "M.Tech/M.S.",
+        "specializations": [
+          "Computer Science",
+          "AI & ML",
+          "Robotics"
+        ]
+      }
+    ],
+    "skills_roadmap": [
+      "Skill 1",
+      "Skill 2",
+      "Skill 3"
+    ],
+    "work_context": "Typical tasks and context for the role (brief)."
+  },
+  {
+    "career": "Family Business (Personal)",
+    "riasec": {
+      "R": 0.2,
+      "I": 0.5,
+      "A": 0.4,
+      "S": 0.4,
+      "E": 0.9,
+      "C": 0.5
+    },
+    "job_family": "Management",
+    "ncs_code": "",
+    "salary_range_in_inr_per_annum": "Varies widely; depends on scale",
+    "degrees": [
+      {
+        "degree": "BBA",
+        "specializations": [
+          "Business Administration"
+        ]
+      },
+      {
+        "degree": "MBA",
+        "specializations": [
+          "Marketing",
+          "Finance",
+          "Operations"
+        ]
+      }
+    ],
+    "skills_roadmap": [
+      "Skill 1",
+      "Skill 2",
+      "Skill 3"
+    ],
+    "work_context": "Typical tasks and context for the role (brief)."
+  },
+  {
+    "career": "Business Coach",
+    "riasec": {
+      "R": 0.2,
+      "I": 0.5,
+      "A": 0.4,
+      "S": 0.4,
+      "E": 0.9,
+      "C": 0.5
+    },
+    "job_family": "Management",
+    "ncs_code": "",
+    "salary_range_in_inr_per_annum": "2,00,000 - 10,00,000",
+    "degrees": [
+      {
+        "degree": "BBA",
+        "specializations": [
+          "Business Administration"
+        ]
+      },
+      {
+        "degree": "MBA",
+        "specializations": [
+          "Marketing",
+          "Finance",
+          "Operations"
+        ]
+      }
+    ],
+    "skills_roadmap": [
+      "Skill 1",
+      "Skill 2",
+      "Skill 3"
+    ],
+    "work_context": "Typical tasks and context for the role (brief)."
+  },
+  {
+    "career": "Supply Chain Manager",
+    "riasec": {
+      "R": 0.2,
+      "I": 0.5,
+      "A": 0.4,
+      "S": 0.4,
+      "E": 0.9,
+      "C": 0.5
+    },
+    "job_family": "Management",
+    "ncs_code": "",
+    "salary_range_in_inr_per_annum": "2,00,000 - 10,00,000",
+    "degrees": [
+      {
+        "degree": "BBA",
+        "specializations": [
+          "Business Administration"
+        ]
+      },
+      {
+        "degree": "MBA",
+        "specializations": [
+          "Marketing",
+          "Finance",
+          "Operations"
+        ]
+      }
+    ],
+    "skills_roadmap": [
+      "Skill 1",
+      "Skill 2",
+      "Skill 3"
+    ],
+    "work_context": "Typical tasks and context for the role (brief)."
+  },
+  {
+    "career": "Logistics Coordinator",
+    "riasec": {
+      "R": 0.5,
+      "I": 0.5,
+      "A": 0.5,
+      "S": 0.5,
+      "E": 0.5,
+      "C": 0.5
+    },
+    "job_family": "Tech",
+    "ncs_code": "",
+    "salary_range_in_inr_per_annum": "2,00,000 - 10,00,000",
+    "degrees": [
+      {
+        "degree": "B.Tech/B.E.",
+        "specializations": [
+          "Computer Science",
+          "Information Technology",
+          "Electronics"
+        ]
+      },
+      {
+        "degree": "M.Tech/M.S.",
+        "specializations": [
+          "Computer Science",
+          "AI & ML",
+          "Robotics"
+        ]
+      }
+    ],
+    "skills_roadmap": [
+      "Skill 1",
+      "Skill 2",
+      "Skill 3"
+    ],
+    "work_context": "Typical tasks and context for the role (brief)."
+  },
+  {
+    "career": "Procurement Manager",
+    "riasec": {
+      "R": 0.2,
+      "I": 0.5,
+      "A": 0.4,
+      "S": 0.4,
+      "E": 0.9,
+      "C": 0.5
+    },
+    "job_family": "Management",
+    "ncs_code": "",
+    "salary_range_in_inr_per_annum": "2,00,000 - 10,00,000",
+    "degrees": [
+      {
+        "degree": "BBA",
+        "specializations": [
+          "Business Administration"
+        ]
+      },
+      {
+        "degree": "MBA",
+        "specializations": [
+          "Marketing",
+          "Finance",
+          "Operations"
+        ]
+      }
+    ],
+    "skills_roadmap": [
+      "Skill 1",
+      "Skill 2",
+      "Skill 3"
+    ],
+    "work_context": "Typical tasks and context for the role (brief)."
+  },
+  {
+    "career": "Warehouse Manager",
+    "riasec": {
+      "R": 0.2,
+      "I": 0.5,
+      "A": 0.4,
+      "S": 0.4,
+      "E": 0.9,
+      "C": 0.5
+    },
+    "job_family": "Management",
+    "ncs_code": "",
+    "salary_range_in_inr_per_annum": "2,00,000 - 10,00,000",
+    "degrees": [
+      {
+        "degree": "BBA",
+        "specializations": [
+          "Business Administration"
+        ]
+      },
+      {
+        "degree": "MBA",
+        "specializations": [
+          "Marketing",
+          "Finance",
+          "Operations"
+        ]
+      }
+    ],
+    "skills_roadmap": [
+      "Skill 1",
+      "Skill 2",
+      "Skill 3"
+    ],
+    "work_context": "Typical tasks and context for the role (brief)."
+  },
+  {
+    "career": "Operations Research Analyst",
+    "riasec": {
+      "R": 0.2,
+      "I": 0.9,
+      "A": 0.2,
+      "S": 0.3,
+      "E": 0.2,
+      "C": 0.6
+    },
+    "job_family": "Data",
+    "ncs_code": "",
+    "salary_range_in_inr_per_annum": "2,00,000 - 10,00,000",
+    "degrees": [
+      {
+        "degree": "B.Sc",
+        "specializations": [
+          "Statistics",
+          "Mathematics",
+          "Computer Science"
+        ]
+      },
+      {
+        "degree": "M.Sc / M.Tech",
+        "specializations": [
+          "Data Science",
+          "Statistics",
+          "Machine Learning"
+        ]
+      }
+    ],
+    "skills_roadmap": [
+      "Skill 1",
+      "Skill 2",
+      "Skill 3"
+    ],
+    "work_context": "Typical tasks and context for the role (brief)."
+  },
+  {
+    "career": "Quality Assurance Engineer",
+    "riasec": {
+      "R": 0.7,
+      "I": 0.6,
+      "A": 0.2,
+      "S": 0.3,
+      "E": 0.3,
+      "C": 0.6
+    },
+    "job_family": "Tech",
+    "ncs_code": "",
+    "salary_range_in_inr_per_annum": "2,00,000 - 10,00,000",
+    "degrees": [
+      {
+        "degree": "B.Tech/B.E.",
+        "specializations": [
+          "Computer Science",
+          "Information Technology",
+          "Electronics"
+        ]
+      },
+      {
+        "degree": "M.Tech/M.S.",
+        "specializations": [
+          "Computer Science",
+          "AI & ML",
+          "Robotics"
+        ]
+      }
+    ],
+    "skills_roadmap": [
+      "Skill 1",
+      "Skill 2",
+      "Skill 3"
+    ],
+    "work_context": "Typical tasks and context for the role (brief)."
+  },
+  {
+    "career": "Test Engineer",
+    "riasec": {
+      "R": 0.7,
+      "I": 0.6,
+      "A": 0.2,
+      "S": 0.3,
+      "E": 0.3,
+      "C": 0.6
+    },
+    "job_family": "Tech",
+    "ncs_code": "",
+    "salary_range_in_inr_per_annum": "2,00,000 - 10,00,000",
+    "degrees": [
+      {
+        "degree": "B.Tech/B.E.",
+        "specializations": [
+          "Computer Science",
+          "Information Technology",
+          "Electronics"
+        ]
+      },
+      {
+        "degree": "M.Tech/M.S.",
+        "specializations": [
+          "Computer Science",
+          "AI & ML",
+          "Robotics"
+        ]
+      }
+    ],
+    "skills_roadmap": [
+      "Skill 1",
+      "Skill 2",
+      "Skill 3"
+    ],
+    "work_context": "Typical tasks and context for the role (brief)."
+  },
+  {
+    "career": "Lab Technician",
+    "riasec": {
+      "R": 0.7,
+      "I": 0.6,
+      "A": 0.2,
+      "S": 0.3,
+      "E": 0.3,
+      "C": 0.6
+    },
+    "job_family": "Tech",
+    "ncs_code": "",
+    "salary_range_in_inr_per_annum": "2,00,000 - 10,00,000",
+    "degrees": [
+      {
+        "degree": "B.Tech/B.E.",
+        "specializations": [
+          "Computer Science",
+          "Information Technology",
+          "Electronics"
+        ]
+      },
+      {
+        "degree": "M.Tech/M.S.",
+        "specializations": [
+          "Computer Science",
+          "AI & ML",
+          "Robotics"
+        ]
+      }
+    ],
+    "skills_roadmap": [
+      "Skill 1",
+      "Skill 2",
+      "Skill 3"
+    ],
+    "work_context": "Typical tasks and context for the role (brief)."
+  },
+  {
+    "career": "Research Assistant",
+    "riasec": {
+      "R": 0.2,
+      "I": 0.9,
+      "A": 0.2,
+      "S": 0.3,
+      "E": 0.2,
+      "C": 0.6
+    },
+    "job_family": "Tech",
+    "ncs_code": "",
+    "salary_range_in_inr_per_annum": "2,00,000 - 10,00,000",
+    "degrees": [
+      {
+        "degree": "B.Tech/B.E.",
+        "specializations": [
+          "Computer Science",
+          "Information Technology",
+          "Electronics"
+        ]
+      },
+      {
+        "degree": "M.Tech/M.S.",
+        "specializations": [
+          "Computer Science",
+          "AI & ML",
+          "Robotics"
+        ]
+      }
+    ],
+    "skills_roadmap": [
+      "Skill 1",
+      "Skill 2",
+      "Skill 3"
+    ],
+    "work_context": "Typical tasks and context for the role (brief)."
+  },
+  {
+    "career": "Biotechnologist",
+    "riasec": {
+      "R": 0.5,
+      "I": 0.5,
+      "A": 0.5,
+      "S": 0.5,
+      "E": 0.5,
+      "C": 0.5
+    },
+    "job_family": "Tech",
+    "ncs_code": "",
+    "salary_range_in_inr_per_annum": "2,00,000 - 10,00,000",
+    "degrees": [
+      {
+        "degree": "B.Tech/B.E.",
+        "specializations": [
+          "Computer Science",
+          "Information Technology",
+          "Electronics"
+        ]
+      },
+      {
+        "degree": "M.Tech/M.S.",
+        "specializations": [
+          "Computer Science",
+          "AI & ML",
+          "Robotics"
+        ]
+      }
+    ],
+    "skills_roadmap": [
+      "Skill 1",
+      "Skill 2",
+      "Skill 3"
+    ],
+    "work_context": "Typical tasks and context for the role (brief)."
+  },
+  {
+    "career": "Clinical Research Coordinator",
+    "riasec": {
+      "R": 0.2,
+      "I": 0.9,
+      "A": 0.2,
+      "S": 0.3,
+      "E": 0.2,
+      "C": 0.6
+    },
+    "job_family": "Tech",
+    "ncs_code": "",
+    "salary_range_in_inr_per_annum": "2,00,000 - 10,00,000",
+    "degrees": [
+      {
+        "degree": "B.Tech/B.E.",
+        "specializations": [
+          "Computer Science",
+          "Information Technology",
+          "Electronics"
+        ]
+      },
+      {
+        "degree": "M.Tech/M.S.",
+        "specializations": [
+          "Computer Science",
+          "AI & ML",
+          "Robotics"
+        ]
+      }
+    ],
+    "skills_roadmap": [
+      "Skill 1",
+      "Skill 2",
+      "Skill 3"
+    ],
+    "work_context": "Typical tasks and context for the role (brief)."
+  },
+  {
+    "career": "Pharmaceutical Sales",
+    "riasec": {
+      "R": 0.2,
+      "I": 0.5,
+      "A": 0.4,
+      "S": 0.4,
+      "E": 0.9,
+      "C": 0.5
+    },
+    "job_family": "Health",
+    "ncs_code": "",
+    "salary_range_in_inr_per_annum": "2,00,000 - 10,00,000",
+    "degrees": [
+      {
+        "degree": "B.Sc Nursing",
+        "specializations": [
+          "Nursing"
+        ]
+      },
+      {
+        "degree": "MBBS",
+        "specializations": [
+          "General Medicine"
+        ]
+      }
+    ],
+    "skills_roadmap": [
+      "Skill 1",
+      "Skill 2",
+      "Skill 3"
+    ],
+    "work_context": "Typical tasks and context for the role (brief)."
+  },
+  {
+    "career": "Medical Laboratory Scientist",
+    "riasec": {
+      "R": 0.2,
+      "I": 0.9,
+      "A": 0.2,
+      "S": 0.3,
+      "E": 0.2,
+      "C": 0.6
+    },
+    "job_family": "Data",
+    "ncs_code": "",
+    "salary_range_in_inr_per_annum": "2,00,000 - 10,00,000",
+    "degrees": [
+      {
+        "degree": "B.Sc",
+        "specializations": [
+          "Statistics",
+          "Mathematics",
+          "Computer Science"
+        ]
+      },
+      {
+        "degree": "M.Sc / M.Tech",
+        "specializations": [
+          "Data Science",
+          "Statistics",
+          "Machine Learning"
+        ]
+      }
+    ],
+    "skills_roadmap": [
+      "Skill 1",
+      "Skill 2",
+      "Skill 3"
+    ],
+    "work_context": "Typical tasks and context for the role (brief)."
+  },
+  {
+    "career": "Radiologist Technician",
+    "riasec": {
+      "R": 0.7,
+      "I": 0.6,
+      "A": 0.2,
+      "S": 0.3,
+      "E": 0.3,
+      "C": 0.6
+    },
+    "job_family": "Tech",
+    "ncs_code": "",
+    "salary_range_in_inr_per_annum": "2,00,000 - 10,00,000",
+    "degrees": [
+      {
+        "degree": "B.Tech/B.E.",
+        "specializations": [
+          "Computer Science",
+          "Information Technology",
+          "Electronics"
+        ]
+      },
+      {
+        "degree": "M.Tech/M.S.",
+        "specializations": [
+          "Computer Science",
+          "AI & ML",
+          "Robotics"
+        ]
+      }
+    ],
+    "skills_roadmap": [
+      "Skill 1",
+      "Skill 2",
+      "Skill 3"
+    ],
+    "work_context": "Typical tasks and context for the role (brief)."
+  },
+  {
+    "career": "Occupational Therapist",
+    "riasec": {
+      "R": 0.1,
+      "I": 0.5,
+      "A": 0.3,
+      "S": 0.8,
+      "E": 0.5,
+      "C": 0.4
+    },
+    "job_family": "Health",
+    "ncs_code": "",
+    "salary_range_in_inr_per_annum": "2,00,000 - 10,00,000",
+    "degrees": [
+      {
+        "degree": "B.Sc Nursing",
+        "specializations": [
+          "Nursing"
+        ]
+      },
+      {
+        "degree": "MBBS",
+        "specializations": [
+          "General Medicine"
+        ]
+      }
+    ],
+    "skills_roadmap": [
+      "Skill 1",
+      "Skill 2",
+      "Skill 3"
+    ],
+    "work_context": "Typical tasks and context for the role (brief)."
+  },
+  {
+    "career": "Sound Technician",
+    "riasec": {
+      "R": 0.7,
+      "I": 0.6,
+      "A": 0.2,
+      "S": 0.3,
+      "E": 0.3,
+      "C": 0.6
+    },
+    "job_family": "Tech",
+    "ncs_code": "",
+    "salary_range_in_inr_per_annum": "2,00,000 - 10,00,000",
+    "degrees": [
+      {
+        "degree": "B.Tech/B.E.",
+        "specializations": [
+          "Computer Science",
+          "Information Technology",
+          "Electronics"
+        ]
+      },
+      {
+        "degree": "M.Tech/M.S.",
+        "specializations": [
+          "Computer Science",
+          "AI & ML",
+          "Robotics"
+        ]
+      }
+    ],
+    "skills_roadmap": [
+      "Skill 1",
+      "Skill 2",
+      "Skill 3"
+    ],
+    "work_context": "Typical tasks and context for the role (brief)."
+  },
+  {
+    "career": "Stage Manager",
+    "riasec": {
+      "R": 0.2,
+      "I": 0.5,
+      "A": 0.4,
+      "S": 0.4,
+      "E": 0.9,
+      "C": 0.5
+    },
+    "job_family": "Management",
+    "ncs_code": "",
+    "salary_range_in_inr_per_annum": "2,00,000 - 10,00,000",
+    "degrees": [
+      {
+        "degree": "BBA",
+        "specializations": [
+          "Business Administration"
+        ]
+      },
+      {
+        "degree": "MBA",
+        "specializations": [
+          "Marketing",
+          "Finance",
+          "Operations"
+        ]
+      }
+    ],
+    "skills_roadmap": [
+      "Skill 1",
+      "Skill 2",
+      "Skill 3"
+    ],
+    "work_context": "Typical tasks and context for the role (brief)."
+  },
+  {
+    "career": "Theatre Director",
+    "riasec": {
+      "R": 0.5,
+      "I": 0.5,
+      "A": 0.5,
+      "S": 0.5,
+      "E": 0.5,
+      "C": 0.5
+    },
+    "job_family": "Tech",
+    "ncs_code": "",
+    "salary_range_in_inr_per_annum": "2,00,000 - 10,00,000",
+    "degrees": [
+      {
+        "degree": "B.Tech/B.E.",
+        "specializations": [
+          "Computer Science",
+          "Information Technology",
+          "Electronics"
+        ]
+      },
+      {
+        "degree": "M.Tech/M.S.",
+        "specializations": [
+          "Computer Science",
+          "AI & ML",
+          "Robotics"
+        ]
+      }
+    ],
+    "skills_roadmap": [
+      "Skill 1",
+      "Skill 2",
+      "Skill 3"
+    ],
+    "work_context": "Typical tasks and context for the role (brief)."
+  },
+  {
+    "career": "Art Therapist",
+    "riasec": {
+      "R": 0.1,
+      "I": 0.5,
+      "A": 0.3,
+      "S": 0.8,
+      "E": 0.5,
+      "C": 0.4
+    },
+    "job_family": "Health",
+    "ncs_code": "",
+    "salary_range_in_inr_per_annum": "2,00,000 - 10,00,000",
+    "degrees": [
+      {
+        "degree": "B.Sc Nursing",
+        "specializations": [
+          "Nursing"
+        ]
+      },
+      {
+        "degree": "MBBS",
+        "specializations": [
+          "General Medicine"
+        ]
+      }
+    ],
+    "skills_roadmap": [
+      "Skill 1",
+      "Skill 2",
+      "Skill 3"
+    ],
+    "work_context": "Typical tasks and context for the role (brief)."
+  },
+  {
+    "career": "Museum Curator",
+    "riasec": {
+      "R": 0.5,
+      "I": 0.5,
+      "A": 0.5,
+      "S": 0.5,
+      "E": 0.5,
+      "C": 0.5
+    },
+    "job_family": "Tech",
+    "ncs_code": "",
+    "salary_range_in_inr_per_annum": "2,00,000 - 10,00,000",
+    "degrees": [
+      {
+        "degree": "B.Tech/B.E.",
+        "specializations": [
+          "Computer Science",
+          "Information Technology",
+          "Electronics"
+        ]
+      },
+      {
+        "degree": "M.Tech/M.S.",
+        "specializations": [
+          "Computer Science",
+          "AI & ML",
+          "Robotics"
+        ]
+      }
+    ],
+    "skills_roadmap": [
+      "Skill 1",
+      "Skill 2",
+      "Skill 3"
+    ],
+    "work_context": "Typical tasks and context for the role (brief)."
+  },
+  {
+    "career": "Real Estate Agent",
+    "riasec": {
+      "R": 0.5,
+      "I": 0.5,
+      "A": 0.5,
+      "S": 0.5,
+      "E": 0.5,
+      "C": 0.5
+    },
+    "job_family": "Tech",
+    "ncs_code": "",
+    "salary_range_in_inr_per_annum": "2,00,000 - 10,00,000",
+    "degrees": [
+      {
+        "degree": "B.Tech/B.E.",
+        "specializations": [
+          "Computer Science",
+          "Information Technology",
+          "Electronics"
+        ]
+      },
+      {
+        "degree": "M.Tech/M.S.",
+        "specializations": [
+          "Computer Science",
+          "AI & ML",
+          "Robotics"
+        ]
+      }
+    ],
+    "skills_roadmap": [
+      "Skill 1",
+      "Skill 2",
+      "Skill 3"
+    ],
+    "work_context": "Typical tasks and context for the role (brief)."
+  },
+  {
+    "career": "Property Manager",
+    "riasec": {
+      "R": 0.2,
+      "I": 0.5,
+      "A": 0.4,
+      "S": 0.4,
+      "E": 0.9,
+      "C": 0.5
+    },
+    "job_family": "Management",
+    "ncs_code": "",
+    "salary_range_in_inr_per_annum": "2,00,000 - 10,00,000",
+    "degrees": [
+      {
+        "degree": "BBA",
+        "specializations": [
+          "Business Administration"
+        ]
+      },
+      {
+        "degree": "MBA",
+        "specializations": [
+          "Marketing",
+          "Finance",
+          "Operations"
+        ]
+      }
+    ],
+    "skills_roadmap": [
+      "Skill 1",
+      "Skill 2",
+      "Skill 3"
+    ],
+    "work_context": "Typical tasks and context for the role (brief)."
+  },
+  {
+    "career": "Construction Supervisor",
+    "riasec": {
+      "R": 0.5,
+      "I": 0.5,
+      "A": 0.5,
+      "S": 0.5,
+      "E": 0.5,
+      "C": 0.5
+    },
+    "job_family": "Tech",
+    "ncs_code": "",
+    "salary_range_in_inr_per_annum": "2,00,000 - 10,00,000",
+    "degrees": [
+      {
+        "degree": "B.Tech/B.E.",
+        "specializations": [
+          "Computer Science",
+          "Information Technology",
+          "Electronics"
+        ]
+      },
+      {
+        "degree": "M.Tech/M.S.",
+        "specializations": [
+          "Computer Science",
+          "AI & ML",
+          "Robotics"
+        ]
+      }
+    ],
+    "skills_roadmap": [
+      "Skill 1",
+      "Skill 2",
+      "Skill 3"
+    ],
+    "work_context": "Typical tasks and context for the role (brief)."
+  },
+  {
+    "career": "Quantity Surveyor",
+    "riasec": {
+      "R": 0.5,
+      "I": 0.5,
+      "A": 0.5,
+      "S": 0.5,
+      "E": 0.5,
+      "C": 0.5
+    },
+    "job_family": "Tech",
+    "ncs_code": "",
+    "salary_range_in_inr_per_annum": "2,00,000 - 10,00,000",
+    "degrees": [
+      {
+        "degree": "B.Tech/B.E.",
+        "specializations": [
+          "Computer Science",
+          "Information Technology",
+          "Electronics"
+        ]
+      },
+      {
+        "degree": "M.Tech/M.S.",
+        "specializations": [
+          "Computer Science",
+          "AI & ML",
+          "Robotics"
+        ]
+      }
+    ],
+    "skills_roadmap": [
+      "Skill 1",
+      "Skill 2",
+      "Skill 3"
+    ],
+    "work_context": "Typical tasks and context for the role (brief)."
+  },
+  {
+    "career": "Site Engineer",
+    "riasec": {
+      "R": 0.7,
+      "I": 0.6,
+      "A": 0.2,
+      "S": 0.3,
+      "E": 0.3,
+      "C": 0.6
+    },
+    "job_family": "Tech",
+    "ncs_code": "",
+    "salary_range_in_inr_per_annum": "2,00,000 - 10,00,000",
+    "degrees": [
+      {
+        "degree": "B.Tech/B.E.",
+        "specializations": [
+          "Computer Science",
+          "Information Technology",
+          "Electronics"
+        ]
+      },
+      {
+        "degree": "M.Tech/M.S.",
+        "specializations": [
+          "Computer Science",
+          "AI & ML",
+          "Robotics"
+        ]
+      }
+    ],
+    "skills_roadmap": [
+      "Skill 1",
+      "Skill 2",
+      "Skill 3"
+    ],
+    "work_context": "Typical tasks and context for the role (brief)."
+  },
+  {
+    "career": "Electrician / Technician",
+    "riasec": {
+      "R": 0.7,
+      "I": 0.6,
+      "A": 0.2,
+      "S": 0.3,
+      "E": 0.3,
+      "C": 0.6
+    },
+    "job_family": "Tech",
+    "ncs_code": "",
+    "salary_range_in_inr_per_annum": "2,00,000 - 10,00,000",
+    "degrees": [
+      {
+        "degree": "B.Tech/B.E.",
+        "specializations": [
+          "Computer Science",
+          "Information Technology",
+          "Electronics"
+        ]
+      },
+      {
+        "degree": "M.Tech/M.S.",
+        "specializations": [
+          "Computer Science",
+          "AI & ML",
+          "Robotics"
+        ]
+      }
+    ],
+    "skills_roadmap": [
+      "Skill 1",
+      "Skill 2",
+      "Skill 3"
+    ],
+    "work_context": "Typical tasks and context for the role (brief)."
+  },
+  {
+    "career": "Plumber / Technician",
+    "riasec": {
+      "R": 0.7,
+      "I": 0.6,
+      "A": 0.2,
+      "S": 0.3,
+      "E": 0.3,
+      "C": 0.6
+    },
+    "job_family": "Tech",
+    "ncs_code": "",
+    "salary_range_in_inr_per_annum": "2,00,000 - 10,00,000",
+    "degrees": [
+      {
+        "degree": "B.Tech/B.E.",
+        "specializations": [
+          "Computer Science",
+          "Information Technology",
+          "Electronics"
+        ]
+      },
+      {
+        "degree": "M.Tech/M.S.",
+        "specializations": [
+          "Computer Science",
+          "AI & ML",
+          "Robotics"
+        ]
+      }
+    ],
+    "skills_roadmap": [
+      "Skill 1",
+      "Skill 2",
+      "Skill 3"
+    ],
+    "work_context": "Typical tasks and context for the role (brief)."
+  },
+  {
+    "career": "Carpenter / Artisan",
+    "riasec": {
+      "R": 0.5,
+      "I": 0.5,
+      "A": 0.5,
+      "S": 0.5,
+      "E": 0.5,
+      "C": 0.5
+    },
+    "job_family": "Tech",
+    "ncs_code": "",
+    "salary_range_in_inr_per_annum": "2,00,000 - 10,00,000",
+    "degrees": [
+      {
+        "degree": "B.Tech/B.E.",
+        "specializations": [
+          "Computer Science",
+          "Information Technology",
+          "Electronics"
+        ]
+      },
+      {
+        "degree": "M.Tech/M.S.",
+        "specializations": [
+          "Computer Science",
+          "AI & ML",
+          "Robotics"
+        ]
+      }
+    ],
+    "skills_roadmap": [
+      "Skill 1",
+      "Skill 2",
+      "Skill 3"
+    ],
+    "work_context": "Typical tasks and context for the role (brief)."
+  },
+  {
+    "career": "Mechanic / Technician",
+    "riasec": {
+      "R": 0.7,
+      "I": 0.6,
+      "A": 0.2,
+      "S": 0.3,
+      "E": 0.3,
+      "C": 0.6
+    },
+    "job_family": "Tech",
+    "ncs_code": "",
+    "salary_range_in_inr_per_annum": "2,00,000 - 10,00,000",
+    "degrees": [
+      {
+        "degree": "B.Tech/B.E.",
+        "specializations": [
+          "Computer Science",
+          "Information Technology",
+          "Electronics"
+        ]
+      },
+      {
+        "degree": "M.Tech/M.S.",
+        "specializations": [
+          "Computer Science",
+          "AI & ML",
+          "Robotics"
+        ]
+      }
+    ],
+    "skills_roadmap": [
+      "Skill 1",
+      "Skill 2",
+      "Skill 3"
+    ],
+    "work_context": "Typical tasks and context for the role (brief)."
+  },
+  {
+    "career": "Welding Specialist",
+    "riasec": {
+      "R": 0.5,
+      "I": 0.5,
+      "A": 0.5,
+      "S": 0.5,
+      "E": 0.5,
+      "C": 0.5
+    },
+    "job_family": "Tech",
+    "ncs_code": "",
+    "salary_range_in_inr_per_annum": "2,00,000 - 10,00,000",
+    "degrees": [
+      {
+        "degree": "B.Tech/B.E.",
+        "specializations": [
+          "Computer Science",
+          "Information Technology",
+          "Electronics"
+        ]
+      },
+      {
+        "degree": "M.Tech/M.S.",
+        "specializations": [
+          "Computer Science",
+          "AI & ML",
+          "Robotics"
+        ]
+      }
+    ],
+    "skills_roadmap": [
+      "Skill 1",
+      "Skill 2",
+      "Skill 3"
+    ],
+    "work_context": "Typical tasks and context for the role (brief)."
+  },
+  {
+    "career": "Beautician / Cosmetologist",
+    "riasec": {
+      "R": 0.5,
+      "I": 0.5,
+      "A": 0.5,
+      "S": 0.5,
+      "E": 0.5,
+      "C": 0.5
+    },
+    "job_family": "Tech",
+    "ncs_code": "",
+    "salary_range_in_inr_per_annum": "2,00,000 - 10,00,000",
+    "degrees": [
+      {
+        "degree": "B.Tech/B.E.",
+        "specializations": [
+          "Computer Science",
+          "Information Technology",
+          "Electronics"
+        ]
+      },
+      {
+        "degree": "M.Tech/M.S.",
+        "specializations": [
+          "Computer Science",
+          "AI & ML",
+          "Robotics"
+        ]
+      }
+    ],
+    "skills_roadmap": [
+      "Skill 1",
+      "Skill 2",
+      "Skill 3"
+    ],
+    "work_context": "Typical tasks and context for the role (brief)."
+  },
+  {
+    "career": "Fitness Trainer",
+    "riasec": {
+      "R": 0.5,
+      "I": 0.5,
+      "A": 0.5,
+      "S": 0.5,
+      "E": 0.5,
+      "C": 0.5
+    },
+    "job_family": "Tech",
+    "ncs_code": "",
+    "salary_range_in_inr_per_annum": "2,00,000 - 10,00,000",
+    "degrees": [
+      {
+        "degree": "B.Tech/B.E.",
+        "specializations": [
+          "Computer Science",
+          "Information Technology",
+          "Electronics"
+        ]
+      },
+      {
+        "degree": "M.Tech/M.S.",
+        "specializations": [
+          "Computer Science",
+          "AI & ML",
+          "Robotics"
+        ]
+      }
+    ],
+    "skills_roadmap": [
+      "Skill 1",
+      "Skill 2",
+      "Skill 3"
+    ],
+    "work_context": "Typical tasks and context for the role (brief)."
+  },
+  {
+    "career": "Sports Coach",
+    "riasec": {
+      "R": 0.5,
+      "I": 0.5,
+      "A": 0.5,
+      "S": 0.5,
+      "E": 0.5,
+      "C": 0.5
+    },
+    "job_family": "Tech",
+    "ncs_code": "",
+    "salary_range_in_inr_per_annum": "2,00,000 - 10,00,000",
+    "degrees": [
+      {
+        "degree": "B.Tech/B.E.",
+        "specializations": [
+          "Computer Science",
+          "Information Technology",
+          "Electronics"
+        ]
+      },
+      {
+        "degree": "M.Tech/M.S.",
+        "specializations": [
+          "Computer Science",
+          "AI & ML",
+          "Robotics"
+        ]
+      }
+    ],
+    "skills_roadmap": [
+      "Skill 1",
+      "Skill 2",
+      "Skill 3"
+    ],
+    "work_context": "Typical tasks and context for the role (brief)."
+  },
+  {
+    "career": "Athletic Trainer",
+    "riasec": {
+      "R": 0.5,
+      "I": 0.5,
+      "A": 0.5,
+      "S": 0.5,
+      "E": 0.5,
+      "C": 0.5
+    },
+    "job_family": "Tech",
+    "ncs_code": "",
+    "salary_range_in_inr_per_annum": "2,00,000 - 10,00,000",
+    "degrees": [
+      {
+        "degree": "B.Tech/B.E.",
+        "specializations": [
+          "Computer Science",
+          "Information Technology",
+          "Electronics"
+        ]
+      },
+      {
+        "degree": "M.Tech/M.S.",
+        "specializations": [
+          "Computer Science",
+          "AI & ML",
+          "Robotics"
+        ]
+      }
+    ],
+    "skills_roadmap": [
+      "Skill 1",
+      "Skill 2",
+      "Skill 3"
+    ],
+    "work_context": "Typical tasks and context for the role (brief)."
+  },
+  {
+    "career": "Yoga Instructor",
+    "riasec": {
+      "R": 0.5,
+      "I": 0.5,
+      "A": 0.5,
+      "S": 0.5,
+      "E": 0.5,
+      "C": 0.5
+    },
+    "job_family": "Tech",
+    "ncs_code": "",
+    "salary_range_in_inr_per_annum": "2,00,000 - 10,00,000",
+    "degrees": [
+      {
+        "degree": "B.Tech/B.E.",
+        "specializations": [
+          "Computer Science",
+          "Information Technology",
+          "Electronics"
+        ]
+      },
+      {
+        "degree": "M.Tech/M.S.",
+        "specializations": [
+          "Computer Science",
+          "AI & ML",
+          "Robotics"
+        ]
+      }
+    ],
+    "skills_roadmap": [
+      "Skill 1",
+      "Skill 2",
+      "Skill 3"
+    ],
+    "work_context": "Typical tasks and context for the role (brief)."
+  },
+  {
+    "career": "Landscape Gardener",
+    "riasec": {
+      "R": 0.1,
+      "I": 0.4,
+      "A": 0.9,
+      "S": 0.3,
+      "E": 0.4,
+      "C": 0.3
+    },
+    "job_family": "Tech",
+    "ncs_code": "",
+    "salary_range_in_inr_per_annum": "2,00,000 - 10,00,000",
+    "degrees": [
+      {
+        "degree": "B.Tech/B.E.",
+        "specializations": [
+          "Computer Science",
+          "Information Technology",
+          "Electronics"
+        ]
+      },
+      {
+        "degree": "M.Tech/M.S.",
+        "specializations": [
+          "Computer Science",
+          "AI & ML",
+          "Robotics"
+        ]
+      }
+    ],
+    "skills_roadmap": [
+      "Skill 1",
+      "Skill 2",
+      "Skill 3"
+    ],
+    "work_context": "Typical tasks and context for the role (brief)."
+  },
+  {
+    "career": "Florist",
+    "riasec": {
+      "R": 0.5,
+      "I": 0.5,
+      "A": 0.5,
+      "S": 0.5,
+      "E": 0.5,
+      "C": 0.5
+    },
+    "job_family": "Tech",
+    "ncs_code": "",
+    "salary_range_in_inr_per_annum": "2,00,000 - 10,00,000",
+    "degrees": [
+      {
+        "degree": "B.Tech/B.E.",
+        "specializations": [
+          "Computer Science",
+          "Information Technology",
+          "Electronics"
+        ]
+      },
+      {
+        "degree": "M.Tech/M.S.",
+        "specializations": [
+          "Computer Science",
+          "AI & ML",
+          "Robotics"
+        ]
+      }
+    ],
+    "skills_roadmap": [
+      "Skill 1",
+      "Skill 2",
+      "Skill 3"
+    ],
+    "work_context": "Typical tasks and context for the role (brief)."
+  },
+  {
+    "career": "Event Florist",
+    "riasec": {
+      "R": 0.5,
+      "I": 0.5,
+      "A": 0.5,
+      "S": 0.5,
+      "E": 0.5,
+      "C": 0.5
+    },
+    "job_family": "Tech",
+    "ncs_code": "",
+    "salary_range_in_inr_per_annum": "2,00,000 - 10,00,000",
+    "degrees": [
+      {
+        "degree": "B.Tech/B.E.",
+        "specializations": [
+          "Computer Science",
+          "Information Technology",
+          "Electronics"
+        ]
+      },
+      {
+        "degree": "M.Tech/M.S.",
+        "specializations": [
+          "Computer Science",
+          "AI & ML",
+          "Robotics"
+        ]
+      }
+    ],
+    "skills_roadmap": [
+      "Skill 1",
+      "Skill 2",
+      "Skill 3"
+    ],
+    "work_context": "Typical tasks and context for the role (brief)."
+  },
+  {
+    "career": "Nursery Manager",
+    "riasec": {
+      "R": 0.2,
+      "I": 0.5,
+      "A": 0.4,
+      "S": 0.4,
+      "E": 0.9,
+      "C": 0.5
+    },
+    "job_family": "Health",
+    "ncs_code": "",
+    "salary_range_in_inr_per_annum": "2,00,000 - 10,00,000",
+    "degrees": [
+      {
+        "degree": "B.Sc Nursing",
+        "specializations": [
+          "Nursing"
+        ]
+      },
+      {
+        "degree": "MBBS",
+        "specializations": [
+          "General Medicine"
+        ]
+      }
+    ],
+    "skills_roadmap": [
+      "Skill 1",
+      "Skill 2",
+      "Skill 3"
+    ],
+    "work_context": "Typical tasks and context for the role (brief)."
+  },
+  {
+    "career": "Aquaculture Technician",
+    "riasec": {
+      "R": 0.7,
+      "I": 0.6,
+      "A": 0.2,
+      "S": 0.3,
+      "E": 0.3,
+      "C": 0.6
+    },
+    "job_family": "Tech",
+    "ncs_code": "",
+    "salary_range_in_inr_per_annum": "2,00,000 - 10,00,000",
+    "degrees": [
+      {
+        "degree": "B.Tech/B.E.",
+        "specializations": [
+          "Computer Science",
+          "Information Technology",
+          "Electronics"
+        ]
+      },
+      {
+        "degree": "M.Tech/M.S.",
+        "specializations": [
+          "Computer Science",
+          "AI & ML",
+          "Robotics"
+        ]
+      }
+    ],
+    "skills_roadmap": [
+      "Skill 1",
+      "Skill 2",
+      "Skill 3"
+    ],
+    "work_context": "Typical tasks and context for the role (brief)."
+  },
+  {
+    "career": "Data Engineer",
+    "riasec": {
+      "R": 0.2,
+      "I": 0.9,
+      "A": 0.2,
+      "S": 0.3,
+      "E": 0.2,
+      "C": 0.6
+    },
+    "job_family": "Data",
+    "ncs_code": "",
+    "salary_range_in_inr_per_annum": "2,00,000 - 10,00,000",
+    "degrees": [
+      {
+        "degree": "B.Sc",
+        "specializations": [
+          "Statistics",
+          "Mathematics",
+          "Computer Science"
+        ]
+      },
+      {
+        "degree": "M.Sc / M.Tech",
+        "specializations": [
+          "Data Science",
+          "Statistics",
+          "Machine Learning"
+        ]
+      }
+    ],
+    "skills_roadmap": [
+      "Skill 1",
+      "Skill 2",
+      "Skill 3"
+    ],
+    "work_context": "Typical tasks and context for the role (brief)."
+  },
+  {
+    "career": "BI Developer",
+    "riasec": {
+      "R": 0.7,
+      "I": 0.6,
+      "A": 0.2,
+      "S": 0.3,
+      "E": 0.3,
+      "C": 0.6
+    },
+    "job_family": "Tech",
+    "ncs_code": "",
+    "salary_range_in_inr_per_annum": "2,00,000 - 10,00,000",
+    "degrees": [
+      {
+        "degree": "B.Tech/B.E.",
+        "specializations": [
+          "Computer Science",
+          "Information Technology",
+          "Electronics"
+        ]
+      },
+      {
+        "degree": "M.Tech/M.S.",
+        "specializations": [
+          "Computer Science",
+          "AI & ML",
+          "Robotics"
+        ]
+      }
+    ],
+    "skills_roadmap": [
+      "Skill 1",
+      "Skill 2",
+      "Skill 3"
+    ],
+    "work_context": "Typical tasks and context for the role (brief)."
+  },
+  {
+    "career": "Cloud Solutions Architect",
+    "riasec": {
+      "R": 0.5,
+      "I": 0.5,
+      "A": 0.5,
+      "S": 0.5,
+      "E": 0.5,
+      "C": 0.5
+    },
+    "job_family": "Tech",
+    "ncs_code": "",
+    "salary_range_in_inr_per_annum": "2,00,000 - 10,00,000",
+    "degrees": [
+      {
+        "degree": "B.Tech/B.E.",
+        "specializations": [
+          "Computer Science",
+          "Information Technology",
+          "Electronics"
+        ]
+      },
+      {
+        "degree": "M.Tech/M.S.",
+        "specializations": [
+          "Computer Science",
+          "AI & ML",
+          "Robotics"
+        ]
+      }
+    ],
+    "skills_roadmap": [
+      "Skill 1",
+      "Skill 2",
+      "Skill 3"
+    ],
+    "work_context": "Typical tasks and context for the role (brief)."
+  },
+  {
+    "career": "Blockchain Developer",
+    "riasec": {
+      "R": 0.7,
+      "I": 0.6,
+      "A": 0.2,
+      "S": 0.3,
+      "E": 0.3,
+      "C": 0.6
+    },
+    "job_family": "Tech",
+    "ncs_code": "",
+    "salary_range_in_inr_per_annum": "2,00,000 - 10,00,000",
+    "degrees": [
+      {
+        "degree": "B.Tech/B.E.",
+        "specializations": [
+          "Computer Science",
+          "Information Technology",
+          "Electronics"
+        ]
+      },
+      {
+        "degree": "M.Tech/M.S.",
+        "specializations": [
+          "Computer Science",
+          "AI & ML",
+          "Robotics"
+        ]
+      }
+    ],
+    "skills_roadmap": [
+      "Skill 1",
+      "Skill 2",
+      "Skill 3"
+    ],
+    "work_context": "Typical tasks and context for the role (brief)."
+  },
+  {
+    "career": "DevRel Engineer",
+    "riasec": {
+      "R": 0.7,
+      "I": 0.6,
+      "A": 0.2,
+      "S": 0.3,
+      "E": 0.3,
+      "C": 0.6
+    },
+    "job_family": "Tech",
+    "ncs_code": "",
+    "salary_range_in_inr_per_annum": "2,00,000 - 10,00,000",
+    "degrees": [
+      {
+        "degree": "B.Tech/B.E.",
+        "specializations": [
+          "Computer Science",
+          "Information Technology",
+          "Electronics"
+        ]
+      },
+      {
+        "degree": "M.Tech/M.S.",
+        "specializations": [
+          "Computer Science",
+          "AI & ML",
+          "Robotics"
+        ]
+      }
+    ],
+    "skills_roadmap": [
+      "Skill 1",
+      "Skill 2",
+      "Skill 3"
+    ],
+    "work_context": "Typical tasks and context for the role (brief)."
+  },
+  {
+    "career": "CRM Specialist",
+    "riasec": {
+      "R": 0.5,
+      "I": 0.5,
+      "A": 0.5,
+      "S": 0.5,
+      "E": 0.5,
+      "C": 0.5
+    },
+    "job_family": "Tech",
+    "ncs_code": "",
+    "salary_range_in_inr_per_annum": "2,00,000 - 10,00,000",
+    "degrees": [
+      {
+        "degree": "B.Tech/B.E.",
+        "specializations": [
+          "Computer Science",
+          "Information Technology",
+          "Electronics"
+        ]
+      },
+      {
+        "degree": "M.Tech/M.S.",
+        "specializations": [
+          "Computer Science",
+          "AI & ML",
+          "Robotics"
+        ]
+      }
+    ],
+    "skills_roadmap": [
+      "Skill 1",
+      "Skill 2",
+      "Skill 3"
+    ],
+    "work_context": "Typical tasks and context for the role (brief)."
+  },
+  {
+    "career": "Email Marketing Specialist",
+    "riasec": {
+      "R": 0.2,
+      "I": 0.5,
+      "A": 0.4,
+      "S": 0.4,
+      "E": 0.9,
+      "C": 0.5
+    },
+    "job_family": "Management",
+    "ncs_code": "",
+    "salary_range_in_inr_per_annum": "2,00,000 - 10,00,000",
+    "degrees": [
+      {
+        "degree": "BBA",
+        "specializations": [
+          "Business Administration"
+        ]
+      },
+      {
+        "degree": "MBA",
+        "specializations": [
+          "Marketing",
+          "Finance",
+          "Operations"
+        ]
+      }
+    ],
+    "skills_roadmap": [
+      "Skill 1",
+      "Skill 2",
+      "Skill 3"
+    ],
+    "work_context": "Typical tasks and context for the role (brief)."
+  },
+  {
+    "career": "Paid Ads Specialist",
+    "riasec": {
+      "R": 0.5,
+      "I": 0.5,
+      "A": 0.5,
+      "S": 0.5,
+      "E": 0.5,
+      "C": 0.5
+    },
+    "job_family": "Tech",
+    "ncs_code": "",
+    "salary_range_in_inr_per_annum": "2,00,000 - 10,00,000",
+    "degrees": [
+      {
+        "degree": "B.Tech/B.E.",
+        "specializations": [
+          "Computer Science",
+          "Information Technology",
+          "Electronics"
+        ]
+      },
+      {
+        "degree": "M.Tech/M.S.",
+        "specializations": [
+          "Computer Science",
+          "AI & ML",
+          "Robotics"
+        ]
+      }
+    ],
+    "skills_roadmap": [
+      "Skill 1",
+      "Skill 2",
+      "Skill 3"
+    ],
+    "work_context": "Typical tasks and context for the role (brief)."
+  },
+  {
+    "career": "Retail Buyer",
+    "riasec": {
+      "R": 0.5,
+      "I": 0.5,
+      "A": 0.5,
+      "S": 0.5,
+      "E": 0.5,
+      "C": 0.5
+    },
+    "job_family": "Tech",
+    "ncs_code": "",
+    "salary_range_in_inr_per_annum": "2,00,000 - 10,00,000",
+    "degrees": [
+      {
+        "degree": "B.Tech/B.E.",
+        "specializations": [
+          "Computer Science",
+          "Information Technology",
+          "Electronics"
+        ]
+      },
+      {
+        "degree": "M.Tech/M.S.",
+        "specializations": [
+          "Computer Science",
+          "AI & ML",
+          "Robotics"
+        ]
+      }
+    ],
+    "skills_roadmap": [
+      "Skill 1",
+      "Skill 2",
+      "Skill 3"
+    ],
+    "work_context": "Typical tasks and context for the role (brief)."
+  },
+  {
+    "career": "Merchandising Manager",
+    "riasec": {
+      "R": 0.2,
+      "I": 0.5,
+      "A": 0.4,
+      "S": 0.4,
+      "E": 0.9,
+      "C": 0.5
+    },
+    "job_family": "Management",
+    "ncs_code": "",
+    "salary_range_in_inr_per_annum": "2,00,000 - 10,00,000",
+    "degrees": [
+      {
+        "degree": "BBA",
+        "specializations": [
+          "Business Administration"
+        ]
+      },
+      {
+        "degree": "MBA",
+        "specializations": [
+          "Marketing",
+          "Finance",
+          "Operations"
+        ]
+      }
+    ],
+    "skills_roadmap": [
+      "Skill 1",
+      "Skill 2",
+      "Skill 3"
+    ],
+    "work_context": "Typical tasks and context for the role (brief)."
+  },
+  {
+    "career": "Clinical Data Manager",
+    "riasec": {
+      "R": 0.2,
+      "I": 0.5,
+      "A": 0.4,
+      "S": 0.4,
+      "E": 0.9,
+      "C": 0.5
+    },
+    "job_family": "Data",
+    "ncs_code": "",
+    "salary_range_in_inr_per_annum": "2,00,000 - 10,00,000",
+    "degrees": [
+      {
+        "degree": "B.Sc",
+        "specializations": [
+          "Statistics",
+          "Mathematics",
+          "Computer Science"
+        ]
+      },
+      {
+        "degree": "M.Sc / M.Tech",
+        "specializations": [
+          "Data Science",
+          "Statistics",
+          "Machine Learning"
+        ]
+      }
+    ],
+    "skills_roadmap": [
+      "Skill 1",
+      "Skill 2",
+      "Skill 3"
+    ],
+    "work_context": "Typical tasks and context for the role (brief)."
+  },
+  {
+    "career": "Health Informatics Specialist",
+    "riasec": {
+      "R": 0.5,
+      "I": 0.5,
+      "A": 0.5,
+      "S": 0.5,
+      "E": 0.5,
+      "C": 0.5
+    },
+    "job_family": "Tech",
+    "ncs_code": "",
+    "salary_range_in_inr_per_annum": "2,00,000 - 10,00,000",
+    "degrees": [
+      {
+        "degree": "B.Tech/B.E.",
+        "specializations": [
+          "Computer Science",
+          "Information Technology",
+          "Electronics"
+        ]
+      },
+      {
+        "degree": "M.Tech/M.S.",
+        "specializations": [
+          "Computer Science",
+          "AI & ML",
+          "Robotics"
+        ]
+      }
+    ],
+    "skills_roadmap": [
+      "Skill 1",
+      "Skill 2",
+      "Skill 3"
+    ],
+    "work_context": "Typical tasks and context for the role (brief)."
+  },
+  {
+    "career": "Telemedicine Coordinator",
+    "riasec": {
+      "R": 0.5,
+      "I": 0.5,
+      "A": 0.5,
+      "S": 0.5,
+      "E": 0.5,
+      "C": 0.5
+    },
+    "job_family": "Tech",
+    "ncs_code": "",
+    "salary_range_in_inr_per_annum": "2,00,000 - 10,00,000",
+    "degrees": [
+      {
+        "degree": "B.Tech/B.E.",
+        "specializations": [
+          "Computer Science",
+          "Information Technology",
+          "Electronics"
+        ]
+      },
+      {
+        "degree": "M.Tech/M.S.",
+        "specializations": [
+          "Computer Science",
+          "AI & ML",
+          "Robotics"
+        ]
+      }
+    ],
+    "skills_roadmap": [
+      "Skill 1",
+      "Skill 2",
+      "Skill 3"
+    ],
+    "work_context": "Typical tasks and context for the role (brief)."
+  },
+  {
+    "career": "Healthcare Administrator",
+    "riasec": {
+      "R": 0.5,
+      "I": 0.5,
+      "A": 0.5,
+      "S": 0.5,
+      "E": 0.5,
+      "C": 0.5
+    },
+    "job_family": "Tech",
+    "ncs_code": "",
+    "salary_range_in_inr_per_annum": "2,00,000 - 10,00,000",
+    "degrees": [
+      {
+        "degree": "B.Tech/B.E.",
+        "specializations": [
+          "Computer Science",
+          "Information Technology",
+          "Electronics"
+        ]
+      },
+      {
+        "degree": "M.Tech/M.S.",
+        "specializations": [
+          "Computer Science",
+          "AI & ML",
+          "Robotics"
+        ]
+      }
+    ],
+    "skills_roadmap": [
+      "Skill 1",
+      "Skill 2",
+      "Skill 3"
+    ],
+    "work_context": "Typical tasks and context for the role (brief)."
+  },
+  {
+    "career": "Medical Coder",
+    "riasec": {
+      "R": 0.5,
+      "I": 0.5,
+      "A": 0.5,
+      "S": 0.5,
+      "E": 0.5,
+      "C": 0.5
+    },
+    "job_family": "Tech",
+    "ncs_code": "",
+    "salary_range_in_inr_per_annum": "2,00,000 - 10,00,000",
+    "degrees": [
+      {
+        "degree": "B.Tech/B.E.",
+        "specializations": [
+          "Computer Science",
+          "Information Technology",
+          "Electronics"
+        ]
+      },
+      {
+        "degree": "M.Tech/M.S.",
+        "specializations": [
+          "Computer Science",
+          "AI & ML",
+          "Robotics"
+        ]
+      }
+    ],
+    "skills_roadmap": [
+      "Skill 1",
+      "Skill 2",
+      "Skill 3"
+    ],
+    "work_context": "Typical tasks and context for the role (brief)."
+  },
+  {
+    "career": "Optometrist",
+    "riasec": {
+      "R": 0.5,
+      "I": 0.5,
+      "A": 0.5,
+      "S": 0.5,
+      "E": 0.5,
+      "C": 0.5
+    },
+    "job_family": "Tech",
+    "ncs_code": "",
+    "salary_range_in_inr_per_annum": "2,00,000 - 10,00,000",
+    "degrees": [
+      {
+        "degree": "B.Tech/B.E.",
+        "specializations": [
+          "Computer Science",
+          "Information Technology",
+          "Electronics"
+        ]
+      },
+      {
+        "degree": "M.Tech/M.S.",
+        "specializations": [
+          "Computer Science",
+          "AI & ML",
+          "Robotics"
+        ]
+      }
+    ],
+    "skills_roadmap": [
+      "Skill 1",
+      "Skill 2",
+      "Skill 3"
+    ],
+    "work_context": "Typical tasks and context for the role (brief)."
+  },
+  {
+    "career": "Audiologist",
+    "riasec": {
+      "R": 0.5,
+      "I": 0.5,
+      "A": 0.5,
+      "S": 0.5,
+      "E": 0.5,
+      "C": 0.5
+    },
+    "job_family": "Tech",
+    "ncs_code": "",
+    "salary_range_in_inr_per_annum": "2,00,000 - 10,00,000",
+    "degrees": [
+      {
+        "degree": "B.Tech/B.E.",
+        "specializations": [
+          "Computer Science",
+          "Information Technology",
+          "Electronics"
+        ]
+      },
+      {
+        "degree": "M.Tech/M.S.",
+        "specializations": [
+          "Computer Science",
+          "AI & ML",
+          "Robotics"
+        ]
+      }
+    ],
+    "skills_roadmap": [
+      "Skill 1",
+      "Skill 2",
+      "Skill 3"
+    ],
+    "work_context": "Typical tasks and context for the role (brief)."
+  },
+  {
+    "career": "Speech Therapist",
+    "riasec": {
+      "R": 0.1,
+      "I": 0.5,
+      "A": 0.3,
+      "S": 0.8,
+      "E": 0.5,
+      "C": 0.4
+    },
+    "job_family": "Health",
+    "ncs_code": "",
+    "salary_range_in_inr_per_annum": "2,00,000 - 10,00,000",
+    "degrees": [
+      {
+        "degree": "B.Sc Nursing",
+        "specializations": [
+          "Nursing"
+        ]
+      },
+      {
+        "degree": "MBBS",
+        "specializations": [
+          "General Medicine"
+        ]
+      }
+    ],
+    "skills_roadmap": [
+      "Skill 1",
+      "Skill 2",
+      "Skill 3"
+    ],
+    "work_context": "Typical tasks and context for the role (brief)."
+  },
+  {
+    "career": "Occupational Health Specialist",
+    "riasec": {
+      "R": 0.5,
+      "I": 0.5,
+      "A": 0.5,
+      "S": 0.5,
+      "E": 0.5,
+      "C": 0.5
+    },
+    "job_family": "Tech",
+    "ncs_code": "",
+    "salary_range_in_inr_per_annum": "2,00,000 - 10,00,000",
+    "degrees": [
+      {
+        "degree": "B.Tech/B.E.",
+        "specializations": [
+          "Computer Science",
+          "Information Technology",
+          "Electronics"
+        ]
+      },
+      {
+        "degree": "M.Tech/M.S.",
+        "specializations": [
+          "Computer Science",
+          "AI & ML",
+          "Robotics"
+        ]
+      }
+    ],
+    "skills_roadmap": [
+      "Skill 1",
+      "Skill 2",
+      "Skill 3"
+    ],
+    "work_context": "Typical tasks and context for the role (brief)."
+  },
+  {
+    "career": "Safety Officer",
+    "riasec": {
+      "R": 0.5,
+      "I": 0.5,
+      "A": 0.5,
+      "S": 0.5,
+      "E": 0.5,
+      "C": 0.5
+    },
+    "job_family": "Tech",
+    "ncs_code": "",
+    "salary_range_in_inr_per_annum": "2,00,000 - 10,00,000",
+    "degrees": [
+      {
+        "degree": "B.Tech/B.E.",
+        "specializations": [
+          "Computer Science",
+          "Information Technology",
+          "Electronics"
+        ]
+      },
+      {
+        "degree": "M.Tech/M.S.",
+        "specializations": [
+          "Computer Science",
+          "AI & ML",
+          "Robotics"
+        ]
+      }
+    ],
+    "skills_roadmap": [
+      "Skill 1",
+      "Skill 2",
+      "Skill 3"
+    ],
+    "work_context": "Typical tasks and context for the role (brief)."
+  },
+  {
+    "career": "Research Analyst",
+    "riasec": {
+      "R": 0.2,
+      "I": 0.9,
+      "A": 0.2,
+      "S": 0.3,
+      "E": 0.2,
+      "C": 0.6
+    },
+    "job_family": "Data",
+    "ncs_code": "",
+    "salary_range_in_inr_per_annum": "2,00,000 - 10,00,000",
+    "degrees": [
+      {
+        "degree": "B.Sc",
+        "specializations": [
+          "Statistics",
+          "Mathematics",
+          "Computer Science"
+        ]
+      },
+      {
+        "degree": "M.Sc / M.Tech",
+        "specializations": [
+          "Data Science",
+          "Statistics",
+          "Machine Learning"
+        ]
+      }
+    ],
+    "skills_roadmap": [
+      "Skill 1",
+      "Skill 2",
+      "Skill 3"
+    ],
+    "work_context": "Typical tasks and context for the role (brief)."
+  },
+  {
+    "career": "Statistician",
+    "riasec": {
+      "R": 0.2,
+      "I": 0.9,
+      "A": 0.2,
+      "S": 0.3,
+      "E": 0.2,
+      "C": 0.6
+    },
+    "job_family": "Data",
+    "ncs_code": "",
+    "salary_range_in_inr_per_annum": "2,00,000 - 10,00,000",
+    "degrees": [
+      {
+        "degree": "B.Sc",
+        "specializations": [
+          "Statistics",
+          "Mathematics",
+          "Computer Science"
+        ]
+      },
+      {
+        "degree": "M.Sc / M.Tech",
+        "specializations": [
+          "Data Science",
+          "Statistics",
+          "Machine Learning"
+        ]
+      }
+    ],
+    "skills_roadmap": [
+      "Skill 1",
+      "Skill 2",
+      "Skill 3"
+    ],
+    "work_context": "Typical tasks and context for the role (brief)."
+  },
+  {
+    "career": "Actuary",
+    "riasec": {
+      "R": 0.1,
+      "I": 0.5,
+      "A": 0.1,
+      "S": 0.3,
+      "E": 0.5,
+      "C": 0.9
+    },
+    "job_family": "Commerce",
+    "ncs_code": "",
+    "salary_range_in_inr_per_annum": "2,00,000 - 10,00,000",
+    "degrees": [
+      {
+        "degree": "B.Com",
+        "specializations": [
+          "Accounting",
+          "Finance"
+        ]
+      },
+      {
+        "degree": "CA",
+        "specializations": [
+          "Chartered Accountancy"
+        ]
+      }
+    ],
+    "skills_roadmap": [
+      "Skill 1",
+      "Skill 2",
+      "Skill 3"
+    ],
+    "work_context": "Typical tasks and context for the role (brief)."
+  },
+  {
+    "career": "Economist",
+    "riasec": {
+      "R": 0.1,
+      "I": 0.5,
+      "A": 0.1,
+      "S": 0.3,
+      "E": 0.5,
+      "C": 0.9
+    },
+    "job_family": "Commerce",
+    "ncs_code": "",
+    "salary_range_in_inr_per_annum": "2,00,000 - 10,00,000",
+    "degrees": [
+      {
+        "degree": "B.Com",
+        "specializations": [
+          "Accounting",
+          "Finance"
+        ]
+      },
+      {
+        "degree": "CA",
+        "specializations": [
+          "Chartered Accountancy"
+        ]
+      }
+    ],
+    "skills_roadmap": [
+      "Skill 1",
+      "Skill 2",
+      "Skill 3"
+    ],
+    "work_context": "Typical tasks and context for the role (brief)."
+  },
+  {
+    "career": "Market Research Analyst",
+    "riasec": {
+      "R": 0.2,
+      "I": 0.9,
+      "A": 0.2,
+      "S": 0.3,
+      "E": 0.2,
+      "C": 0.6
+    },
+    "job_family": "Data",
+    "ncs_code": "",
+    "salary_range_in_inr_per_annum": "2,00,000 - 10,00,000",
+    "degrees": [
+      {
+        "degree": "B.Sc",
+        "specializations": [
+          "Statistics",
+          "Mathematics",
+          "Computer Science"
+        ]
+      },
+      {
+        "degree": "M.Sc / M.Tech",
+        "specializations": [
+          "Data Science",
+          "Statistics",
+          "Machine Learning"
+        ]
+      }
+    ],
+    "skills_roadmap": [
+      "Skill 1",
+      "Skill 2",
+      "Skill 3"
+    ],
+    "work_context": "Typical tasks and context for the role (brief)."
+  },
+  {
+    "career": "Cloud Solutions Architect - Junior",
+    "riasec": {
+      "R": 0.5,
+      "I": 0.5,
+      "A": 0.5,
+      "S": 0.5,
+      "E": 0.5,
+      "C": 0.5
+    },
+    "job_family": "Tech",
+    "ncs_code": "",
+    "salary_range_in_inr_per_annum": "2,00,000 - 10,00,000",
+    "degrees": [
+      {
+        "degree": "B.Tech/B.E.",
+        "specializations": [
+          "Computer Science",
+          "Information Technology",
+          "Electronics"
+        ]
+      },
+      {
+        "degree": "M.Tech/M.S.",
+        "specializations": [
+          "Computer Science",
+          "AI & ML",
+          "Robotics"
+        ]
+      }
+    ],
+    "skills_roadmap": [
+      "Skill 1",
+      "Skill 2",
+      "Skill 3"
+    ],
+    "work_context": "Typical tasks and context for the role (brief)."
+  },
+  {
+    "career": "Accessory Designer - Specialist",
+    "riasec": {
+      "R": 0.1,
+      "I": 0.4,
+      "A": 0.9,
+      "S": 0.3,
+      "E": 0.4,
+      "C": 0.3
+    },
+    "job_family": "Arts",
+    "ncs_code": "",
+    "salary_range_in_inr_per_annum": "2,00,000 - 10,00,000",
+    "degrees": [
+      {
+        "degree": "B.Des / BA",
+        "specializations": [
+          "Graphic Design",
+          "Fine Arts"
+        ]
+      }
+    ],
+    "skills_roadmap": [
+      "Skill 1",
+      "Skill 2",
+      "Skill 3"
+    ],
+    "work_context": "Typical tasks and context for the role (brief)."
+  },
+  {
+    "career": "Judge - Junior",
+    "riasec": {
+      "R": 0.5,
+      "I": 0.5,
+      "A": 0.5,
+      "S": 0.5,
+      "E": 0.5,
+      "C": 0.5
+    },
+    "job_family": "Law",
+    "ncs_code": "",
+    "salary_range_in_inr_per_annum": "2,00,000 - 10,00,000",
+    "degrees": [
+      {
+        "degree": "LLB",
+        "specializations": [
+          "Corporate Law",
+          "Criminal Law"
+        ]
+      }
+    ],
+    "skills_roadmap": [
+      "Skill 1",
+      "Skill 2",
+      "Skill 3"
+    ],
+    "work_context": "Typical tasks and context for the role (brief)."
+  },
+  {
+    "career": "Compliance Officer - Junior",
+    "riasec": {
+      "R": 0.5,
+      "I": 0.5,
+      "A": 0.5,
+      "S": 0.5,
+      "E": 0.5,
+      "C": 0.5
+    },
+    "job_family": "Tech",
+    "ncs_code": "",
+    "salary_range_in_inr_per_annum": "2,00,000 - 10,00,000",
+    "degrees": [
+      {
+        "degree": "B.Tech/B.E.",
+        "specializations": [
+          "Computer Science",
+          "Information Technology",
+          "Electronics"
+        ]
+      },
+      {
+        "degree": "M.Tech/M.S.",
+        "specializations": [
+          "Computer Science",
+          "AI & ML",
+          "Robotics"
+        ]
+      }
+    ],
+    "skills_roadmap": [
+      "Skill 1",
+      "Skill 2",
+      "Skill 3"
+    ],
+    "work_context": "Typical tasks and context for the role (brief)."
+  },
+  {
+    "career": "Paid Ads Specialist - Junior",
+    "riasec": {
+      "R": 0.5,
+      "I": 0.5,
+      "A": 0.5,
+      "S": 0.5,
+      "E": 0.5,
+      "C": 0.5
+    },
+    "job_family": "Tech",
+    "ncs_code": "",
+    "salary_range_in_inr_per_annum": "2,00,000 - 10,00,000",
+    "degrees": [
+      {
+        "degree": "B.Tech/B.E.",
+        "specializations": [
+          "Computer Science",
+          "Information Technology",
+          "Electronics"
+        ]
+      },
+      {
+        "degree": "M.Tech/M.S.",
+        "specializations": [
+          "Computer Science",
+          "AI & ML",
+          "Robotics"
+        ]
+      }
+    ],
+    "skills_roadmap": [
+      "Skill 1",
+      "Skill 2",
+      "Skill 3"
+    ],
+    "work_context": "Typical tasks and context for the role (brief)."
+  },
+  {
+    "career": "Occupational Therapist - Junior",
+    "riasec": {
+      "R": 0.1,
+      "I": 0.5,
+      "A": 0.3,
+      "S": 0.8,
+      "E": 0.5,
+      "C": 0.4
+    },
+    "job_family": "Health",
+    "ncs_code": "",
+    "salary_range_in_inr_per_annum": "2,00,000 - 10,00,000",
+    "degrees": [
+      {
+        "degree": "B.Sc Nursing",
+        "specializations": [
+          "Nursing"
+        ]
+      },
+      {
+        "degree": "MBBS",
+        "specializations": [
+          "General Medicine"
+        ]
+      }
+    ],
+    "skills_roadmap": [
+      "Skill 1",
+      "Skill 2",
+      "Skill 3"
+    ],
+    "work_context": "Typical tasks and context for the role (brief)."
+  },
+  {
+    "career": "Sales Executive - Junior",
+    "riasec": {
+      "R": 0.2,
+      "I": 0.5,
+      "A": 0.4,
+      "S": 0.4,
+      "E": 0.9,
+      "C": 0.5
+    },
+    "job_family": "Management",
+    "ncs_code": "",
+    "salary_range_in_inr_per_annum": "2,00,000 - 10,00,000",
+    "degrees": [
+      {
+        "degree": "BBA",
+        "specializations": [
+          "Business Administration"
+        ]
+      },
+      {
+        "degree": "MBA",
+        "specializations": [
+          "Marketing",
+          "Finance",
+          "Operations"
+        ]
+      }
+    ],
+    "skills_roadmap": [
+      "Skill 1",
+      "Skill 2",
+      "Skill 3"
+    ],
+    "work_context": "Typical tasks and context for the role (brief)."
+  },
+  {
+    "career": "Research Analyst - Junior",
+    "riasec": {
+      "R": 0.2,
+      "I": 0.9,
+      "A": 0.2,
+      "S": 0.3,
+      "E": 0.2,
+      "C": 0.6
+    },
+    "job_family": "Data",
+    "ncs_code": "",
+    "salary_range_in_inr_per_annum": "2,00,000 - 10,00,000",
+    "degrees": [
+      {
+        "degree": "B.Sc",
+        "specializations": [
+          "Statistics",
+          "Mathematics",
+          "Computer Science"
+        ]
+      },
+      {
+        "degree": "M.Sc / M.Tech",
+        "specializations": [
+          "Data Science",
+          "Statistics",
+          "Machine Learning"
+        ]
+      }
+    ],
+    "skills_roadmap": [
+      "Skill 1",
+      "Skill 2",
+      "Skill 3"
+    ],
+    "work_context": "Typical tasks and context for the role (brief)."
+  },
+  {
+    "career": "Digital Marketer - Junior",
+    "riasec": {
+      "R": 0.5,
+      "I": 0.5,
+      "A": 0.5,
+      "S": 0.5,
+      "E": 0.5,
+      "C": 0.5
+    },
+    "job_family": "Tech",
+    "ncs_code": "",
+    "salary_range_in_inr_per_annum": "2,00,000 - 10,00,000",
+    "degrees": [
+      {
+        "degree": "B.Tech/B.E.",
+        "specializations": [
+          "Computer Science",
+          "Information Technology",
+          "Electronics"
+        ]
+      },
+      {
+        "degree": "M.Tech/M.S.",
+        "specializations": [
+          "Computer Science",
+          "AI & ML",
+          "Robotics"
+        ]
+      }
+    ],
+    "skills_roadmap": [
+      "Skill 1",
+      "Skill 2",
+      "Skill 3"
+    ],
+    "work_context": "Typical tasks and context for the role (brief)."
+  },
+  {
+    "career": "Agriculture Farmer / Entrepreneur - Specialist",
+    "riasec": {
+      "R": 0.9,
+      "I": 0.3,
+      "A": 0.3,
+      "S": 0.7,
+      "E": 0.4,
+      "C": 0.3
+    },
+    "job_family": "Agri",
+    "ncs_code": "",
+    "salary_range_in_inr_per_annum": "1,00,000 - 6,00,000",
+    "degrees": [
+      {
+        "degree": "B.Sc Agriculture",
+        "specializations": [
+          "Agronomy",
+          "Horticulture"
+        ]
+      },
+      {
+        "degree": "Diploma",
+        "specializations": [
+          "Farm Management"
+        ]
+      }
+    ],
+    "skills_roadmap": [
+      "Skill 1",
+      "Skill 2",
+      "Skill 3"
+    ],
+    "work_context": "Typical tasks and context for the role (brief)."
+  },
+  {
+    "career": "Human Resources Manager - Specialist",
+    "riasec": {
+      "R": 0.2,
+      "I": 0.5,
+      "A": 0.4,
+      "S": 0.4,
+      "E": 0.9,
+      "C": 0.5
+    },
+    "job_family": "Management",
+    "ncs_code": "",
+    "salary_range_in_inr_per_annum": "2,00,000 - 10,00,000",
+    "degrees": [
+      {
+        "degree": "BBA",
+        "specializations": [
+          "Business Administration"
+        ]
+      },
+      {
+        "degree": "MBA",
+        "specializations": [
+          "Marketing",
+          "Finance",
+          "Operations"
+        ]
+      }
+    ],
+    "skills_roadmap": [
+      "Skill 1",
+      "Skill 2",
+      "Skill 3"
+    ],
+    "work_context": "Typical tasks and context for the role (brief)."
+  },
+  {
+    "career": "Real Estate Agent - Specialist",
+    "riasec": {
+      "R": 0.5,
+      "I": 0.5,
+      "A": 0.5,
+      "S": 0.5,
+      "E": 0.5,
+      "C": 0.5
+    },
+    "job_family": "Tech",
+    "ncs_code": "",
+    "salary_range_in_inr_per_annum": "2,00,000 - 10,00,000",
+    "degrees": [
+      {
+        "degree": "B.Tech/B.E.",
+        "specializations": [
+          "Computer Science",
+          "Information Technology",
+          "Electronics"
+        ]
+      },
+      {
+        "degree": "M.Tech/M.S.",
+        "specializations": [
+          "Computer Science",
+          "AI & ML",
+          "Robotics"
+        ]
+      }
+    ],
+    "skills_roadmap": [
+      "Skill 1",
+      "Skill 2",
+      "Skill 3"
+    ],
+    "work_context": "Typical tasks and context for the role (brief)."
+  },
+  {
+    "career": "Actuary - Junior",
+    "riasec": {
+      "R": 0.1,
+      "I": 0.5,
+      "A": 0.1,
+      "S": 0.3,
+      "E": 0.5,
+      "C": 0.9
+    },
+    "job_family": "Commerce",
+    "ncs_code": "",
+    "salary_range_in_inr_per_annum": "2,00,000 - 10,00,000",
+    "degrees": [
+      {
+        "degree": "B.Com",
+        "specializations": [
+          "Accounting",
+          "Finance"
+        ]
+      },
+      {
+        "degree": "CA",
+        "specializations": [
+          "Chartered Accountancy"
+        ]
+      }
+    ],
+    "skills_roadmap": [
+      "Skill 1",
+      "Skill 2",
+      "Skill 3"
+    ],
+    "work_context": "Typical tasks and context for the role (brief)."
+  },
+  {
+    "career": "Research Assistant - Junior",
+    "riasec": {
+      "R": 0.2,
+      "I": 0.9,
+      "A": 0.2,
+      "S": 0.3,
+      "E": 0.2,
+      "C": 0.6
+    },
+    "job_family": "Tech",
+    "ncs_code": "",
+    "salary_range_in_inr_per_annum": "2,00,000 - 10,00,000",
+    "degrees": [
+      {
+        "degree": "B.Tech/B.E.",
+        "specializations": [
+          "Computer Science",
+          "Information Technology",
+          "Electronics"
+        ]
+      },
+      {
+        "degree": "M.Tech/M.S.",
+        "specializations": [
+          "Computer Science",
+          "AI & ML",
+          "Robotics"
+        ]
+      }
+    ],
+    "skills_roadmap": [
+      "Skill 1",
+      "Skill 2",
+      "Skill 3"
+    ],
+    "work_context": "Typical tasks and context for the role (brief)."
+  },
+  {
+    "career": "Yoga Instructor - Specialist",
+    "riasec": {
+      "R": 0.5,
+      "I": 0.5,
+      "A": 0.5,
+      "S": 0.5,
+      "E": 0.5,
+      "C": 0.5
+    },
+    "job_family": "Tech",
+    "ncs_code": "",
+    "salary_range_in_inr_per_annum": "2,00,000 - 10,00,000",
+    "degrees": [
+      {
+        "degree": "B.Tech/B.E.",
+        "specializations": [
+          "Computer Science",
+          "Information Technology",
+          "Electronics"
+        ]
+      },
+      {
+        "degree": "M.Tech/M.S.",
+        "specializations": [
+          "Computer Science",
+          "AI & ML",
+          "Robotics"
+        ]
+      }
+    ],
+    "skills_roadmap": [
+      "Skill 1",
+      "Skill 2",
+      "Skill 3"
+    ],
+    "work_context": "Typical tasks and context for the role (brief)."
+  }
+]

@@ -1,0 +1,343 @@
+{
+  "Software Developer": {
+    "riasec": {
+      "R": 0.6,
+      "I": 0.9,
+      "A": 0.1,
+      "S": 0.1,
+      "E": 0.1,
+      "C": 0.3
+    },
+    "holland_code": "IRC"
+  },
+  "Data Analyst": {
+    "riasec": {
+      "R": 0.6,
+      "I": 0.9,
+      "A": 0.1,
+      "S": 0.1,
+      "E": 0.1,
+      "C": 0.3
+    },
+    "holland_code": "IRC"
+  },
+  "Mechanical Engineer": {
+    "riasec": {
+      "R": 0.9,
+      "I": 0.6,
+      "A": 0.1,
+      "S": 0.1,
+      "E": 0.3,
+      "C": 0.1
+    },
+    "holland_code": "RIE"
+  },
+  "Civil Engineer": {
+    "riasec": {
+      "R": 0.9,
+      "I": 0.6,
+      "A": 0.1,
+      "S": 0.1,
+      "E": 0.3,
+      "C": 0.1
+    },
+    "holland_code": "RIE"
+  },
+  "Chartered Accountant": {
+    "riasec": {
+      "R": 0.1,
+      "I": 0.3,
+      "A": 0.1,
+      "S": 0.1,
+      "E": 0.6,
+      "C": 0.9
+    },
+    "holland_code": "CEI"
+  },
+  "Teacher / Lecturer": {
+    "riasec": {
+      "R": 0.1,
+      "I": 0.6,
+      "A": 0.3,
+      "S": 0.9,
+      "E": 0.1,
+      "C": 0.1
+    },
+    "holland_code": "SIA"
+  },
+  "Nurse": {
+    "riasec": {
+      "R": 0.6,
+      "I": 0.1,
+      "A": 0.1,
+      "S": 0.9,
+      "E": 0.1,
+      "C": 0.3
+    },
+    "holland_code": "SRC"
+  },
+  "Physician (Doctor)": {
+    "riasec": {
+      "R": 0.6,
+      "I": 0.9,
+      "A": 0.1,
+      "S": 0.3,
+      "E": 0.1,
+      "C": 0.1
+    },
+    "holland_code": "IRS"
+  },
+  "Agriculture Farmer / Entrepreneur": {
+    "riasec": {
+      "R": 0.9,
+      "I": 0.1,
+      "A": 0.1,
+      "S": 0.3,
+      "E": 0.6,
+      "C": 0.1
+    },
+    "holland_code": "RES"
+  },
+  "Horticulture Specialist": {
+    "riasec": {
+      "R": 0.9,
+      "I": 0.1,
+      "A": 0.1,
+      "S": 0.3,
+      "E": 0.6,
+      "C": 0.1
+    },
+    "holland_code": "RES"
+  },
+  "Soil Scientist": {
+    "riasec": {
+      "R": 0.6,
+      "I": 0.9,
+      "A": 0.1,
+      "S": 0.1,
+      "E": 0.1,
+      "C": 0.3
+    },
+    "holland_code": "IRC"
+  },
+  "Entrepreneur / Startup Founder": {
+    "riasec": {
+      "R": 0.1,
+      "I": 0.6,
+      "A": 0.1,
+      "S": 0.3,
+      "E": 0.9,
+      "C": 0.1
+    },
+    "holland_code": "EIS"
+  },
+  "Cricketer / Professional Athlete": {
+    "riasec": {
+      "R": 0.9,
+      "I": 0.1,
+      "A": 0.6,
+      "S": 0.1,
+      "E": 0.3,
+      "C": 0.1
+    },
+    "holland_code": "RAE"
+  },
+  "Sports Coach (Cricket)": {
+    "riasec": {
+      "R": 0.6,
+      "I": 0.1,
+      "A": 0.1,
+      "S": 0.9,
+      "E": 0.3,
+      "C": 0.1
+    },
+    "holland_code": "SRE"
+  },
+  "Strength & Conditioning Coach": {
+    "riasec": {
+      "R": 0.9,
+      "I": 0.1,
+      "A": 0.1,
+      "S": 0.3,
+      "E": 0.6,
+      "C": 0.1
+    },
+    "holland_code": "RES"
+  },
+  "Fitness Trainer / Gym Instructor": {
+    "riasec": {
+      "R": 0.9,
+      "I": 0.1,
+      "A": 0.1,
+      "S": 0.3,
+      "E": 0.6,
+      "C": 0.1
+    },
+    "holland_code": "RES"
+  },
+  "Athlete Trainer": {
+    "riasec": {
+      "R": 0.9,
+      "I": 0.1,
+      "A": 0.1,
+      "S": 0.3,
+      "E": 0.6,
+      "C": 0.1
+    },
+    "holland_code": "RES"
+  },
+  "Sports Physiotherapist": {
+    "riasec": {
+      "R": 0.6,
+      "I": 0.9,
+      "A": 0.1,
+      "S": 0.3,
+      "E": 0.1,
+      "C": 0.1
+    },
+    "holland_code": "IRS"
+  },
+  "Sports Nutritionist": {
+    "riasec": {
+      "R": 0.3,
+      "I": 0.9,
+      "A": 0.1,
+      "S": 0.6,
+      "E": 0.1,
+      "C": 0.1
+    },
+    "holland_code": "ISR"
+  },
+  "Sports Psychologist": {
+    "riasec": {
+      "R": 0.1,
+      "I": 0.6,
+      "A": 0.3,
+      "S": 0.9,
+      "E": 0.1,
+      "C": 0.1
+    },
+    "holland_code": "SIA"
+  },
+  "Sports Analyst": {
+    "riasec": {
+      "R": 0.6,
+      "I": 0.9,
+      "A": 0.1,
+      "S": 0.1,
+      "E": 0.1,
+      "C": 0.3
+    },
+    "holland_code": "IRC"
+  },
+  "Sports Manager": {
+    "riasec": {
+      "R": 0.1,
+      "I": 0.6,
+      "A": 0.1,
+      "S": 0.3,
+      "E": 0.9,
+      "C": 0.1
+    },
+    "holland_code": "EIS"
+  },
+  "Sports Performance Analyst": {
+    "riasec": {
+      "R": 0.6,
+      "I": 0.9,
+      "A": 0.1,
+      "S": 0.1,
+      "E": 0.1,
+      "C": 0.3
+    },
+    "holland_code": "IRC"
+  },
+  "Sports Scout / Talent Manager": {
+    "riasec": {
+      "R": 0.1,
+      "I": 0.6,
+      "A": 0.1,
+      "S": 0.3,
+      "E": 0.9,
+      "C": 0.1
+    },
+    "holland_code": "EIS"
+  },
+  "Sports Event Coordinator": {
+    "riasec": {
+      "R": 0.3,
+      "I": 0.1,
+      "A": 0.1,
+      "S": 0.6,
+      "E": 0.9,
+      "C": 0.1
+    },
+    "holland_code": "ESR"
+  },
+  "Sports Journalist": {
+    "riasec": {
+      "R": 0.1,
+      "I": 0.3,
+      "A": 0.9,
+      "S": 0.6,
+      "E": 0.1,
+      "C": 0.1
+    },
+    "holland_code": "ASI"
+  },
+  "Sports Commentator": {
+    "riasec": {
+      "R": 0.1,
+      "I": 0.1,
+      "A": 0.9,
+      "S": 0.3,
+      "E": 0.6,
+      "C": 0.1
+    },
+    "holland_code": "AES"
+  },
+  "Sports Photographer": {
+    "riasec": {
+      "R": 0.3,
+      "I": 0.1,
+      "A": 0.9,
+      "S": 0.1,
+      "E": 0.6,
+      "C": 0.1
+    },
+    "holland_code": "AER"
+  },
+  "Sports Medicine Doctor": {
+    "riasec": {
+      "R": 0.6,
+      "I": 0.9,
+      "A": 0.1,
+      "S": 0.3,
+      "E": 0.1,
+      "C": 0.1
+    },
+    "holland_code": "IRS"
+  },
+  "Sports Rehabilitation Specialist": {
+    "riasec": {
+      "R": 0.3,
+      "I": 0.6,
+      "A": 0.1,
+      "S": 0.9,
+      "E": 0.1,
+      "C": 0.1
+    },
+    "holland_code": "SIR"
+  },
+  "Stadium / Facility Manager": {
+    "riasec": {
+      "R": 0.3,
+      "I": 0.1,
+      "A": 0.1,
+      "S": 0.1,
+      "E": 0.6,
+      "C": 0.9
+    },
+    "holland_code": "CER"
+  }
+}
