@@ -1,0 +1,408 @@
+[
+  {
+    "name": "Visvesvaraya National Institute of Technology, Nagpur",
+    "location": "Nagpur, Maharashtra",
+    "type": "Government",
+    "source": "https://vnit.ac.in/section/tnp/, https://www.shiksha.com/college/vnit-nagpur-visvesvaraya-national-institute-of-technology-24399/placement, https://studyriserr.com/college/8031-visvesvaraya-national-institute-of-technology-vnit-nagpur/placement",
+    "overallPlacementStats": {
+      "avgStudentsPlacedPerYear": 723,
+      "overallPlacementRate": 92.5
+    },
+    "courses": [
+      {
+        "name": "B.Tech in Computer Science Engineering",
+        "shortName": "BTECH CSE",
+        "duration": "4 years",
+        "fees": 550000,
+        "avgPackage": 1192000,
+        "placementRate": 98.5,
+        "avgStudentsPlacedPerYear": 145,
+        "growthRate": 0.102,
+        "discountRate": 0.08,
+        "careerYears": 30,
+        "stream": "Science"
+      },
+      {
+        "name": "B.Tech in Mechanical Engineering",
+        "shortName": "BTECH ME",
+        "duration": "4 years",
+        "fees": 550000,
+        "avgPackage": 900000,
+        "placementRate": 92,
+        "avgStudentsPlacedPerYear": 130,
+        "growthRate": 0.102,
+        "discountRate": 0.08,
+        "careerYears": 30,
+        "stream": "Science"
+      },
+      {
+        "name": "M.Tech in Computer Science",
+        "shortName": "MTECH CS",
+        "duration": "2 years",
+        "fees": 140000,
+        "avgPackage": 798000,
+        "placementRate": 88,
+        "avgStudentsPlacedPerYear": 80,
+        "growthRate": 0.102,
+        "discountRate": 0.08,
+        "careerYears": 30,
+        "stream": "Science"
+      }
+    ]
+  },
+  {
+    "name": "Indian Institute of Information Technology, Nagpur",
+    "location": "Nagpur, Maharashtra",
+    "type": "Government",
+    "source": "https://www.iiitn.ac.in/placements/statistics, https://www.shiksha.com/college/iiit-nagpur-indian-institute-of-information-technology-53876/placement, https://collegedunia.com/university/57974-indian-institute-of-information-technology-iiit-nagpur/placement",
+    "overallPlacementStats": {
+      "avgStudentsPlacedPerYear": 188,
+      "overallPlacementRate": 90.82
+    },
+    "courses": [
+      {
+        "name": "B.Tech in Computer Science Engineering",
+        "shortName": "BTECH CSE",
+        "duration": "4 years",
+        "fees": 792000,
+        "avgPackage": 1325000,
+        "placementRate": 92,
+        "avgStudentsPlacedPerYear": 115,
+        "growthRate": 0.102,
+        "discountRate": 0.08,
+        "careerYears": 30,
+        "stream": "Science"
+      },
+      {
+        "name": "B.Tech in Electronics & Communication Engineering",
+        "shortName": "BTECH ECE",
+        "duration": "4 years",
+        "fees": 792000,
+        "avgPackage": 950000,
+        "placementRate": 88,
+        "avgStudentsPlacedPerYear": 57,
+        "growthRate": 0.102,
+        "discountRate": 0.08,
+        "careerYears": 30,
+        "stream": "Science"
+      }
+    ]
+  },
+  {
+    "name": "Yeshwantrao Chavan College of Engineering, Nagpur",
+    "location": "Nagpur, Maharashtra",
+    "type": "Private",
+    "source": "https://ycce.edu/placement-details/, https://www.shiksha.com/college/yeshwantrao-chavan-college-of-engineering-nagar-yuwak-shikshan-sanstha-nagpur-11259/placement, https://collegedunia.com/college/15508-yeshwantrao-chavan-college-of-engineering-ycce-nagpur/placement",
+    "overallPlacementStats": {
+      "avgStudentsPlacedPerYear": 1013,
+      "overallPlacementRate": 85
+    },
+    "courses": [
+      {
+        "name": "B.Tech in Computer Science Engineering",
+        "shortName": "BTECH CSE",
+        "duration": "4 years",
+        "fees": 700000,
+        "avgPackage": 650000,
+        "placementRate": 90,
+        "avgStudentsPlacedPerYear": 250,
+        "growthRate": 0.102,
+        "discountRate": 0.08,
+        "careerYears": 30,
+        "stream": "Science"
+      },
+      {
+        "name": "B.Tech in Information Technology",
+        "shortName": "BTECH IT",
+        "duration": "4 years",
+        "fees": 700000,
+        "avgPackage": 620000,
+        "placementRate": 88,
+        "avgStudentsPlacedPerYear": 200,
+        "growthRate": 0.102,
+        "discountRate": 0.08,
+        "careerYears": 30,
+        "stream": "Science"
+      },
+      {
+        "name": "B.Tech in Mechanical Engineering",
+        "shortName": "BTECH ME",
+        "duration": "4 years",
+        "fees": 700000,
+        "avgPackage": 520000,
+        "placementRate": 75,
+        "avgStudentsPlacedPerYear": 180,
+        "growthRate": 0.102,
+        "discountRate": 0.08,
+        "careerYears": 30,
+        "stream": "Science"
+      }
+    ]
+  },
+  {
+    "name": "G.H. Raisoni College of Engineering, Nagpur",
+    "location": "Nagpur, Maharashtra",
+    "type": "Private",
+    "source": "https://ghrce.raisoni.net/training-placement, https://www.shiksha.com/college/g-h-raisoni-college-of-engineering-nagpur-47173/placement, https://collegedunia.com/college/13492-gh-raisoni-college-of-engineering-ghrce-nagpur-nagpur/placement",
+    "overallPlacementStats": {
+      "avgStudentsPlacedPerYear": 900,
+      "overallPlacementRate": 85
+    },
+    "courses": [
+      {
+        "name": "B.Tech in Computer Science Engineering",
+        "shortName": "BTECH CSE",
+        "duration": "4 years",
+        "fees": 681000,
+        "avgPackage": 560000,
+        "placementRate": 80,
+        "avgStudentsPlacedPerYear": 180,
+        "growthRate": 0.102,
+        "discountRate": 0.08,
+        "careerYears": 30,
+        "stream": "Science"
+      },
+      {
+        "name": "B.Tech in Mechanical Engineering",
+        "shortName": "BTECH ME",
+        "duration": "4 years",
+        "fees": 681000,
+        "avgPackage": 420000,
+        "placementRate": 75,
+        "avgStudentsPlacedPerYear": 150,
+        "growthRate": 0.102,
+        "discountRate": 0.08,
+        "careerYears": 30,
+        "stream": "Science"
+      },
+      {
+        "name": "MBA in Finance",
+        "shortName": "MBA FIN",
+        "duration": "2 years",
+        "fees": 274000,
+        "avgPackage": 520000,
+        "placementRate": 78,
+        "avgStudentsPlacedPerYear": 90,
+        "growthRate": 0.095,
+        "discountRate": 0.08,
+        "careerYears": 28,
+        "stream": "Science"
+      }
+    ]
+  },
+  {
+    "name": "AIIMS Nagpur (All India Institute of Medical Sciences)",
+    "location": "Nagpur, Maharashtra",
+    "type": "Government",
+    "source": "https://www.aiimsngp.edu.in/, https://collegedunia.com/mbbs/nagpur-colleges, https://medicine.careers360.com/colleges/list-of-mbbs-colleges-in-nagpur",
+    "overallPlacementStats": {
+      "avgStudentsPlacedPerYear": 175,
+      "overallPlacementRate": 95
+    },
+    "courses": [
+      {
+        "name": "MBBS (Bachelor of Medicine, Bachelor of Surgery)",
+        "shortName": "MBBS",
+        "duration": "5.5 years",
+        "fees": 5856,
+        "avgPackage": 1800000,
+        "placementRate": 98,
+        "avgStudentsPlacedPerYear": 145,
+        "growthRate": 0.09,
+        "discountRate": 0.08,
+        "careerYears": 35,
+        "stream": "Science"
+      },
+      {
+        "name": "M.D. (Doctor of Medicine)",
+        "shortName": "MD",
+        "duration": "3 years",
+        "fees": 50000,
+        "avgPackage": 2100000,
+        "placementRate": 92,
+        "avgStudentsPlacedPerYear": 30,
+        "growthRate": 0.09,
+        "discountRate": 0.08,
+        "careerYears": 32,
+        "stream": "Science"
+      }
+    ]
+  },
+  {
+    "name": "Government Medical College, Nagpur",
+    "location": "Nagpur, Maharashtra",
+    "type": "Government",
+    "source": "https://collegedunia.com/mbbs/nagpur-colleges, https://validcollege.com/college/government-medical-college-nagpur, https://smartachievers.online/government-medical-college-nagpur-admission-2025-courses-fees-cutoff-ranking",
+    "overallPlacementStats": {
+      "avgStudentsPlacedPerYear": 250,
+      "overallPlacementRate": 93
+    },
+    "courses": [
+      {
+        "name": "MBBS (Bachelor of Medicine, Bachelor of Surgery)",
+        "shortName": "MBBS",
+        "duration": "5.5 years",
+        "fees": 447000,
+        "avgPackage": 1650000,
+        "placementRate": 95,
+        "avgStudentsPlacedPerYear": 200,
+        "growthRate": 0.09,
+        "discountRate": 0.08,
+        "careerYears": 35,
+        "stream": "Science"
+      },
+      {
+        "name": "B.Sc (Nursing)",
+        "shortName": "BSCN",
+        "duration": "4 years",
+        "fees": 35200,
+        "avgPackage": 450000,
+        "placementRate": 88,
+        "avgStudentsPlacedPerYear": 50,
+        "growthRate": 0.085,
+        "discountRate": 0.08,
+        "careerYears": 33,
+        "stream": "Science"
+      }
+    ]
+  },
+  {
+    "name": "Indira Gandhi Government Medical College & Hospital, Nagpur",
+    "location": "Nagpur, Maharashtra",
+    "type": "Government",
+    "source": "https://collegedunia.com/mbbs/nagpur-colleges, https://medicine.careers360.com/colleges/list-of-mbbs-colleges-in-nagpur",
+    "overallPlacementStats": {
+      "avgStudentsPlacedPerYear": 200,
+      "overallPlacementRate": 91
+    },
+    "courses": [
+      {
+        "name": "MBBS (Bachelor of Medicine, Bachelor of Surgery)",
+        "shortName": "MBBS",
+        "duration": "5.5 years",
+        "fees": 560000,
+        "avgPackage": 1550000,
+        "placementRate": 93,
+        "avgStudentsPlacedPerYear": 170,
+        "growthRate": 0.09,
+        "discountRate": 0.08,
+        "careerYears": 35,
+        "stream": "Science"
+      }
+    ]
+  },
+  {
+    "name": "Maharashtra National Law University (MNLU), Nagpur",
+    "location": "Nagpur, Maharashtra",
+    "type": "Government",
+    "source": "https://www.careers360.com/university/maharashtra-national-law-university-nagpur/placement, https://collegedunia.com/llb/nagpur-colleges, https://www.shiksha.com/law/ranking/top-law-colleges-in-nagpur/56-2-0-156-0",
+    "overallPlacementStats": {
+      "avgStudentsPlacedPerYear": 106,
+      "overallPlacementRate": 88
+    },
+    "courses": [
+      {
+        "name": "BA LLB (Bachelor of Arts + Bachelor of Laws)",
+        "shortName": "BA LLB",
+        "duration": "5 years",
+        "fees": 1129000,
+        "avgPackage": 700000,
+        "placementRate": 90,
+        "avgStudentsPlacedPerYear": 65,
+        "growthRate": 0.085,
+        "discountRate": 0.08,
+        "careerYears": 35,
+        "stream": "Arts"
+      },
+      {
+        "name": "BBA LLB (Bachelor of Business Administration + Bachelor of Laws)",
+        "shortName": "BBA LLB",
+        "duration": "5 years",
+        "fees": 1129000,
+        "avgPackage": 750000,
+        "placementRate": 88,
+        "avgStudentsPlacedPerYear": 30,
+        "growthRate": 0.085,
+        "discountRate": 0.08,
+        "careerYears": 35,
+        "stream": "Commerce"
+      },
+      {
+        "name": "LLM (Master of Laws)",
+        "shortName": "LLM",
+        "duration": "2 years",
+        "fees": 420000,
+        "avgPackage": 550000,
+        "placementRate": 82,
+        "avgStudentsPlacedPerYear": 11,
+        "growthRate": 0.085,
+        "discountRate": 0.08,
+        "careerYears": 33,
+        "stream": "Arts"
+      }
+    ]
+  },
+  {
+    "name": "Dr. Babasaheb Ambedkar College of Law, Nagpur",
+    "location": "Nagpur, Maharashtra",
+    "type": "Government",
+    "source": "https://collegedunia.com/llb/nagpur-colleges, https://www.shiksha.com/college/dr-b-r-ambedkar-college-of-law-nagpur-70351/placement",
+    "overallPlacementStats": {
+      "avgStudentsPlacedPerYear": 85,
+      "overallPlacementRate": 70
+    },
+    "courses": [
+      {
+        "name": "LLB (Bachelor of Laws)",
+        "shortName": "LLB",
+        "duration": "3 years",
+        "fees": 52500,
+        "avgPackage": 400000,
+        "placementRate": 72,
+        "avgStudentsPlacedPerYear": 75,
+        "growthRate": 0.085,
+        "discountRate": 0.08,
+        "careerYears": 35,
+        "stream": "Arts"
+      }
+    ]
+  },
+  {
+    "name": "GH Raisoni Law School, Nagpur",
+    "location": "Nagpur, Maharashtra",
+    "type": "Private",
+    "source": "https://collegedunia.com/llb/nagpur-colleges, https://applylynk.com/colleges/law-colleges-in-nagpur",
+    "overallPlacementStats": {
+      "avgStudentsPlacedPerYear": 65,
+      "overallPlacementRate": 68
+    },
+    "courses": [
+      {
+        "name": "BA LLB (Bachelor of Arts + Bachelor of Laws)",
+        "shortName": "BA LLB",
+        "duration": "5 years",
+        "fees": 93000,
+        "avgPackage": 380000,
+        "placementRate": 70,
+        "avgStudentsPlacedPerYear": 50,
+        "growthRate": 0.085,
+        "discountRate": 0.08,
+        "careerYears": 35,
+        "stream": "Arts"
+      },
+      {
+        "name": "LLB (Bachelor of Laws)",
+        "shortName": "LLB",
+        "duration": "3 years",
+        "fees": 85000,
+        "avgPackage": 320000,
+        "placementRate": 65,
+        "avgStudentsPlacedPerYear": 15,
+        "growthRate": 0.085,
+        "discountRate": 0.08,
+        "careerYears": 35,
+        "stream": "Arts"
+      }
+    ]
+  }
+]

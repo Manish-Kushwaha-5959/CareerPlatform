@@ -1,0 +1,65 @@
+[
+  {
+    "college": "S.K.B. College of Pharmacy, Gada, Kamptee",
+    "AISHE_code": "C-66485",
+    "courses": [
+      {
+        "name": "D. Pharm",
+        "specializations": null,
+        "duration": "2 Year",
+        "eligibility": null,
+        "tuition_fee": null,
+        "annual_fee": null
+      },
+      {
+        "name": "B. Pharm",
+        "specializations": null,
+        "duration": "4 Year",
+        "eligibility": null,
+        "tuition_fee": null,
+        "annual_fee": null
+      }
+    ],
+    "note": "Fees vary by specialization, category, and may include additional development and exam fees."
+  },
+  {
+    "college": "Central Provincial Arts Commerce and Science Mahila Mahavidyalaya",
+    "AISHE_code": "C-63712",
+    "courses": [
+      {
+        "name": "Bachelor of Arts (B.A.)",
+        "specializations": null,
+        "duration": "3 years",
+        "eligibility": "Candidate must have passed 10+2 from a recognised board/council.",
+        "tuition_fee": null,
+        "annual_fee": null
+      },
+      {
+        "name": "Bachelor of Commerce (B.Com)",
+        "specializations": null,
+        "duration": "3 years",
+        "eligibility": "Candidate must have passed 10+2 with some compulsory subjects including Accountancy, Business Studies, Maths/optional subject, and/ or Economics.",
+        "tuition_fee": null,
+        "annual_fee": null
+      },
+      {
+        "name": "Bachelor of Science (B.Sc.)",
+        "specializations": [
+          "Information Technology",
+          "Computer Science"
+        ],
+        "duration": "3 years",
+        "eligibility": "Candidate must have passed 10+2 examination with Science stream from a recognised board.",
+        "tuition_fee": null,
+        "annual_fee": null
+      }
+    ],
+    "note": "Fees vary by specialization, category, and may include additional development and exam fees."
+  },
+  {
+    "college": "AVDHOOT MAHILA MAHAVIDYALAYA KUHI",
+    "AISHE_code": "C-68627",
+    "courses": [],
+    "note": "Fees vary by specialization, category, and may include additional development and exam fees."
+  }
+]

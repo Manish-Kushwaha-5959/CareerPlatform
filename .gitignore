@@ -1,0 +1,53 @@
+# Node modules
+node_modules/
+
+# Build output
+.next/
+out/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Env files
+
+# VSCode settings
+.vscode/
+
+# Dependency directories
+.pnp/
+.pnp.js
+
+# Misc
+*.swp
+*.swo
+.idea/
+
+__pycache__/
+*.pyc
+
+# Python virtual environment
+venv/
+Backend/venv/
+
+# Environment variables files
+.env
+*/.env
+
+# Python build cache
+**/__pycache__/
+*.pyc
+
+# Ignore extra requirements file
+Backend/requirements1.txt
+requirements1.txt
+
+public
+
+
+Backend
