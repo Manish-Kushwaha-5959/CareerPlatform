@@ -1,0 +1,25 @@
+{
+  "farming": [
+    "Agriculture Farmer / Entrepreneur",
+    "Horticulture Specialist"
+  ],
+  "farm": "Agriculture Farmer / Entrepreneur",
+  "agriculture": [
+    "Agriculture Farmer / Entrepreneur"
+  ],
+  "family business": [
+    "Family Business (Personal)"
+  ],
+  "family shop": [
+    "Family Business (Personal)"
+  ],
+  "software": "Software Developer",
+  "developer": "Software Developer",
+  "data": "Data Analyst",
+  "datascientist": "Data Scientist",
+  "ai": "Machine Learning Engineer",
+  "ml": "Machine Learning Engineer",
+  "doctor": "Physician (Doctor)",
+  "teacher": "Teacher / Lecturer",
+  "engineer": "Mechanical Engineer"
+}
