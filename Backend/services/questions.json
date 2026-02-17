@@ -1,0 +1,79 @@
+{
+  "R": [
+    "Do you enjoy fixing or assembling things with your hands?",
+    "Do you feel comfortable operating tools, machines, or physical equipment?",
+    "Would you choose an outdoor or field task over a desk task?",
+    "Do you enjoy building models, DIY setups or working with hardware?",
+    "Do you prefer tasks that involve physical movement rather than sitting for long hours?",
+    "Does working in workshops, labs, or open practical environments interest you?",
+    "Do you find satisfaction in repairing broken items and making them work?",
+    "Do activities like carpentry, electronics setup, or mechanical tinkering excite you?",
+    "Do you enjoy activities that involve strength, coordination or manual skills?",
+    "Do you feel confident performing tasks that require practical, hands-on approaches?"
+  ],
+
+  "I": [
+    "Do you enjoy solving logical or analytical problems?",
+    "Do you like understanding how systems or processes function internally?",
+    "Do you enjoy conducting experiments or testing ideas to see what works?",
+    "Do you feel curious when exploring scientific or technical topics?",
+    "Do you enjoy tasks that require pattern recognition or data reasoning?",
+    "Do you like researching, investigating or learning deeply about subjects?",
+    "Do you enjoy working with numbers, logic puzzles, or technical questions?",
+    "Do you get satisfaction when you find solutions through reasoning?",
+    "Does exploring topics like technology, biology or mathematics interest you?",
+    "Do you prefer thinking-based tasks over physical or routine tasks?"
+  ],
+
+  "A": [
+    "Do you enjoy creating things like drawings, stories, sounds, or designs?",
+    "Do you prefer flexible tasks that allow self-expression over fixed routines?",
+    "Do you enjoy brainstorming new ideas or imagining possibilities?",
+    "Do you like working on creative projects even without instructions?",
+    "Do you enjoy expressing thoughts through visuals, words, or movement?",
+    "Do innovative and unique ideas naturally come to your mind?",
+    "Do creative activities make you feel more engaged compared to analytical ones?",
+    "Do you like experimenting with aesthetics — style, color, composition, themes?",
+    "Do you enjoy capturing emotions or messages through creative forms?",
+    "Do you often think of unconventional ways to solve a problem?"
+  ],
+
+  "S": [
+    "Do you enjoy helping or guiding others when they struggle?",
+    "Do you feel comfortable communicating with people regularly?",
+    "Do you like working in cooperative group settings rather than alone?",
+    "Do you feel satisfied when you make someone feel understood?",
+    "Do you enjoy listening to others and supporting their needs?",
+    "Do you prefer tasks involving interaction over tasks done silently?",
+    "Do you enjoy organizing group activities or community involvement?",
+    "Do you find it natural to empathize and understand people’s emotions?",
+    "Do you enjoy teaching or explaining concepts to others?",
+    "Do you like participating in group discussions, presentations, or social tasks?"
+  ],
+
+  "E": [
+    "Do you enjoy taking leadership roles during group tasks?",
+    "Do you like planning and managing activities or events?",
+    "Do you feel confident making decisions for a group?",
+    "Do you enjoy motivating others to achieve goals?",
+    "Do you like speaking in front of people or presenting ideas?",
+    "Do you aim for positions where responsibility and authority are involved?",
+    "Do competition-based challenges excite you?",
+    "Do you prefer dynamic environments with targets and achievements?",
+    "Do you enjoy negotiating or influencing others through ideas or arguments?",
+    "Do you feel energized when you have control over planning and outcomes?"
+  ],
+
+  "C": [
+    "Do you prefer organized and well-structured work environments?",
+    "Do you enjoy maintaining records, notes, or documentation?",
+    "Do you like working with data, forms, schedules or structured files?",
+    "Do you feel satisfied when tasks are completed neatly and systematically?",
+    "Do you enjoy following rules and step-by-step procedures?",
+    "Do you like organizing information into categories or lists?",
+    "Do you find comfort in predictable routines and clarity of instructions?",
+    "Do careful, detail-oriented tasks suit you?",
+    "Do you enjoy tasks like accounting, budgeting, or sorting information (without naming careers)?",
+    "Do you prefer accuracy and precision over creative flexibility?"
+  ]
+}

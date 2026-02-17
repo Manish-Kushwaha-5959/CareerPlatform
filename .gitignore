@@ -1,0 +1,75 @@
+# Node modules
+node_modules/
+
+# Build output
+.next/
+out/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Env files
+
+# VSCode settings
+.vscode/
+
+# Dependency directories
+.pnp/
+.pnp.js
+
+# Misc
+*.swp
+*.swo
+.idea/
+
+__pycache__/
+*.pyc
+
+# Python virtual environment
+venv/
+Backend/venv/
+
+# Environment variables files
+.env
+*.env
+
+# Python build cache
+**/__pycache__/
+*.pyc
+
+# Ignore extra requirements file
+Backend/requirements1.txt
+requirements1.txt
+
+public
+src
+college_courses_output.json
+components.json
+downloaded_notice.pdf
+eslint.config.js
+exam_notice.pdf
+index.html
+jsconfig.json
+package-lock.json
+package.json
+postcss.config.js
+tailwind.config.js
+vite.config.js
+
+Backend/config
+# Backend/data
+# Backend/services
+Backend/routes
+Backend/app.py
+Backend/careers_master_final.json
+Backend/riasec_codes_full.json
+Backend/test.py
+Backend/timeline1.py
+Backend/upload_to_mongo.py
+Backend/aa.py

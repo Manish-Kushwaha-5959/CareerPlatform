@@ -1,0 +1,38 @@
+# Ignore Python cache folders everywhere
+**/__pycache__/
+__pycache__/
+
+# Ignore compiled Python files
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+venv/
+env/
+.venv/
+ENV/
+
+# Environment variables
+.env
+*.env
+
+# VSCode settings
+.vscode/
+
+# Pytest / Cache
+.pytest_cache/
+.cache/
+
+# Byte-compiled files
+*$py.class
+
+# Logs
+*.log
+
+# Jupyter Notebook checkpoints (if any)
+.ipynb_checkpoints/
+
+# Mac / Windows system files
+.DS_Store
+Thumbs.db
