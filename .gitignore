@@ -62,7 +62,7 @@ postcss.config.js
 tailwind.config.js
 vite.config.js
 
-Backend/config
+# Backend/config
 # Backend/data
 # Backend/services
 Backend/routes
