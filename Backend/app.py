@@ -1,4 +1,4 @@
-from flask import Flask, jsonify, request
+from flask import Flask, app, jsonify, request
 from flask_cors import CORS
 from dotenv import load_dotenv
 import os
@@ -17,6 +17,8 @@ from routes.timeline import timeline_routes
 from routes.pata_nahi import voice_riasec_bp
 from routes.quiz2 import quiz_bp
 from routes.voice_call_routes import call_bp
+from routes.resume_analyse import resume_analyse_routes
+
 
 
 def create_app() -> Flask:
@@ -24,7 +26,7 @@ def create_app() -> Flask:
 
     app = Flask(__name__)
 
-    # ✅ IMPORTANT: Set secret key here
+    
     app.secret_key = os.getenv("FLASK_SECRET_KEY", "super_secret_key_123")
 
     CORS(
@@ -52,7 +54,7 @@ def create_app() -> Flask:
         generation_config=settings.gemini_generation_config()
     )
 
-    # Register blueprints
+   
     app.register_blueprint(create_chat_blueprint(chat_service), url_prefix="/api")
     app.register_blueprint(college_routes, url_prefix="/api")
     app.register_blueprint(content_routes, url_prefix="/api")
@@ -64,8 +66,10 @@ def create_app() -> Flask:
     app.register_blueprint(mindmap_bp, url_prefix="/api")
     app.register_blueprint(voice_riasec_bp, url_prefix="/api")
     app.register_blueprint(call_bp, url_prefix="/api")
+    app.register_blueprint(resume_analyse_routes, url_prefix="/api")
 
-    # ⚠ No prefix here because quiz2.py already defines /api/quiz
+
+   
     app.register_blueprint(quiz_bp)
 
     @app.get("/health")

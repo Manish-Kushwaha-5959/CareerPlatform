@@ -47,29 +47,29 @@ Backend/venv/
 Backend/requirements1.txt
 requirements1.txt
 
-public
-src
-college_courses_output.json
-components.json
-downloaded_notice.pdf
-eslint.config.js
-exam_notice.pdf
-index.html
-jsconfig.json
-package-lock.json
-package.json
-postcss.config.js
-tailwind.config.js
-vite.config.js
+# public
+# src
+# college_courses_output.json
+# components.json
+# downloaded_notice.pdf
+# eslint.config.js
+# exam_notice.pdf
+# index.html
+# jsconfig.json
+# package-lock.json
+# package.json
+# postcss.config.js
+# tailwind.config.js
+# vite.config.js
 
-# Backend/config
-# Backend/data
-# Backend/services
-Backend/routes
-Backend/app.py
-Backend/careers_master_final.json
-Backend/riasec_codes_full.json
-Backend/test.py
-Backend/timeline1.py
-Backend/upload_to_mongo.py
-Backend/aa.py
+# # Backend/config
+# # Backend/data
+# # Backend/services
+# Backend/routes
+# Backend/app.py
+# Backend/careers_master_final.json
+# Backend/riasec_codes_full.json
+# Backend/test.py
+# Backend/timeline1.py
+# Backend/upload_to_mongo.py
+# Backend/aa.py

@@ -1,0 +1,187 @@
+{
+    "title": "Full Stack Developer Roadmap",
+    "groups": [
+        {
+            "id": "g1",
+            "title": "Foundations",
+            "duration": "0–3 months",
+            "order": 1
+        },
+        {
+            "id": "g2",
+            "title": "Front-end Development",
+            "duration": "2–4 months",
+            "order": 2
+        },
+        {
+            "id": "g3",
+            "title": "Back-end Development",
+            "duration": "2–4 months",
+            "order": 3
+        },
+        {
+            "id": "g4",
+            "title": "DevOps, Testing, and Deployment",
+            "duration": "1–3 months",
+            "order": 4
+        },
+        {
+            "id": "g5",
+            "title": "Career Growth and Specialization",
+            "duration": "ongoing",
+            "order": 5
+        }
+    ],
+    "nodes": [
+        {
+            "id": "n1",
+            "title": "Learn programming fundamentals",
+            "group": "g1",
+            "bullets": [
+                "Understand variables, control flow, functions, data structures, and algorithms using JavaScript or Python for web contexts and problem-solving.",
+                "Builds core logic and problem-solving skills necessary for both front-end and back-end development."
+            ],
+            "order": 1
+        },
+        {
+            "id": "n2",
+            "title": "Master HTML & CSS basics",
+            "group": "g1",
+            "bullets": [
+                "Learn semantic HTML elements, accessibility, layout, and responsive design using CSS and Flexbox/Grid for building web page structure.",
+                "Enables creation of well-structured, accessible web interfaces and prepares for framework integration."
+            ],
+            "order": 1
+        },
+        {
+            "id": "n3",
+            "title": "JavaScript core concepts",
+            "group": "g1",
+            "bullets": [
+                "Understand ES6+ syntax, DOM manipulation, asynchronous patterns (Promises, async/await), and modular code structure for client-side behavior.",
+                "Prepares for front-end frameworks and dynamic UI development."
+            ],
+            "order": 1
+        },
+        {
+            "id": "n4",
+            "title": "Learn a modern front-end framework",
+            "group": "g2",
+            "bullets": [
+                "Choose React, Vue, or Angular; learn component architecture, state management, props, lifecycle/hooks, and routing fundamentals.",
+                "Enables rapid UI development and maintainable front-end architectures used in industry."
+            ],
+            "order": 1
+        },
+        {
+            "id": "n5",
+            "title": "Styling and UI tooling",
+            "group": "g2",
+            "bullets": [
+                "Master CSS-in-JS, utility frameworks (Tailwind), responsive design patterns, and design systems for consistent UI development.",
+                "Improves developer productivity and UI consistency across projects."
+            ],
+            "order": 1
+        },
+        {
+            "id": "n6",
+            "title": "Front-end testing and optimization",
+            "group": "g2",
+            "bullets": [
+                "Learn unit, integration, and end-to-end testing with Jest, React Testing Library, or Cypress and performance optimization techniques.",
+                "Ensures reliability and fast user experiences in production applications."
+            ],
+            "order": 1
+        },
+        {
+            "id": "n7",
+            "title": "Learn server-side language and framework",
+            "group": "g3",
+            "bullets": [
+                "Pick Node.js/Express, Python/Django, Ruby/Rails, or similar; learn routing, middleware, templating, and RESTful API design.",
+                "Provides ability to build scalable APIs, server logic, and integrate with databases."
+            ],
+            "order": 1
+        },
+        {
+            "id": "n8",
+            "title": "Databases and storage",
+            "group": "g3",
+            "bullets": [
+                "Learn relational (PostgreSQL/MySQL) and NoSQL (MongoDB) databases, query design, indexing, migrations, and ORMs.",
+                "Enables efficient data modeling, persistence, and retrieval strategies for applications."
+            ],
+            "order": 1
+        },
+        {
+            "id": "n9",
+            "title": "API design and security",
+            "group": "g3",
+            "bullets": [
+                "Master RESTful and GraphQL APIs, input validation, rate limiting, secure authentication (JWT, OAuth), and common vulnerabilities (OWASP).",
+                "Ensures robust, secure, and well-documented back-end services."
+            ],
+            "order": 1
+        },
+        {
+            "id": "n10",
+            "title": "Version control and CI/CD",
+            "group": "g4",
+            "bullets": [
+                "Use Git workflows (branches, PRs), and set up CI pipelines with GitHub Actions, GitLab CI, or similar for automated tests and builds.",
+                "Streamlines collaboration and automates quality checks before deployments."
+            ],
+            "order": 1
+        },
+        {
+            "id": "n11",
+            "title": "Containerization and cloud basics",
+            "group": "g4",
+            "bullets": [
+                "Learn Docker, container orchestration basics (Kubernetes intro), and deploy apps to cloud providers (AWS/GCP/Azure) or platforms (Heroku, Vercel).",
+                "Enables reproducible environments and scalable deployments for production applications."
+            ],
+            "order": 1
+        },
+        {
+            "id": "n12",
+            "title": "Monitoring, observability, and testing",
+            "group": "g4",
+            "bullets": [
+                "Implement logging, metrics, tracing (Prometheus, Grafana, Jaeger), and add end-to-end testing and load testing for reliability.",
+                "Ensures system health, capacity planning, and quick incident response."
+            ],
+            "order": 1
+        },
+        {
+            "id": "n13",
+            "title": "Build projects and portfolio",
+            "group": "g5",
+            "bullets": [
+                "Create diverse portfolio projects: CRUD apps, real-time apps, e-commerce, and CI/CD-deployed demos showcasing full-stack abilities.",
+                "Demonstrates practical skills to employers and supports interview readiness."
+            ],
+            "order": 1
+        },
+        {
+            "id": "n14",
+            "title": "Interview preparation and soft skills",
+            "group": "g5",
+            "bullets": [
+                "Prepare system design, algorithms, behavioral interviews, and improve communication, time management, and teamwork skills.",
+                "Helps secure roles and succeed in cross-functional engineering environments."
+            ],
+            "order": 1
+        },
+        {
+            "id": "n15",
+            "title": "Specialize or advance skills",
+            "group": "g5",
+            "bullets": [
+                "Choose specializations like DevOps, data engineering, mobile, or ML integration and pursue certifications or advanced topics accordingly.",
+                "Enables deeper career paths, higher impact roles, and technical leadership opportunities."
+            ],
+            "order": 1
+        }
+    ]
+}
